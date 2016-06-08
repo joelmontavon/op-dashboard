@@ -1,0 +1,220 @@
+      <div ng-controller="opportunitiesController">
+		<div class="row top-buffer"></div>
+        <div class="col-md-6">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">{{grouping.header}}</h3>
+              </div>
+              <div class="panel-body text-center">
+                <div class="col-md-6 center-block">
+                  <svg id="opps-donut">
+                    <g></g>
+                  </svg>
+                </div>
+                <div class="col-md-6 center-block">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="good" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> All Measures at 4-Stars+</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="so-so" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> 1-2 Measures at 4-Stars+</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="bad" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> No Measures at 4-Stars+</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Projected Year-End Adherence Scores by {{grouping.name}}</h3>
+            </div>
+            <div class="panel-body">
+            <table id="opps-table" class="table table-striped table-hover">
+              <thead>
+                <tr>
+                  <th>{{grouping.name}}</th>
+                  <th>Members</th>
+                  <th>Diabetes</th>
+                  <th>RASAs</th>
+                  <th>Statins</th>
+                </tr>
+              </thead>
+              <tbody></tbody>
+            </table>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="row">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">Options</h3>
+              </div>
+              <div class="panel-body">
+                <div class="form-horizontal">
+                  <div class="form-group">
+                    <div class="col-md-2">
+                      <label>Group By: </label>
+                    </div>
+                    <div class="col-md-10">
+                      <select ng-model="selectedGroupingType" ng-change="selectChanged()">
+                        <option ng-repeat="item in groupings" value="{{item.value}}">{{item.name}}</option>
+                      </select>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">Opportunities by Month</h3>
+              </div>
+              <div class="panel-body">
+			  			  <div class="col-md-8">
+                <svg id="opps-line-chart">
+                  <g></g>
+                </svg>
+				</div>
+				<div class="col-md-4">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="ninety-ds-opp" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> 90-Day Supply</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="chronic-non-adh-opp" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> Chronic Non-Adherent</td>
+                      </tr>
+                      <!--<tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="med-sync-opp" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> Medication Synchronization</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="gap-opp" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> Gap</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="network-opp" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> Network</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="hrm-opp" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> High Risk Medications</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="statin-diab-opp" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> Statin Use in Diabetes</td>
+                      </tr>-->
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">Opportunities by Program</h3>
+              </div>
+              <div class="panel-body">
+                <table class="table table-striped table-hover">
+                  <thead>
+                    <tr>
+                      <th>Program</th>
+                      <th>{{selectedGrouping}} (% of total members)</th>
+					  <th>All MAPD Members (% of total members)</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <th>90-Day Supply</th>
+                      <td>{{opps.ninety_ds_opp | number: 0}} ({{opps.ninety_ds_opp/opps.members | percentage: 0}})</td>
+					  <td>{{all_opps.ninety_ds_opp | number: 0}} ({{all_opps.ninety_ds_opp/all_opps.members | percentage: 0}})</td>
+                    </tr>
+                    <tr>
+                      <th>Chronic Non-Adherent</th>
+                      <td>{{opps.chronic_non_adh_opp | number: 0}} ({{opps.chronic_non_adh_opp/opps.members | percentage: 0}})</td>
+                      <td>{{all_opps.chronic_non_adh_opp | number: 0}} ({{all_opps.chronic_non_adh_opp/all_opps.members | percentage: 0}})</td>
+                    </tr>
+                    <!--<tr>
+                      <th>Medication Synchronization</th>
+                      <td>{{opps.med_sync_opp | number: 0}} ({{opps.med_sync_opp/opps.members | percentage: 0}})</td>
+					  <td>{{all_opps.med_sync_opp | number: 0}} ({{all_opps.med_sync_opp/all_opps.members | percentage: 0}})</td>
+                    </tr>
+                    <tr>
+                      <th>Gap</th>
+                      <td>{{opps.gap_opp | number: 0}} ({{opps.gap_opp/opps.members | percentage: 0}})</td>
+					  <td>{{all_opps.gap_opp | number: 0}} ({{all_opps.gap_opp/all_opps.members | percentage: 0}})</td>
+                    </tr>
+                    <tr>
+                      <th>Network</th>
+                      <td>{{opps.network_opp | number: 0}} ({{opps.network_opp/opps.members | percentage: 0}})</td>
+					  <td>{{all_opps.network_opp | number: 0}} ({{all_opps.network_opp/all_opps.members | percentage: 0}})</td>
+                    </tr>
+                    <tr>
+                      <th>High Risk Medications</th>
+                      <td>{{opps.hrm_opp | number: 0}} ({{opps.hrm_opp/opps.members | percentage: 0}})</td>
+					  <td>{{all_opps.hrm_opp | number: 0}} ({{all_opps.hrm_opp/all_opps.members | percentage: 0}})</td>
+                    </tr>
+                    <tr>
+                      <th>Statin Use in Diabetes</th>
+                      <td>{{opps.statin_diab_opp | number: 0}} ({{opps.statin_diab_opp/opps.members | percentage: 0}})</td>
+					  <td>{{all_opps.statin_diab_opp | number: 0}} ({{all_opps.statin_diab_opp/all_opps.members | percentage: 0}})</td>
+                    </tr>-->
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+	  </div>

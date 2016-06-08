@@ -1,0 +1,132 @@
+      <div ng-controller="measuresController">
+		<div class="row top-buffer"></div>
+        <div class="col-md-6">
+          <div class="row">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">{{thresholds[threshold].title}}</h3>
+              </div>
+              <div class="panel-body">
+                <div class="col-md-6 center-block">
+                  <svg id="measures-donut">
+                    <g></g>
+                  </svg>
+                </div>
+                <div class="col-md-6 center-block">
+                  <table>
+                    <tbody>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="good" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> {{thresholds[threshold].good}}</td>
+                      </tr>
+                      <tr>
+                        <td>
+                          <svg height="16" width="16">
+                            <rect class="bad" height="16" width="16"></rect>
+                          </svg>
+                        </td>
+                        <td> {{thresholds[threshold].bad}}</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Contract Performance</h3>
+            </div>
+            <div class="panel-body">
+              <svg id="measures-bar-chart">
+                <g></g>
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="row">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                <h3 class="panel-title">Options</h3>
+              </div>
+              <div class="panel-body">
+                <div class="form-horizontal">
+                  <div class="form-group">
+                    <label class="col-md-2 control-label">Measure:</label>
+                    <div id="option" class="col-md-10">
+                      <select id="select" ng-model="measure" ng-change="measureChanged()">
+                        <option ng-repeat="item in options" value="{{item.value}}">{{item.name}}</option>
+                      </select>
+                    </div>
+                  </div>
+                  <div class="form-group">
+                    <label class="col-md-2 control-label">Threshold:</label>
+                    <div class="col-md-10">
+                      <div id="radio" class="radio">
+                        <label>
+                          <input type="radio" ng-model="threshold" ng-change="thresholdChanged()" name="optionsRadios" id="optionsRadios1" value="goal" checked="" /> Contract Goal
+                        </label>
+                        <label>
+                          <input type="radio" ng-model="threshold" ng-change="thresholdChanged()" name="optionsRadios" id="optionsRadios2" value="fourStarThresh" /> Projected 4-Star Threshold
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                  <!--<div class="form-group checkbox">
+                    <div class="col-md-offset-2 col-md-10">
+                      <label>
+                        <input id="measures-checkbox" type="checkbox" ng-model="includeConsolidated" ng-change="update()" /> Include consolidating contracts
+                      </label>
+                    </div>
+                  </div>-->
+                </div>
+              </div>
+            </div>
+          </div>
+		  <div class="row">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">PDC Bands - {{contract}}</h3>
+            </div>
+            <div class="panel-body">
+              <svg id="measures-vert-bar-chart">
+                <g></g>
+              </svg>
+              <div id="measures-vert-bar-chart"></div>
+            </div>
+          </div>
+		  </div>
+		  <div class="row">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">Measure Status - {{contract}}</h3>
+            </div>
+            <div class="panel-body">
+              <table class="table table-striped table-hover">
+				<thead>
+					<tr>
+						<th>Month</th>
+						<th>Failed</th>
+						<th>In-Play</th>
+						<th>Achieved</th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr ng-repeat="obj in inplay">
+						<td>{{months[obj.month - 1]}}</td>
+						<td>{{obj.failed | number: 0}} ({{obj.failed/obj.total | percentage : 0}})</td>
+						<td>{{obj.in_play | number: 0}} ({{obj.in_play/obj.total | percentage : 0}})</td>
+						<td>{{obj.achieved | number: 0}} ({{obj.achieved/obj.total | percentage : 0}})</td>
+					</tr>
+				</tbody>
+			  </table>
+            </div>
+          </div>
+		  </div>
+        </div>
+	  </div>
