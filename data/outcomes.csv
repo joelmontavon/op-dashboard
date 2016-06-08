@@ -1,0 +1,80 @@
+CMS_CNTRCT_NBR,program_name,reached,_late_to_refill,days_to_refill_band,members,days_missed,days_to_refill
+H1234,Silverlink,0,0,7-Apr,1,0,4
+H1234,U of Fl,0,0,7-Apr,8,4,43
+H1234,U of Fl,0,0,1-Aug,3,0,29
+H1234,Silverlink,0,0,<=3,30,171,0
+H1234,Silverlink,0,0,<=3,548,3098,0
+H1234,U of Fl,0,0,<=3,1144,7276,1
+H1234,Silverlink,0,0,>10,2,0,71
+H1234,Silverlink,0,0,>10,26,41,2254
+H1234,U of Fl,0,0,>10,58,161,5662
+H1234,Silverlink,0,1,7-Apr,1,5,5
+H1234,Silverlink,0,1,7-Apr,31,305,169
+H1234,U of Fl,0,1,7-Apr,46,487,265
+H1234,Silverlink,0,1,1-Aug,16,226,140
+H1234,U of Fl,0,1,1-Aug,19,243,166
+H1234,Silverlink,0,1,<=3,31,108,46
+H1234,U of Fl,0,1,<=3,42,364,92
+H1234,Silverlink,0,1,>10,7,293,438
+H1234,Silverlink,0,1,>10,206,8760,14784
+H1234,U of Fl,0,1,>10,193,7497,13292
+H1234,Silverlink,1,0,7-Apr,2,16,11
+H1234,Silverlink,1,0,<=3,13,75,0
+H1234,Silverlink,1,0,<=3,455,1957,5
+H1234,U of Fl,1,0,<=3,828,5964,3
+H1234,Silverlink,1,0,>10,2,5,191
+H1234,Silverlink,1,0,>10,24,39,1888
+H1234,U of Fl,1,0,>10,41,249,3563
+H1234,Silverlink,1,1,7-Apr,33,199,175
+H1234,U of Fl,1,1,7-Apr,26,239,147
+H1234,Silverlink,1,1,1-Aug,1,8,8
+H1234,Silverlink,1,1,1-Aug,16,199,150
+H1234,U of Fl,1,1,1-Aug,14,158,121
+H1234,Silverlink,1,1,<=3,2,4,4
+H1234,Silverlink,1,1,<=3,54,249,101
+H1234,U of Fl,1,1,<=3,20,104,41
+H1234,Silverlink,1,1,>10,2,80,152
+H1234,Silverlink,1,1,>10,162,6784,11801
+H1234,U of Fl,1,1,>10,160,5887,9970
+H2345,Silverlink,0,0,7-Apr,5,0,31
+H2345,U of Fl,0,0,7-Apr,8,17,47
+H2345,Silverlink,0,0,1-Aug,2,0,16
+H2345,U of Fl,0,0,1-Aug,9,49,83
+H2345,Silverlink,0,0,<=3,28,224,0
+H2345,Silverlink,0,0,<=3,1169,6983,7
+H2345,U of Fl,0,0,<=3,3482,22139,10
+H2345,Silverlink,0,0,>10,3,46,312
+H2345,Silverlink,0,0,>10,59,137,5122
+H2345,U of Fl,0,0,>10,213,912,21461
+H2345,Silverlink,0,1,7-Apr,2,36,13
+H2345,Silverlink,0,1,7-Apr,65,718,362
+H2345,U of Fl,0,1,7-Apr,95,1026,544
+H2345,Silverlink,0,1,1-Aug,1,9,9
+H2345,Silverlink,0,1,1-Aug,41,530,364
+H2345,U of Fl,0,1,1-Aug,69,951,609
+H2345,Silverlink,0,1,<=3,2,19,4
+H2345,Silverlink,0,1,<=3,63,360,111
+H2345,U of Fl,0,1,<=3,126,952,236
+H2345,Silverlink,0,1,>10,8,357,604
+H2345,Silverlink,0,1,>10,425,17406,28813
+H2345,U of Fl,0,1,>10,550,21473,35204
+H2345,Silverlink,1,0,7-Apr,2,2,9
+H2345,U of Fl,1,0,7-Apr,1,1,6
+H2345,Silverlink,1,0,1-Aug,1,0,9
+H2345,U of Fl,1,0,1-Aug,2,12,19
+H2345,Silverlink,1,0,<=3,29,113,0
+H2345,Silverlink,1,0,<=3,1003,4722,8
+H2345,U of Fl,1,0,<=3,1898,12414,6
+H2345,Silverlink,1,0,>10,4,0,330
+H2345,Silverlink,1,0,>10,50,87,3117
+H2345,U of Fl,1,0,>10,97,288,9679
+H2345,Silverlink,1,1,7-Apr,61,501,324
+H2345,U of Fl,1,1,7-Apr,52,607,298
+H2345,Silverlink,1,1,1-Aug,25,394,223
+H2345,U of Fl,1,1,1-Aug,33,402,295
+H2345,Silverlink,1,1,<=3,4,22,8
+H2345,Silverlink,1,1,<=3,81,400,173
+H2345,U of Fl,1,1,<=3,41,204,78
+H2345,Silverlink,1,1,>10,3,145,222
+H2345,Silverlink,1,1,>10,341,14236,24021
+H2345,U of Fl,1,1,>10,261,10588,17924

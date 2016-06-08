@@ -1,0 +1,269 @@
+contract,state,program,drug_category,targeted,outreached,reached,completed
+H1234,AL,IVR,High Cholesterol,1,1,0,0
+H1234,AR,IVR,High Blood Pressure,4,4,3,1
+H1234,AR,IVR,High Cholesterol,3,2,2,1
+H1234,AZ,IVR,High Blood Pressure,19,18,16,6
+H1234,AZ,IVR,High Cholesterol,20,19,17,8
+H1234,AZ,Live Call,High Blood Pressure,4,1,0,0
+H1234,AZ,Live Call,High Cholesterol,5,0,,
+H1234,CA,IVR,Diabetes,1,1,0,0
+H1234,CA,IVR,High Blood Pressure,3,3,1,0
+H1234,CA,IVR,High Cholesterol,2,2,1,0
+H1234,CA,Live Call,High Blood Pressure,1,1,0,0
+H1234,CA,Live Call,High Cholesterol,1,1,0,0
+H1234,CO,IVR,Diabetes,3,3,1,1
+H1234,CO,IVR,High Blood Pressure,7,6,2,1
+H1234,CO,IVR,High Cholesterol,9,7,2,1
+H1234,CO,Live Call,Diabetes,1,0,,
+H1234,CO,Live Call,High Blood Pressure,2,1,0,0
+H1234,CO,Live Call,High Cholesterol,1,0,,
+H1234,FL,IVR,Diabetes,6,3,2,2
+H1234,FL,IVR,High Blood Pressure,14,12,5,2
+H1234,FL,IVR,High Cholesterol,18,15,6,3
+H1234,GA,IVR,High Cholesterol,1,1,1,1
+H1234,GA,Live Call,High Blood Pressure,1,0,,
+H1234,IA,IVR,Diabetes,5921,4249,2333,1143
+H1234,IA,IVR,High Blood Pressure,15943,11494,6425,3110
+H1234,IA,IVR,High Cholesterol,18094,13265,7452,3554
+H1234,IA,Live Call,Diabetes,1218,538,218,166
+H1234,IA,Live Call,High Blood Pressure,2959,1133,478,363
+H1234,IA,Live Call,High Cholesterol,3356,1234,494,376
+H1234,ID,IVR,High Blood Pressure,5,4,0,0
+H1234,ID,IVR,High Cholesterol,5,4,0,0
+H1234,IL,IVR,High Blood Pressure,2,2,1,0
+H1234,IL,IVR,High Cholesterol,2,2,1,0
+H1234,IL,Live Call,Diabetes,1,1,0,0
+H1234,IL,Live Call,High Blood Pressure,1,1,0,0
+H1234,KS,IVR,High Blood Pressure,1,1,0,0
+H1234,KS,IVR,High Cholesterol,1,1,0,0
+H1234,KS,Live Call,Diabetes,1,1,1,0
+H1234,KS,Live Call,High Blood Pressure,1,1,1,0
+H1234,KS,Live Call,High Cholesterol,1,1,1,0
+H1234,KY,IVR,High Blood Pressure,3,3,3,2
+H1234,KY,IVR,High Cholesterol,3,3,3,2
+H1234,LA,IVR,High Blood Pressure,1,1,1,1
+H1234,LA,IVR,High Cholesterol,1,1,1,1
+H1234,MA,IVR,High Blood Pressure,2,2,0,0
+H1234,MA,IVR,High Cholesterol,2,2,0,0
+H1234,MA,Live Call,High Blood Pressure,1,1,0,0
+H1234,MA,Live Call,High Cholesterol,1,1,0,0
+H1234,MI,Live Call,High Blood Pressure,1,1,0,0
+H1234,MI,Live Call,High Cholesterol,1,1,0,0
+H1234,MN,IVR,High Blood Pressure,1,1,0,0
+H1234,MN,IVR,High Cholesterol,5,5,0,0
+H1234,MO,IVR,High Blood Pressure,3,3,0,0
+H1234,MO,IVR,High Cholesterol,7,4,2,1
+H1234,MO,Live Call,High Cholesterol,2,2,0,0
+H1234,MS,IVR,High Blood Pressure,2,0,,
+H1234,ND,IVR,High Cholesterol,5,4,0,0
+H1234,ND,Live Call,High Cholesterol,1,0,,
+H1234,NE,IVR,Diabetes,5,5,4,3
+H1234,NE,IVR,High Blood Pressure,14,13,10,7
+H1234,NE,IVR,High Cholesterol,14,13,8,2
+H1234,NE,Live Call,Diabetes,7,2,2,2
+H1234,NE,Live Call,High Blood Pressure,7,2,2,2
+H1234,NE,Live Call,High Cholesterol,9,2,2,2
+H1234,NM,IVR,High Cholesterol,4,4,3,1
+H1234,PA,IVR,High Cholesterol,4,0,,
+H1234,RI,IVR,High Blood Pressure,1,0,,
+H1234,RI,IVR,High Cholesterol,1,0,,
+H1234,SD,IVR,Diabetes,351,234,120,66
+H1234,SD,IVR,High Blood Pressure,799,582,302,149
+H1234,SD,IVR,High Cholesterol,833,608,312,142
+H1234,SD,Live Call,Diabetes,78,28,13,9
+H1234,SD,Live Call,High Blood Pressure,179,69,29,23
+H1234,SD,Live Call,High Cholesterol,161,63,22,16
+H1234,TX,IVR,High Blood Pressure,5,2,1,0
+H1234,TX,IVR,High Cholesterol,9,8,3,1
+H1234,TX,Live Call,High Blood Pressure,2,1,0,0
+H1234,TX,Live Call,High Cholesterol,2,1,0,0
+H1234,VA,IVR,High Blood Pressure,1,1,1,1
+H1234,VA,IVR,High Cholesterol,1,1,1,1
+H1234,WA,IVR,High Blood Pressure,8,3,2,1
+H1234,WA,IVR,High Cholesterol,2,2,1,0
+H1234,WI,IVR,High Blood Pressure,3,2,1,0
+H1234,WI,IVR,High Cholesterol,5,4,1,0
+H2345,AR,IVR,Diabetes,1,1,0,0
+H2345,AR,IVR,High Blood Pressure,2,1,0,0
+H2345,AR,IVR,High Cholesterol,1,0,,
+H2345,AZ,IVR,High Blood Pressure,5,2,1,0
+H2345,AZ,IVR,High Cholesterol,5,1,0,0
+H2345,CA,IVR,Diabetes,4,0,,
+H2345,CA,IVR,High Blood Pressure,7,7,6,3
+H2345,CA,IVR,High Cholesterol,7,7,6,3
+H2345,CA,Live Call,Diabetes,1,1,1,0
+H2345,CA,Live Call,High Blood Pressure,1,0,,
+H2345,CA,Live Call,High Cholesterol,1,0,,
+H2345,CO,IVR,High Blood Pressure,7,5,4,1
+H2345,CO,IVR,High Cholesterol,7,5,4,1
+H2345,CO,Live Call,High Cholesterol,1,1,0,0
+H2345,DE,IVR,High Cholesterol,1,0,,
+H2345,FL,IVR,Diabetes,3,3,3,0
+H2345,FL,IVR,High Blood Pressure,12,10,8,5
+H2345,FL,IVR,High Cholesterol,25,22,13,4
+H2345,FL,Live Call,Diabetes,1,1,0,0
+H2345,FL,Live Call,High Blood Pressure,1,0,,
+H2345,FL,Live Call,High Cholesterol,2,2,0,0
+H2345,GA,IVR,High Blood Pressure,5,3,2,2
+H2345,GA,IVR,High Cholesterol,3,1,0,0
+H2345,GA,Live Call,High Blood Pressure,1,0,,
+H2345,IA,IVR,Diabetes,3,3,2,1
+H2345,IA,IVR,High Blood Pressure,3,3,0,0
+H2345,IA,IVR,High Cholesterol,4,4,0,0
+H2345,IA,Live Call,High Blood Pressure,1,1,0,0
+H2345,IA,Live Call,High Cholesterol,2,1,0,0
+H2345,IL,IVR,Diabetes,2855,2268,1242,670
+H2345,IL,IVR,High Blood Pressure,7965,6366,3528,1773
+H2345,IL,IVR,High Cholesterol,8690,6986,3898,2006
+H2345,IL,Live Call,Diabetes,1203,533,177,140
+H2345,IL,Live Call,High Blood Pressure,2816,1127,378,286
+H2345,IL,Live Call,High Cholesterol,3088,1225,410,316
+H2345,IN,IVR,High Blood Pressure,2,2,1,1
+H2345,KS,IVR,Diabetes,4,0,,
+H2345,KS,IVR,High Blood Pressure,4,4,2,1
+H2345,KS,IVR,High Cholesterol,6,6,4,1
+H2345,KY,IVR,Diabetes,1,0,,
+H2345,MA,IVR,High Blood Pressure,3,2,0,0
+H2345,MI,IVR,High Blood Pressure,3,3,1,1
+H2345,MI,IVR,High Cholesterol,5,5,2,1
+H2345,MI,Live Call,High Cholesterol,2,1,0,0
+H2345,MO,IVR,Diabetes,10496,7342,3947,1986
+H2345,MO,IVR,High Blood Pressure,27970,19355,10733,5246
+H2345,MO,IVR,High Cholesterol,28944,20427,11403,5468
+H2345,MO,Live Call,Diabetes,3385,979,343,258
+H2345,MO,Live Call,High Blood Pressure,8050,2055,721,537
+H2345,MO,Live Call,High Cholesterol,8283,2168,761,559
+H2345,MS,IVR,Diabetes,4,2,2,2
+H2345,MS,IVR,High Blood Pressure,4,2,2,2
+H2345,MS,IVR,High Cholesterol,6,4,2,2
+H2345,MT,IVR,High Blood Pressure,2,2,0,0
+H2345,MT,IVR,High Cholesterol,2,2,0,0
+H2345,ND,IVR,Diabetes,3,2,2,2
+H2345,ND,IVR,High Blood Pressure,1,1,1,1
+H2345,ND,IVR,High Cholesterol,3,2,2,2
+H2345,NJ,IVR,Diabetes,4,2,1,0
+H2345,NJ,IVR,High Blood Pressure,4,3,2,1
+H2345,NJ,IVR,High Cholesterol,6,3,2,1
+H2345,NM,Live Call,High Cholesterol,1,0,,
+H2345,OH,IVR,High Blood Pressure,1,1,0,0
+H2345,OH,IVR,High Cholesterol,2,2,0,0
+H2345,OH,Live Call,Diabetes,1,0,,
+H2345,OH,Live Call,High Cholesterol,1,0,,
+H2345,OK,IVR,Diabetes,3,3,3,2
+H2345,OK,IVR,High Blood Pressure,7,7,5,4
+H2345,OK,IVR,High Cholesterol,3,3,3,2
+H2345,OR,IVR,High Blood Pressure,1,1,0,0
+H2345,PA,IVR,Diabetes,5,4,2,1
+H2345,PA,IVR,High Blood Pressure,4,4,2,1
+H2345,PA,IVR,High Cholesterol,12,7,4,3
+H2345,PA,Live Call,Diabetes,2,1,0,0
+H2345,PA,Live Call,High Cholesterol,2,1,0,0
+H2345,SC,IVR,High Cholesterol,2,2,0,0
+H2345,TN,IVR,Diabetes,4,0,,
+H2345,TN,IVR,High Blood Pressure,10,3,0,0
+H2345,TN,IVR,High Cholesterol,9,4,2,2
+H2345,TX,IVR,Diabetes,4,4,3,1
+H2345,TX,IVR,High Blood Pressure,20,19,8,1
+H2345,TX,IVR,High Cholesterol,20,16,6,0
+H2345,TX,Live Call,Diabetes,1,0,,
+H2345,TX,Live Call,High Blood Pressure,4,3,0,0
+H2345,TX,Live Call,High Cholesterol,3,3,0,0
+H2345,UT,IVR,High Blood Pressure,1,1,1,0
+H2345,UT,IVR,High Cholesterol,2,2,0,0
+H2345,UT,Live Call,High Cholesterol,1,0,,
+H2345,VA,IVR,Diabetes,3,2,0,0
+H2345,VA,IVR,High Cholesterol,1,0,,
+H2345,WA,IVR,High Blood Pressure,1,1,1,0
+H2345,WA,IVR,High Cholesterol,2,2,0,0
+H2345,WA,Live Call,High Cholesterol,1,0,,
+H2345,WI,IVR,Diabetes,6,6,4,3
+H2345,WI,IVR,High Cholesterol,1,1,1,1
+H2345,WI,Live Call,Diabetes,1,0,,
+H2345,WV,IVR,High Blood Pressure,5,4,0,0
+H1234,AL,IVR,Any,1,1,0,0
+H1234,AR,IVR,Any,5,4,3,1
+H1234,AZ,IVR,Any,24,23,20,8
+H1234,AZ,Live Call,Any,6,1,0,0
+H1234,CA,IVR,Any,3,3,1,0
+H1234,CA,Live Call,Any,1,1,0,0
+H1234,CO,IVR,Any,9,7,2,1
+H1234,CO,Live Call,Any,2,1,0,0
+H1234,FL,IVR,Any,21,16,7,3
+H1234,GA,IVR,Any,1,1,1,1
+H1234,GA,Live Call,Any,1,0,,
+H1234,IA,IVR,Any,24283,17882,10062,4856
+H1234,IA,Live Call,Any,4208,1529,627,486
+H1234,ID,IVR,Any,5,4,0,0
+H1234,IL,IVR,Any,4,4,2,0
+H1234,IL,Live Call,Any,1,1,0,0
+H1234,KS,IVR,Any,1,1,0,0
+H1234,KS,Live Call,Any,1,1,1,0
+H1234,KY,IVR,Any,3,3,3,2
+H1234,LA,IVR,Any,1,1,1,1
+H1234,MA,IVR,Any,2,2,0,0
+H1234,MA,Live Call,Any,1,1,0,0
+H1234,MI,Live Call,Any,1,1,0,0
+H1234,MN,IVR,Any,5,5,0,0
+H1234,MO,IVR,Any,9,6,2,1
+H1234,MO,Live Call,Any,2,2,0,0
+H1234,MS,IVR,Any,2,0,,
+H1234,ND,IVR,Any,5,4,0,0
+H1234,ND,Live Call,Any,1,0,,
+H1234,NE,IVR,Any,21,20,14,7
+H1234,NE,Live Call,Any,10,2,2,2
+H1234,NM,IVR,Any,4,4,3,1
+H1234,PA,IVR,Any,4,0,,
+H1234,RI,IVR,Any,1,0,,
+H1234,SD,IVR,Any,1229,902,468,225
+H1234,SD,Live Call,Any,244,89,34,26
+H1234,TX,IVR,Any,12,8,3,1
+H1234,TX,Live Call,Any,2,1,0,0
+H1234,VA,IVR,Any,1,1,1,1
+H1234,WA,IVR,Any,8,3,2,1
+H1234,WI,IVR,Any,5,4,1,0
+H2345,AR,IVR,Any,3,1,0,0
+H2345,AZ,IVR,Any,10,3,1,0
+H2345,CA,IVR,Any,11,7,6,3
+H2345,CA,Live Call,Any,2,1,1,0
+H2345,CO,IVR,Any,7,5,4,1
+H2345,CO,Live Call,Any,1,1,0,0
+H2345,DE,IVR,Any,1,0,,
+H2345,FL,IVR,Any,30,26,17,7
+H2345,FL,Live Call,Any,3,2,0,0
+H2345,GA,IVR,Any,5,3,2,2
+H2345,GA,Live Call,Any,1,0,,
+H2345,IA,IVR,Any,7,7,2,1
+H2345,IA,Live Call,Any,2,1,0,0
+H2345,IL,IVR,Any,12564,10217,5703,2923
+H2345,IL,Live Call,Any,3812,1444,493,373
+H2345,IN,IVR,Any,2,2,1,1
+H2345,KS,IVR,Any,10,6,4,1
+H2345,KY,IVR,Any,1,0,,
+H2345,MA,IVR,Any,3,2,0,0
+H2345,MI,IVR,Any,5,5,2,1
+H2345,MI,Live Call,Any,2,1,0,0
+H2345,MO,IVR,Any,41081,28905,15996,7760
+H2345,MO,Live Call,Any,10793,2722,955,701
+H2345,MS,IVR,Any,6,4,2,2
+H2345,MT,IVR,Any,2,2,0,0
+H2345,ND,IVR,Any,3,2,2,2
+H2345,NJ,IVR,Any,6,3,2,1
+H2345,NM,Live Call,Any,1,0,,
+H2345,OH,IVR,Any,2,2,0,0
+H2345,OH,Live Call,Any,1,0,,
+H2345,OK,IVR,Any,7,7,5,4
+H2345,OR,IVR,Any,1,1,0,0
+H2345,PA,IVR,Any,12,7,4,3
+H2345,PA,Live Call,Any,2,1,0,0
+H2345,SC,IVR,Any,2,2,0,0
+H2345,TN,IVR,Any,14,7,2,2
+H2345,TX,IVR,Any,26,21,9,1
+H2345,TX,Live Call,Any,4,3,0,0
+H2345,UT,IVR,Any,3,3,1,0
+H2345,UT,Live Call,Any,1,0,,
+H2345,VA,IVR,Any,3,2,0,0
+H2345,WA,IVR,Any,3,3,1,0
+H2345,WA,Live Call,Any,1,0,,
+H2345,WI,IVR,Any,6,6,4,3
+H2345,WI,Live Call,Any,1,0,,
+H2345,WV,IVR,Any,5,4,0,0

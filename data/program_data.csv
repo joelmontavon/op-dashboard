@@ -1,0 +1,2300 @@
+year,month,program,script,live_call,adherent,days_to_refill_band,days_missed_band,engaged,days_to_initial_call,targeted_members,outreached_members,reached_members,engaged_members,days_to_refill,days_missed
+2015,3,IVR,Late to Refill,0,0,7-Apr,15-21,0,1167,178,178,44,0,979,3176
+2015,3,IVR,Late to Refill,0,0,7-Apr,15-21,1,395,60,60,60,60,328,1038
+2015,3,IVR,Late to Refill,0,0,7-Apr,22-30,0,2547,401,401,130,0,2145,11465
+2015,3,IVR,Late to Refill,0,0,7-Apr,22-30,1,900,144,144,144,144,775,4065
+2015,3,IVR,Late to Refill,0,0,7-Apr,31-60,0,2663,435,435,161,0,2403,20932
+2015,3,IVR,Late to Refill,0,0,7-Apr,31-60,1,757,118,118,117,118,638,5545
+2015,3,IVR,Late to Refill,0,0,7-Apr,14-Aug,0,2056,323,323,94,0,1798,3379
+2015,3,IVR,Late to Refill,0,0,7-Apr,14-Aug,1,790,117,117,117,117,618,1254
+2015,3,IVR,Late to Refill,0,0,7-Apr,<=7,0,3996,628,628,211,0,3312,3462
+2015,3,IVR,Late to Refill,0,0,7-Apr,<=7,1,1833,278,278,272,278,1480,1539
+2015,3,IVR,Late to Refill,0,0,7-Apr,>60,1,8,1,1,1,1,4,76
+2015,3,IVR,Late to Refill,0,0,10-Aug,15-21,0,864,132,132,33,0,1192,2352
+2015,3,IVR,Late to Refill,0,0,10-Aug,15-21,1,266,43,43,42,43,393,787
+2015,3,IVR,Late to Refill,0,0,10-Aug,22-30,0,1575,248,248,78,0,2227,7045
+2015,3,IVR,Late to Refill,0,0,10-Aug,22-30,1,644,100,100,96,100,879,2805
+2015,3,IVR,Late to Refill,0,0,10-Aug,31-60,0,2128,339,339,110,0,3090,16123
+2015,3,IVR,Late to Refill,0,0,10-Aug,31-60,1,610,97,97,96,97,884,4443
+2015,3,IVR,Late to Refill,0,0,10-Aug,14-Aug,0,3186,503,503,153,0,4541,4983
+2015,3,IVR,Late to Refill,0,0,10-Aug,14-Aug,1,997,153,153,153,153,1359,1534
+2015,3,IVR,Late to Refill,0,0,10-Aug,>60,0,12,2,2,1,0,19,132
+2015,3,IVR,Late to Refill,0,0,<=3,15-21,0,1117,171,171,53,0,360,3042
+2015,3,IVR,Late to Refill,0,0,<=3,15-21,1,391,59,59,59,59,102,1018
+2015,3,IVR,Late to Refill,0,0,<=3,22-30,0,2649,417,417,130,0,844,11831
+2015,3,IVR,Late to Refill,0,0,<=3,22-30,1,836,130,130,128,130,235,3679
+2015,3,IVR,Late to Refill,0,0,<=3,31-60,0,2197,357,357,129,0,737,17365
+2015,3,IVR,Late to Refill,0,0,<=3,31-60,1,839,136,136,136,136,269,6861
+2015,3,IVR,Late to Refill,0,0,<=3,14-Aug,0,1775,275,275,73,0,556,3019
+2015,3,IVR,Late to Refill,0,0,<=3,14-Aug,1,811,124,124,122,124,226,1324
+2015,3,IVR,Late to Refill,0,0,<=3,<=7,0,7019,1081,1081,349,0,2066,3229
+2015,3,IVR,Late to Refill,0,0,<=3,<=7,1,2929,440,440,436,440,815,1210
+2015,3,IVR,Late to Refill,0,0,<=3,>60,0,33,6,6,2,0,12,457
+2015,3,IVR,Late to Refill,0,0,>10,15-21,0,4525,726,726,203,0,15997,13017
+2015,3,IVR,Late to Refill,0,0,>10,15-21,1,1943,302,302,295,302,8311,5461
+2015,3,IVR,Late to Refill,0,0,>10,22-30,0,8959,1426,1426,460,0,37151,39325
+2015,3,IVR,Late to Refill,0,0,>10,22-30,1,3069,477,477,474,477,11652,13040
+2015,3,IVR,Late to Refill,0,0,>10,31-60,0,28236,4526,4526,1401,0,168262,226955
+2015,3,IVR,Late to Refill,0,0,>10,31-60,1,8664,1362,1362,1350,1362,51417,68180
+2015,3,IVR,Late to Refill,0,0,>10,14-Aug,0,2669,423,423,123,0,10275,5209
+2015,3,IVR,Late to Refill,0,0,>10,14-Aug,1,1106,173,173,172,173,5750,2164
+2015,3,IVR,Late to Refill,0,0,>10,<=7,0,220,35,35,6,0,6943,147
+2015,3,IVR,Late to Refill,0,0,>10,<=7,1,238,36,36,36,36,6692,129
+2015,3,IVR,Late to Refill,0,0,>10,>60,0,64342,9957,9957,2950,0,2380929,876023
+2015,3,IVR,Late to Refill,0,0,>10,>60,1,25772,3879,3879,3831,3879,974543,343409
+2015,3,IVR,Late to Refill,0,1,7-Apr,15-21,0,107,17,17,5,0,92,298
+2015,3,IVR,Late to Refill,0,1,7-Apr,15-21,1,38,6,6,6,6,35,95
+2015,3,IVR,Late to Refill,0,1,7-Apr,22-30,0,126,19,19,2,0,102,531
+2015,3,IVR,Late to Refill,0,1,7-Apr,22-30,1,45,7,7,7,7,42,191
+2015,3,IVR,Late to Refill,0,1,7-Apr,31-60,0,58,9,9,1,0,49,438
+2015,3,IVR,Late to Refill,0,1,7-Apr,31-60,1,14,2,2,2,2,8,120
+2015,3,IVR,Late to Refill,0,1,7-Apr,14-Aug,0,288,44,44,15,0,237,468
+2015,3,IVR,Late to Refill,0,1,7-Apr,14-Aug,1,122,18,18,18,18,98,193
+2015,3,IVR,Late to Refill,0,1,7-Apr,<=7,0,444,67,67,16,0,337,351
+2015,3,IVR,Late to Refill,0,1,7-Apr,<=7,1,227,33,33,33,33,178,183
+2015,3,IVR,Late to Refill,0,1,10-Aug,15-21,0,108,16,16,8,0,148,277
+2015,3,IVR,Late to Refill,0,1,10-Aug,15-21,1,19,3,3,3,3,26,56
+2015,3,IVR,Late to Refill,0,1,10-Aug,22-30,0,66,10,10,2,0,96,279
+2015,3,IVR,Late to Refill,0,1,10-Aug,31-60,0,18,3,3,0,0,28,130
+2015,3,IVR,Late to Refill,0,1,10-Aug,31-60,1,10,2,2,2,2,18,120
+2015,3,IVR,Late to Refill,0,1,10-Aug,14-Aug,0,229,35,35,8,0,308,339
+2015,3,IVR,Late to Refill,0,1,10-Aug,14-Aug,1,127,18,18,18,18,165,173
+2015,3,IVR,Late to Refill,0,1,10-Aug,>60,0,10,2,2,0,0,18,122
+2015,3,IVR,Late to Refill,0,1,<=3,15-21,0,93,14,14,5,0,30,234
+2015,3,IVR,Late to Refill,0,1,<=3,15-21,1,14,2,2,2,2,3,35
+2015,3,IVR,Late to Refill,0,1,<=3,22-30,0,136,21,21,7,0,36,613
+2015,3,IVR,Late to Refill,0,1,<=3,22-30,1,58,9,9,9,9,18,248
+2015,3,IVR,Late to Refill,0,1,<=3,31-60,0,60,9,9,1,0,18,399
+2015,3,IVR,Late to Refill,0,1,<=3,31-60,1,48,7,7,7,7,16,376
+2015,3,IVR,Late to Refill,0,1,<=3,14-Aug,0,244,38,38,5,0,89,412
+2015,3,IVR,Late to Refill,0,1,<=3,14-Aug,1,134,21,21,21,21,34,219
+2015,3,IVR,Late to Refill,0,1,<=3,<=7,0,1276,194,194,48,0,375,579
+2015,3,IVR,Late to Refill,0,1,<=3,<=7,1,509,75,75,74,75,135,245
+2015,3,IVR,Late to Refill,0,1,>10,15-21,0,245,38,38,6,0,706,677
+2015,3,IVR,Late to Refill,0,1,>10,15-21,1,180,27,27,27,27,428,480
+2015,3,IVR,Late to Refill,0,1,>10,22-30,0,408,63,63,17,0,1329,1685
+2015,3,IVR,Late to Refill,0,1,>10,22-30,1,219,33,33,32,33,783,887
+2015,3,IVR,Late to Refill,0,1,>10,31-60,0,969,147,147,42,0,6555,6834
+2015,3,IVR,Late to Refill,0,1,>10,31-60,1,308,45,45,45,45,2125,2098
+2015,3,IVR,Late to Refill,0,1,>10,14-Aug,0,295,45,45,9,0,1007,569
+2015,3,IVR,Late to Refill,0,1,>10,14-Aug,1,133,21,21,21,21,667,275
+2015,3,IVR,Late to Refill,0,1,>10,<=7,0,91,14,14,1,0,2222,62
+2015,3,IVR,Late to Refill,0,1,>10,<=7,1,14,2,2,2,2,273,3
+2015,3,IVR,Late to Refill,0,1,>10,>60,0,21629,3240,3240,969,0,918841,290722
+2015,3,IVR,Late to Refill,0,1,>10,>60,1,9739,1426,1426,1419,1426,408460,127859
+2015,3,IVR,Chronic Non-Adherent,0,0,,,,,41883,0,,,,
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,0,71,11,11,2,0,56,198
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,1,43,6,6,6,6,35,101
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,0,94,13,13,1,0,71,343
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,1,17,3,3,3,3,17,83
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,0,75,12,12,1,0,71,530
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,1,26,4,4,4,4,23,205
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,0,62,9,9,3,0,46,95
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,1,35,5,5,5,5,30,50
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,0,553,82,82,25,0,460,68
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,1,255,37,37,35,37,219,69
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,0,66,9,9,0,0,59,644
+2015,3,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,1,42,6,6,6,6,31,444
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,15-21,0,49,7,7,2,0,64,131
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,15-21,1,8,1,1,1,1,8,16
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,0,57,8,8,3,0,74,213
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,1,7,1,1,1,1,8,28
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,0,72,11,11,4,0,98,457
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,0,58,8,8,2,0,76,79
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,1,33,5,5,5,5,45,57
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,0,595,87,87,21,0,774,105
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,1,247,38,38,38,38,345,51
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,>60,0,26,4,4,0,0,33,285
+2015,3,IVR,Chronic Non-Adherent,0,0,10-Aug,>60,1,6,1,1,1,1,10,62
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,15-21,0,47284,7028,7028,2150,0,27,125740
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,15-21,1,22991,3375,3375,3349,3375,0,60352
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,22-30,0,49191,7330,7330,2283,0,10,189414
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,22-30,1,24237,3568,3568,3535,3568,6,91789
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,31-60,0,79720,11993,11993,3631,0,1,519521
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,31-60,1,36102,5368,5368,5309,5368,10,233192
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,0,63269,9435,9435,3109,0,13,100956
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,1,32939,4831,4831,4787,4831,1,51577
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,<=7,0,324217,47743,47743,17001,0,122,64634
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,<=7,1,179343,26118,26118,25886,26118,50,32566
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,>60,0,33110,4971,4971,1508,0,11,361245
+2015,3,IVR,Chronic Non-Adherent,0,0,<=3,>60,1,14225,2115,2115,2086,2115,6,153220
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,15-21,0,806,120,120,34,0,19757,2105
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,15-21,1,363,55,55,55,55,7124,953
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,22-30,0,921,142,142,43,0,22948,3693
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,22-30,1,408,60,60,60,60,11076,1471
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,31-60,0,1661,253,253,68,0,43673,10706
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,31-60,1,769,117,117,114,117,22048,4970
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,0,1487,226,226,77,0,32839,2404
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,1,648,96,96,95,96,13804,1060
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,<=7,0,10967,1632,1632,525,0,234285,1618
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,<=7,1,5963,879,879,873,879,116559,686
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,>60,0,566,85,85,20,0,15822,6103
+2015,3,IVR,Chronic Non-Adherent,0,0,>10,>60,1,225,33,33,33,33,6932,2340
+2015,3,IVR,Chronic Non-Adherent,0,1,,,,,12507,0,,,,
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,0,73,11,11,5,0,65,194
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,1,7,1,1,1,1,4,17
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,0,40,6,6,1,0,35,155
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,1,6,1,1,1,1,6,23
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,0,21,3,3,0,0,16,122
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,0,94,14,14,1,0,71,147
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,0,1152,170,170,40,0,935,110
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,1,419,60,60,60,60,348,58
+2015,3,IVR,Chronic Non-Adherent,0,1,7-Apr,>60,0,44,7,7,2,0,32,510
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,0,70,10,10,2,0,90,177
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,0,17,3,3,0,0,29,69
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,1,6,1,1,1,1,8,26
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,0,44,7,7,2,0,59,284
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,1,22,3,3,3,3,27,116
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,0,92,14,14,4,0,124,147
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,1,34,5,5,5,5,45,60
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,0,889,133,133,39,0,1175,79
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,1,297,43,43,43,43,399,29
+2015,3,IVR,Chronic Non-Adherent,0,1,10-Aug,>60,0,6,1,1,0,0,9,67
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,15-21,0,15050,2242,2242,738,0,14,39544
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,15-21,1,7848,1145,1145,1133,1145,9,20148
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,22-30,0,12619,1865,1865,621,0,17,47916
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,22-30,1,5749,837,837,828,837,6,21441
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,31-60,0,14243,2133,2133,673,0,6,91115
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,31-60,1,6761,987,987,979,987,2,42088
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,0,24408,3636,3636,1295,0,3,38406
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,1,11952,1751,1751,1734,1751,10,18495
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,<=7,0,158891,23520,23520,8293,0,154,29297
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,<=7,1,85569,12475,12475,12385,12475,67,14798
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,>60,0,4453,660,660,205,0,6,47942
+2015,3,IVR,Chronic Non-Adherent,0,1,<=3,>60,1,1996,289,289,282,289,0,20824
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,15-21,0,734,108,108,30,0,11715,1891
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,15-21,1,257,37,37,37,37,4668,650
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,22-30,0,598,86,86,36,0,12502,2209
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,22-30,1,247,36,36,36,36,3565,965
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,31-60,0,588,91,91,20,0,10486,3924
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,31-60,1,245,36,36,36,36,5021,1552
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,0,982,147,147,48,0,17410,1535
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,1,611,89,89,89,89,11223,928
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,<=7,0,18726,2767,2767,1017,0,354685,1350
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,<=7,1,9700,1418,1418,1408,1418,181767,601
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,>60,0,158,24,24,7,0,3035,1688
+2015,3,IVR,Chronic Non-Adherent,0,1,>10,>60,1,100,15,15,15,15,3505,1087
+2015,4,IVR,Late to Refill,0,0,7-Apr,15-21,0,383,137,137,40,0,790,2364
+2015,4,IVR,Late to Refill,0,0,7-Apr,15-21,1,121,49,49,49,49,272,884
+2015,4,IVR,Late to Refill,0,0,7-Apr,22-30,0,1139,331,331,81,0,1820,9306
+2015,4,IVR,Late to Refill,0,0,7-Apr,22-30,1,349,116,116,116,116,623,3309
+2015,4,IVR,Late to Refill,0,0,7-Apr,31-60,0,1229,342,342,113,0,1881,16416
+2015,4,IVR,Late to Refill,0,0,7-Apr,31-60,1,197,61,61,55,61,343,2973
+2015,4,IVR,Late to Refill,0,0,7-Apr,14-Aug,0,647,234,234,75,0,1302,2535
+2015,4,IVR,Late to Refill,0,0,7-Apr,14-Aug,1,273,88,88,85,88,475,955
+2015,4,IVR,Late to Refill,0,0,7-Apr,<=7,0,5916,2113,2113,889,0,11592,11669
+2015,4,IVR,Late to Refill,0,0,7-Apr,<=7,1,1861,705,705,699,705,3777,3834
+2015,4,IVR,Late to Refill,0,0,7-Apr,>60,0,14,5,5,0,0,26,386
+2015,4,IVR,Late to Refill,0,0,10-Aug,15-21,0,275,84,84,34,0,749,1498
+2015,4,IVR,Late to Refill,0,0,10-Aug,15-21,1,99,36,36,36,36,321,672
+2015,4,IVR,Late to Refill,0,0,10-Aug,22-30,0,612,214,214,65,0,1888,6060
+2015,4,IVR,Late to Refill,0,0,10-Aug,22-30,1,289,79,79,75,79,708,2200
+2015,4,IVR,Late to Refill,0,0,10-Aug,31-60,0,890,280,280,97,0,2493,13674
+2015,4,IVR,Late to Refill,0,0,10-Aug,31-60,1,239,60,60,60,60,545,2987
+2015,4,IVR,Late to Refill,0,0,10-Aug,14-Aug,0,3361,1212,1212,590,0,10867,11170
+2015,4,IVR,Late to Refill,0,0,10-Aug,14-Aug,1,1190,421,421,419,421,3792,3924
+2015,4,IVR,Late to Refill,0,0,10-Aug,>60,0,18,6,6,0,0,54,439
+2015,4,IVR,Late to Refill,0,0,10-Aug,>60,1,3,1,1,1,1,10,75
+2015,4,IVR,Late to Refill,0,0,<=3,15-21,0,302,103,103,41,0,203,1805
+2015,4,IVR,Late to Refill,0,0,<=3,15-21,1,125,45,45,45,45,98,833
+2015,4,IVR,Late to Refill,0,0,<=3,22-30,0,709,247,247,92,0,486,6985
+2015,4,IVR,Late to Refill,0,0,<=3,22-30,1,307,106,106,102,106,211,3037
+2015,4,IVR,Late to Refill,0,0,<=3,31-60,0,714,234,234,103,0,447,11605
+2015,4,IVR,Late to Refill,0,0,<=3,31-60,1,313,81,81,81,81,166,3886
+2015,4,IVR,Late to Refill,0,0,<=3,14-Aug,0,651,221,221,109,0,437,2373
+2015,4,IVR,Late to Refill,0,0,<=3,14-Aug,1,216,80,80,80,80,153,845
+2015,4,IVR,Late to Refill,0,0,<=3,<=7,0,6547,2276,2276,1162,0,4323,5112
+2015,4,IVR,Late to Refill,0,0,<=3,<=7,1,2719,963,963,957,963,1939,2320
+2015,4,IVR,Late to Refill,0,0,<=3,>60,0,19,4,4,2,0,7,321
+2015,4,IVR,Late to Refill,0,0,<=3,>60,1,4,2,2,2,2,5,161
+2015,4,IVR,Late to Refill,0,0,>10,15-21,0,4758,1754,1754,786,0,35888,31367
+2015,4,IVR,Late to Refill,0,0,>10,15-21,1,1588,561,561,553,561,11619,10004
+2015,4,IVR,Late to Refill,0,0,>10,22-30,0,6816,2357,2357,818,0,64113,63085
+2015,4,IVR,Late to Refill,0,0,>10,22-30,1,2200,752,752,746,752,20458,20013
+2015,4,IVR,Late to Refill,0,0,>10,31-60,0,16710,5542,5542,1986,0,219900,264654
+2015,4,IVR,Late to Refill,0,0,>10,31-60,1,5204,1682,1682,1661,1682,70569,79861
+2015,4,IVR,Late to Refill,0,0,>10,14-Aug,0,3644,1305,1305,532,0,23906,16257
+2015,4,IVR,Late to Refill,0,0,>10,14-Aug,1,1266,440,440,434,440,8678,5448
+2015,4,IVR,Late to Refill,0,0,>10,<=7,0,163,61,61,25,0,12132,232
+2015,4,IVR,Late to Refill,0,0,>10,<=7,1,67,24,24,24,24,4728,99
+2015,4,IVR,Late to Refill,0,0,>10,>60,0,35030,11427,11427,3765,0,2234636,993345
+2015,4,IVR,Late to Refill,0,0,>10,>60,1,11999,3809,3809,3785,3809,813001,334410
+2015,4,IVR,Late to Refill,0,1,7-Apr,15-21,0,186,28,28,6,0,158,488
+2015,4,IVR,Late to Refill,0,1,7-Apr,15-21,1,14,5,5,5,5,33,97
+2015,4,IVR,Late to Refill,0,1,7-Apr,22-30,0,180,21,21,6,0,111,576
+2015,4,IVR,Late to Refill,0,1,7-Apr,22-30,1,142,19,19,16,19,110,547
+2015,4,IVR,Late to Refill,0,1,7-Apr,31-60,0,83,12,12,3,0,66,655
+2015,4,IVR,Late to Refill,0,1,7-Apr,31-60,1,52,4,4,4,4,25,235
+2015,4,IVR,Late to Refill,0,1,7-Apr,14-Aug,0,423,61,61,17,0,350,670
+2015,4,IVR,Late to Refill,0,1,7-Apr,14-Aug,1,124,18,18,18,18,90,205
+2015,4,IVR,Late to Refill,0,1,7-Apr,<=7,0,1952,412,412,117,0,2202,2234
+2015,4,IVR,Late to Refill,0,1,7-Apr,<=7,1,548,131,131,125,131,713,719
+2015,4,IVR,Late to Refill,0,1,10-Aug,15-21,0,146,16,16,7,0,141,297
+2015,4,IVR,Late to Refill,0,1,10-Aug,15-21,1,5,2,2,2,2,20,39
+2015,4,IVR,Late to Refill,0,1,10-Aug,22-30,0,90,14,14,5,0,134,409
+2015,4,IVR,Late to Refill,0,1,10-Aug,22-30,1,25,5,5,5,5,46,125
+2015,4,IVR,Late to Refill,0,1,10-Aug,31-60,0,58,7,7,0,0,65,374
+2015,4,IVR,Late to Refill,0,1,10-Aug,14-Aug,0,969,188,188,57,0,1667,1712
+2015,4,IVR,Late to Refill,0,1,10-Aug,14-Aug,1,240,71,71,71,71,636,653
+2015,4,IVR,Late to Refill,0,1,<=3,15-21,0,132,21,21,2,0,44,368
+2015,4,IVR,Late to Refill,0,1,<=3,15-21,1,107,9,9,9,9,19,157
+2015,4,IVR,Late to Refill,0,1,<=3,22-30,0,269,30,30,12,0,49,851
+2015,4,IVR,Late to Refill,0,1,<=3,22-30,1,23,5,5,5,5,12,142
+2015,4,IVR,Late to Refill,0,1,<=3,31-60,0,127,16,16,4,0,27,919
+2015,4,IVR,Late to Refill,0,1,<=3,31-60,1,13,5,5,5,5,6,271
+2015,4,IVR,Late to Refill,0,1,<=3,14-Aug,0,481,66,66,23,0,140,714
+2015,4,IVR,Late to Refill,0,1,<=3,14-Aug,1,171,20,20,20,20,39,223
+2015,4,IVR,Late to Refill,0,1,<=3,<=7,0,3131,548,548,160,0,1058,1314
+2015,4,IVR,Late to Refill,0,1,<=3,<=7,1,1478,238,238,236,238,439,571
+2015,4,IVR,Late to Refill,0,1,<=3,>60,0,39,3,3,0,0,6,225
+2015,4,IVR,Late to Refill,0,1,>10,15-21,0,1458,284,284,92,0,5433,5173
+2015,4,IVR,Late to Refill,0,1,>10,15-21,1,289,70,70,69,70,1458,1243
+2015,4,IVR,Late to Refill,0,1,>10,22-30,0,1419,298,298,89,0,8007,7857
+2015,4,IVR,Late to Refill,0,1,>10,22-30,1,437,103,103,102,103,3027,2725
+2015,4,IVR,Late to Refill,0,1,>10,31-60,0,2373,399,399,108,0,16958,17718
+2015,4,IVR,Late to Refill,0,1,>10,31-60,1,612,120,120,116,120,5607,5370
+2015,4,IVR,Late to Refill,0,1,>10,14-Aug,0,1014,219,219,69,0,3434,2711
+2015,4,IVR,Late to Refill,0,1,>10,14-Aug,1,522,98,98,98,98,1740,1236
+2015,4,IVR,Late to Refill,0,1,>10,<=7,0,120,25,25,2,0,5682,98
+2015,4,IVR,Late to Refill,0,1,>10,<=7,1,10,4,4,4,4,409,19
+2015,4,IVR,Late to Refill,0,1,>10,>60,0,26922,4663,4663,1347,0,1163032,416907
+2015,4,IVR,Late to Refill,0,1,>10,>60,1,10941,1953,1953,1934,1953,494117,174954
+2015,4,IVR,Chronic Non-Adherent,0,0,,,,,52848,0,,,,
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,0,26,8,8,2,0,39,138
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,1,10,3,3,3,3,18,54
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,0,14,5,5,0,0,24,122
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,1,38,2,2,2,2,14,60
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,0,9,3,3,1,0,19,149
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,1,13,6,6,6,6,40,247
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,0,90,18,18,3,0,103,198
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,1,14,6,6,6,6,31,58
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,0,161,46,46,16,0,249,72
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,1,108,27,27,27,27,154,7
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,0,25,9,9,5,0,54,640
+2015,4,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,1,6,3,3,3,3,19,198
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,15-21,1,26,3,3,3,3,27,47
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,0,56,9,9,2,0,86,227
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,1,5,2,2,2,2,17,49
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,0,39,11,11,2,0,96,456
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,1,6,2,2,2,2,17,72
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,0,29,12,12,5,0,104,122
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,1,12,5,5,5,5,48,51
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,0,227,55,55,22,0,485,26
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,1,65,20,20,20,20,178,9
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,>60,0,4,2,2,0,0,19,140
+2015,4,IVR,Chronic Non-Adherent,0,0,10-Aug,>60,1,5,2,2,2,2,18,145
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,15-21,0,25851,8118,8118,2489,0,16,144471
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,15-21,1,11601,3605,3605,3565,3605,12,63613
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,22-30,0,19237,5920,5920,1566,0,5,150520
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,22-30,1,8016,2369,2369,2343,2369,1,60649
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,31-60,0,31662,9716,9716,2816,0,21,426375
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,31-60,1,13250,3989,3989,3951,3989,0,175076
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,0,35493,11309,11309,3802,0,10,122056
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,1,19150,5877,5877,5801,5877,2,63158
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,<=7,0,162216,51424,51424,19110,0,99,70282
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,<=7,1,85620,26072,26072,25829,26072,62,33845
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,>60,0,13466,4403,4403,1180,0,2,321074
+2015,4,IVR,Chronic Non-Adherent,0,0,<=3,>60,1,5666,1747,1747,1734,1747,7,127738
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,15-21,0,503,160,160,36,0,26478,2916
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,15-21,1,200,57,57,57,57,8490,1028
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,22-30,0,409,110,110,23,0,16280,2733
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,22-30,1,110,31,31,31,31,5191,772
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,31-60,0,537,170,170,48,0,25446,7476
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,31-60,1,185,62,62,62,62,9133,2662
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,0,723,211,211,71,0,29315,2202
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,1,325,91,91,88,91,13280,976
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,<=7,0,4472,1352,1352,441,0,199267,1412
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,<=7,1,2215,683,683,674,683,100809,569
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,>60,0,204,65,65,14,0,10962,4549
+2015,4,IVR,Chronic Non-Adherent,0,0,>10,>60,1,102,37,37,37,37,5285,2607
+2015,4,IVR,Chronic Non-Adherent,0,1,,,,,32269,0,,,,
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,0,47,7,7,1,0,44,122
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,1,13,5,5,5,5,31,91
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,0,34,11,11,5,0,64,288
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,1,3,1,1,1,1,5,30
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,0,45,5,5,3,0,26,206
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,1,26,2,2,2,2,8,68
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,0,111,27,27,9,0,134,276
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,1,47,6,6,6,6,37,67
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,0,780,195,195,48,0,1017,214
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,1,409,80,80,80,80,431,75
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,>60,0,7,3,3,0,0,15,223
+2015,4,IVR,Chronic Non-Adherent,0,1,7-Apr,>60,1,8,2,2,2,2,13,145
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,0,19,7,7,2,0,60,125
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,1,5,1,1,1,1,8,21
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,0,2,1,1,1,0,8,23
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,1,26,2,2,2,2,18,44
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,0,37,6,6,1,0,52,241
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,1,7,3,3,3,3,28,148
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,0,51,11,11,3,0,92,123
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,1,12,5,5,5,5,45,62
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,0,621,141,141,50,0,1250,64
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,1,403,73,73,72,73,661,16
+2015,4,IVR,Chronic Non-Adherent,0,1,10-Aug,>60,0,3,1,1,0,0,10,61
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,15-21,0,12906,2976,2976,923,0,13,52411
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,15-21,1,5350,1290,1290,1276,1290,5,22904
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,22-30,0,11205,2424,2424,772,0,16,61910
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,22-30,1,4422,997,997,990,997,8,25506
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,31-60,0,13836,2744,2744,836,0,9,117545
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,31-60,1,5740,1131,1131,1123,1131,13,49170
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,0,23067,5322,5322,1775,0,35,55902
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,1,10741,2277,2277,2255,2277,1,23965
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,<=7,0,188817,38234,38234,13388,0,283,45938
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,<=7,1,92325,17693,17693,17538,17693,131,20041
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,>60,0,5665,1039,1039,307,0,4,74808
+2015,4,IVR,Chronic Non-Adherent,0,1,<=3,>60,1,2219,415,415,410,415,0,30173
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,15-21,0,428,121,121,32,0,13260,2073
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,15-21,1,139,41,41,41,41,4725,736
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,22-30,0,364,95,95,25,0,12089,2449
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,22-30,1,217,38,38,38,38,5202,942
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,31-60,0,406,89,89,19,0,11031,3729
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,31-60,1,148,34,34,33,34,5071,1514
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,0,773,205,205,60,0,25127,2156
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,1,297,77,77,77,77,7482,819
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,<=7,0,15121,3783,3783,1381,0,471046,1726
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,<=7,1,6987,1699,1699,1674,1699,209966,673
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,>60,0,93,20,20,2,0,3714,1419
+2015,4,IVR,Chronic Non-Adherent,0,1,>10,>60,1,12,5,5,5,5,522,368
+2015,4,Live Call,Late to Refill,1,0,7-Apr,15-21,0,146,17,17,1,0,112,329
+2015,4,Live Call,Late to Refill,1,0,7-Apr,15-21,1,55,6,6,6,6,38,101
+2015,4,Live Call,Late to Refill,1,0,7-Apr,22-30,0,337,38,38,0,0,198,1110
+2015,4,Live Call,Late to Refill,1,0,7-Apr,22-30,1,52,7,7,7,7,38,198
+2015,4,Live Call,Late to Refill,1,0,7-Apr,31-60,0,161,18,18,1,0,90,902
+2015,4,Live Call,Late to Refill,1,0,7-Apr,31-60,1,83,10,10,10,10,57,478
+2015,4,Live Call,Late to Refill,1,0,7-Apr,14-Aug,0,111,13,13,2,0,73,152
+2015,4,Live Call,Late to Refill,1,0,7-Apr,14-Aug,1,50,6,6,6,6,30,79
+2015,4,Live Call,Late to Refill,1,0,7-Apr,<=7,0,312,36,36,0,0,201,208
+2015,4,Live Call,Late to Refill,1,0,7-Apr,<=7,1,189,21,21,21,21,115,118
+2015,4,Live Call,Late to Refill,1,0,10-Aug,15-21,0,56,6,6,0,0,51,110
+2015,4,Live Call,Late to Refill,1,0,10-Aug,15-21,1,27,3,3,3,3,30,48
+2015,4,Live Call,Late to Refill,1,0,10-Aug,22-30,0,247,26,26,0,0,223,725
+2015,4,Live Call,Late to Refill,1,0,10-Aug,22-30,1,134,15,15,15,15,131,431
+2015,4,Live Call,Late to Refill,1,0,10-Aug,31-60,0,164,17,17,1,0,147,743
+2015,4,Live Call,Late to Refill,1,0,10-Aug,31-60,1,63,7,7,7,7,57,391
+2015,4,Live Call,Late to Refill,1,0,10-Aug,14-Aug,0,315,35,35,1,0,305,332
+2015,4,Live Call,Late to Refill,1,0,10-Aug,14-Aug,1,68,8,8,8,8,70,75
+2015,4,Live Call,Late to Refill,1,0,<=3,15-21,0,155,20,20,2,0,40,373
+2015,4,Live Call,Late to Refill,1,0,<=3,15-21,1,12,2,2,2,2,3,42
+2015,4,Live Call,Late to Refill,1,0,<=3,22-30,0,343,37,37,0,0,60,1073
+2015,4,Live Call,Late to Refill,1,0,<=3,22-30,1,72,10,10,10,10,19,281
+2015,4,Live Call,Late to Refill,1,0,<=3,31-60,0,137,16,16,3,0,41,790
+2015,4,Live Call,Late to Refill,1,0,<=3,31-60,1,38,6,6,6,6,9,309
+2015,4,Live Call,Late to Refill,1,0,<=3,14-Aug,0,170,21,21,1,0,39,246
+2015,4,Live Call,Late to Refill,1,0,<=3,14-Aug,1,43,8,8,8,8,11,79
+2015,4,Live Call,Late to Refill,1,0,<=3,<=7,0,463,56,56,6,0,104,137
+2015,4,Live Call,Late to Refill,1,0,<=3,<=7,1,305,41,41,41,41,68,91
+2015,4,Live Call,Late to Refill,1,0,<=3,>60,0,14,2,2,0,0,6,170
+2015,4,Live Call,Late to Refill,1,0,>10,15-21,0,660,75,75,2,0,1774,1347
+2015,4,Live Call,Late to Refill,1,0,>10,15-21,1,154,19,19,19,19,311,326
+2015,4,Live Call,Late to Refill,1,0,>10,22-30,0,1159,131,131,5,0,3206,3722
+2015,4,Live Call,Late to Refill,1,0,>10,22-30,1,400,53,53,53,53,1144,1456
+2015,4,Live Call,Late to Refill,1,0,>10,31-60,0,2933,346,346,27,0,15531,17473
+2015,4,Live Call,Late to Refill,1,0,>10,31-60,1,988,119,119,119,119,4337,5764
+2015,4,Live Call,Late to Refill,1,0,>10,14-Aug,0,211,19,19,1,0,500,235
+2015,4,Live Call,Late to Refill,1,0,>10,14-Aug,1,38,6,6,6,6,133,73
+2015,4,Live Call,Late to Refill,1,0,>10,<=7,0,47,6,6,1,0,1096,13
+2015,4,Live Call,Late to Refill,1,0,>10,>60,0,5558,630,630,41,0,127930,55323
+2015,4,Live Call,Late to Refill,1,0,>10,>60,1,1542,189,189,189,189,38619,16737
+2015,4,Live Call,Late to Refill,1,1,7-Apr,22-30,0,9,1,1,0,0,7,30
+2015,4,Live Call,Late to Refill,1,1,7-Apr,<=7,1,10,1,1,1,1,4,4
+2015,4,Live Call,Late to Refill,1,1,10-Aug,22-30,0,9,1,1,0,0,9,30
+2015,4,Live Call,Late to Refill,1,1,10-Aug,22-30,1,11,1,1,1,1,10,27
+2015,4,Live Call,Late to Refill,1,1,10-Aug,14-Aug,0,19,2,2,1,0,19,19
+2015,4,Live Call,Late to Refill,1,1,10-Aug,14-Aug,1,23,2,2,2,2,18,22
+2015,4,Live Call,Late to Refill,1,1,<=3,15-21,0,10,1,1,0,0,1,15
+2015,4,Live Call,Late to Refill,1,1,<=3,14-Aug,0,18,2,2,0,0,2,22
+2015,4,Live Call,Late to Refill,1,1,<=3,14-Aug,1,10,2,2,2,2,3,22
+2015,4,Live Call,Late to Refill,1,1,<=3,<=7,0,33,3,3,0,0,9,9
+2015,4,Live Call,Late to Refill,1,1,<=3,<=7,1,7,1,1,1,1,2,2
+2015,4,Live Call,Late to Refill,1,1,>10,15-21,0,58,7,7,1,0,129,129
+2015,4,Live Call,Late to Refill,1,1,>10,22-30,0,39,4,4,0,0,93,105
+2015,4,Live Call,Late to Refill,1,1,>10,31-60,0,46,6,6,1,0,324,277
+2015,4,Live Call,Late to Refill,1,1,>10,31-60,1,16,3,3,3,3,50,180
+2015,4,Live Call,Late to Refill,1,1,>10,14-Aug,0,27,3,3,0,0,366,39
+2015,4,Live Call,Late to Refill,1,1,>10,>60,0,348,39,39,6,0,9525,3484
+2015,4,Live Call,Late to Refill,1,1,>10,>60,1,108,17,17,17,17,4240,1530
+2015,4,Live Call,Chronic Non-Adherent,0,0,,,,,4366,0,,,,
+2015,4,Live Call,Chronic Non-Adherent,0,1,,,,,542,0,,,,
+2015,4,Live Call,Chronic Non-Adherent,1,0,7-Apr,15-21,1,18,2,2,2,2,12,38
+2015,4,Live Call,Chronic Non-Adherent,1,0,7-Apr,22-30,0,11,1,1,0,0,5,25
+2015,4,Live Call,Chronic Non-Adherent,1,0,7-Apr,22-30,1,4,1,1,1,1,6,27
+2015,4,Live Call,Chronic Non-Adherent,1,0,7-Apr,31-60,0,23,3,3,1,0,14,115
+2015,4,Live Call,Chronic Non-Adherent,1,0,7-Apr,14-Aug,1,5,1,1,1,1,5,13
+2015,4,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,0,37,5,5,0,0,21,2
+2015,4,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,1,12,1,1,1,1,4,0
+2015,4,Live Call,Chronic Non-Adherent,1,0,10-Aug,22-30,0,9,1,1,0,0,9,25
+2015,4,Live Call,Chronic Non-Adherent,1,0,10-Aug,31-60,0,14,2,2,0,0,16,82
+2015,4,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,0,46,5,5,1,0,49,10
+2015,4,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,1,17,2,2,2,2,17,1
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,0,2432,282,282,27,0,3,5058
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,1,1265,159,159,159,159,0,2820
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,0,3406,395,395,31,0,0,10280
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,1,1243,146,146,146,146,0,3789
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,0,5582,656,656,85,0,0,28929
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,1,1930,256,256,256,256,0,11227
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,0,3705,442,442,34,0,0,4700
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,1,1307,170,170,170,170,0,1820
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,0,14373,1640,1640,159,0,23,2605
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,1,4925,624,624,624,624,2,865
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,>60,0,2077,234,234,11,0,0,17714
+2015,4,Live Call,Chronic Non-Adherent,1,0,<=3,>60,1,766,95,95,95,95,9,7116
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,15-21,0,147,20,20,3,0,2126,349
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,15-21,1,16,2,2,2,2,336,35
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,22-30,0,90,12,12,1,0,1269,321
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,22-30,1,42,6,6,6,6,1227,161
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,31-60,0,218,23,23,5,0,3873,1044
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,31-60,1,94,12,12,12,12,1706,492
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,0,113,13,13,0,0,2287,129
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,1,116,15,15,15,15,1606,166
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,<=7,0,662,74,74,8,0,10425,83
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,<=7,1,224,29,29,29,29,2308,11
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,>60,0,55,6,6,0,0,1302,424
+2015,4,Live Call,Chronic Non-Adherent,1,0,>10,>60,1,38,4,4,4,4,838,325
+2015,4,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,1,14,2,2,2,2,10,32
+2015,4,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,0,12,3,3,0,0,12,0
+2015,4,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,1,4,1,1,1,1,6,0
+2015,4,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,0,27,3,3,0,0,30,0
+2015,4,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,1,8,1,1,1,1,10,1
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,0,134,15,15,1,0,0,262
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,1,30,6,6,6,6,0,100
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,0,162,18,18,0,0,0,465
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,1,42,4,4,4,4,0,108
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,0,129,14,14,4,0,0,635
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,1,93,11,11,11,11,0,447
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,0,337,44,44,3,0,0,451
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,1,38,5,5,5,5,1,55
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,0,2203,253,253,20,0,4,251
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,1,744,94,94,94,94,0,122
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,>60,0,31,3,3,0,0,0,233
+2015,4,Live Call,Chronic Non-Adherent,1,1,<=3,>60,1,20,2,2,2,2,0,128
+2015,4,Live Call,Chronic Non-Adherent,1,1,>10,15-21,1,7,1,1,1,1,104,16
+2015,4,Live Call,Chronic Non-Adherent,1,1,>10,22-30,1,18,2,2,2,2,56,54
+2015,4,Live Call,Chronic Non-Adherent,1,1,>10,31-60,0,9,1,1,1,0,11,32
+2015,4,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,0,17,2,2,0,0,279,16
+2015,4,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,1,10,1,1,1,1,33,9
+2015,4,Live Call,Chronic Non-Adherent,1,1,>10,<=7,0,451,50,50,2,0,5790,15
+2015,4,Live Call,Chronic Non-Adherent,1,1,>10,<=7,1,147,18,18,18,18,2341,0
+2015,5,IVR,Late to Refill,0,0,7-Apr,15-21,0,288,129,129,49,0,714,2232
+2015,5,IVR,Late to Refill,0,0,7-Apr,15-21,1,57,35,35,35,35,175,596
+2015,5,IVR,Late to Refill,0,0,7-Apr,22-30,0,587,301,301,84,0,1701,8478
+2015,5,IVR,Late to Refill,0,0,7-Apr,22-30,1,163,90,90,90,90,484,2549
+2015,5,IVR,Late to Refill,0,0,7-Apr,31-60,0,689,336,336,122,0,1867,15500
+2015,5,IVR,Late to Refill,0,0,7-Apr,31-60,1,116,58,58,57,58,305,2767
+2015,5,IVR,Late to Refill,0,0,7-Apr,14-Aug,0,340,200,200,72,0,1129,2118
+2015,5,IVR,Late to Refill,0,0,7-Apr,14-Aug,1,83,49,49,49,49,272,517
+2015,5,IVR,Late to Refill,0,0,7-Apr,<=7,0,4730,2578,2578,1301,0,14091,14162
+2015,5,IVR,Late to Refill,0,0,7-Apr,<=7,1,914,529,529,526,529,2798,2825
+2015,5,IVR,Late to Refill,0,0,7-Apr,>60,0,7,4,4,2,0,23,278
+2015,5,IVR,Late to Refill,0,0,10-Aug,15-21,0,111,74,74,28,0,656,1303
+2015,5,IVR,Late to Refill,0,0,10-Aug,15-21,1,28,15,15,15,15,136,262
+2015,5,IVR,Late to Refill,0,0,10-Aug,22-30,0,338,205,205,61,0,1838,5792
+2015,5,IVR,Late to Refill,0,0,10-Aug,22-30,1,73,41,41,41,41,363,1144
+2015,5,IVR,Late to Refill,0,0,10-Aug,31-60,0,430,229,229,59,0,2048,11184
+2015,5,IVR,Late to Refill,0,0,10-Aug,31-60,1,83,45,45,45,45,413,2156
+2015,5,IVR,Late to Refill,0,0,10-Aug,14-Aug,0,2571,1363,1363,604,0,12236,12500
+2015,5,IVR,Late to Refill,0,0,10-Aug,14-Aug,1,541,270,270,268,270,2447,2545
+2015,5,IVR,Late to Refill,0,0,10-Aug,>60,0,4,2,2,0,0,19,138
+2015,5,IVR,Late to Refill,0,0,<=3,15-21,0,173,112,112,41,0,203,1962
+2015,5,IVR,Late to Refill,0,0,<=3,15-21,1,62,36,36,36,36,76,634
+2015,5,IVR,Late to Refill,0,0,<=3,22-30,0,511,290,290,90,0,542,8277
+2015,5,IVR,Late to Refill,0,0,<=3,22-30,1,143,79,79,79,79,164,2223
+2015,5,IVR,Late to Refill,0,0,<=3,31-60,0,467,238,238,94,0,475,11575
+2015,5,IVR,Late to Refill,0,0,<=3,31-60,1,141,63,63,61,63,123,3252
+2015,5,IVR,Late to Refill,0,0,<=3,14-Aug,0,293,176,176,59,0,351,1852
+2015,5,IVR,Late to Refill,0,0,<=3,14-Aug,1,68,42,42,42,42,79,439
+2015,5,IVR,Late to Refill,0,0,<=3,<=7,0,4692,2651,2651,1390,0,4972,5532
+2015,5,IVR,Late to Refill,0,0,<=3,<=7,1,1226,653,653,642,653,1234,1414
+2015,5,IVR,Late to Refill,0,0,<=3,>60,0,4,3,3,0,0,3,233
+2015,5,IVR,Late to Refill,0,0,>10,15-21,0,3880,2104,2104,930,0,43230,37694
+2015,5,IVR,Late to Refill,0,0,>10,15-21,1,932,475,475,469,475,9371,8529
+2015,5,IVR,Late to Refill,0,0,>10,22-30,0,4758,2669,2669,1027,0,71503,70853
+2015,5,IVR,Late to Refill,0,0,>10,22-30,1,1162,532,532,526,532,15597,14158
+2015,5,IVR,Late to Refill,0,0,>10,31-60,0,13114,6869,6869,2663,0,279705,325651
+2015,5,IVR,Late to Refill,0,0,>10,31-60,1,2433,1326,1326,1315,1326,53053,63529
+2015,5,IVR,Late to Refill,0,0,>10,14-Aug,0,3103,1677,1677,760,0,27398,21072
+2015,5,IVR,Late to Refill,0,0,>10,14-Aug,1,608,324,324,320,324,5251,4071
+2015,5,IVR,Late to Refill,0,0,>10,<=7,0,119,75,75,37,0,14212,295
+2015,5,IVR,Late to Refill,0,0,>10,<=7,1,29,19,19,19,19,4028,68
+2015,5,IVR,Late to Refill,0,0,>10,>60,0,21783,11752,11752,4003,0,1924296,1012552
+2015,5,IVR,Late to Refill,0,0,>10,>60,1,4584,2584,2584,2546,2584,449836,224447
+2015,5,IVR,Late to Refill,0,1,7-Apr,15-21,0,14,9,9,4,0,50,149
+2015,5,IVR,Late to Refill,0,1,7-Apr,15-21,1,2,2,2,2,2,14,32
+2015,5,IVR,Late to Refill,0,1,7-Apr,22-30,0,24,11,11,5,0,65,304
+2015,5,IVR,Late to Refill,0,1,7-Apr,22-30,1,4,4,4,4,4,17,115
+2015,5,IVR,Late to Refill,0,1,7-Apr,31-60,0,14,7,7,4,0,30,404
+2015,5,IVR,Late to Refill,0,1,7-Apr,14-Aug,0,58,35,35,11,0,189,353
+2015,5,IVR,Late to Refill,0,1,7-Apr,14-Aug,1,11,6,6,6,6,29,68
+2015,5,IVR,Late to Refill,0,1,7-Apr,<=7,0,612,324,324,115,0,1717,1737
+2015,5,IVR,Late to Refill,0,1,7-Apr,<=7,1,195,116,116,115,116,581,598
+2015,5,IVR,Late to Refill,0,1,10-Aug,15-21,0,46,12,12,3,0,104,207
+2015,5,IVR,Late to Refill,0,1,10-Aug,22-30,0,11,7,7,1,0,60,194
+2015,5,IVR,Late to Refill,0,1,10-Aug,22-30,1,2,1,1,1,1,8,30
+2015,5,IVR,Late to Refill,0,1,10-Aug,31-60,0,18,11,11,0,0,93,546
+2015,5,IVR,Late to Refill,0,1,10-Aug,31-60,1,1,1,1,1,1,10,50
+2015,5,IVR,Late to Refill,0,1,10-Aug,14-Aug,0,244,156,156,50,0,1382,1411
+2015,5,IVR,Late to Refill,0,1,10-Aug,14-Aug,1,49,28,28,28,28,253,255
+2015,5,IVR,Late to Refill,0,1,10-Aug,>60,0,1,1,1,0,0,9,75
+2015,5,IVR,Late to Refill,0,1,<=3,15-21,0,40,24,24,2,0,45,428
+2015,5,IVR,Late to Refill,0,1,<=3,15-21,1,1,1,1,1,1,2,15
+2015,5,IVR,Late to Refill,0,1,<=3,22-30,0,23,14,14,7,0,24,397
+2015,5,IVR,Late to Refill,0,1,<=3,22-30,1,2,2,2,2,2,4,60
+2015,5,IVR,Late to Refill,0,1,<=3,31-60,0,1,1,1,0,0,2,60
+2015,5,IVR,Late to Refill,0,1,<=3,31-60,1,2,1,1,1,1,1,45
+2015,5,IVR,Late to Refill,0,1,<=3,14-Aug,0,31,22,22,5,0,45,229
+2015,5,IVR,Late to Refill,0,1,<=3,14-Aug,1,12,8,8,8,8,13,78
+2015,5,IVR,Late to Refill,0,1,<=3,<=7,0,746,399,399,160,0,720,887
+2015,5,IVR,Late to Refill,0,1,<=3,<=7,1,144,90,90,90,90,177,208
+2015,5,IVR,Late to Refill,0,1,>10,15-21,0,356,206,206,46,0,4131,3688
+2015,5,IVR,Late to Refill,0,1,>10,15-21,1,108,67,67,66,67,1230,1235
+2015,5,IVR,Late to Refill,0,1,>10,22-30,0,383,215,215,81,0,6299,5631
+2015,5,IVR,Late to Refill,0,1,>10,22-30,1,89,57,57,56,57,1442,1496
+2015,5,IVR,Late to Refill,0,1,>10,31-60,0,555,331,331,80,0,14146,15058
+2015,5,IVR,Late to Refill,0,1,>10,31-60,1,177,86,86,86,86,3643,3627
+2015,5,IVR,Late to Refill,0,1,>10,14-Aug,0,363,189,189,65,0,3004,2360
+2015,5,IVR,Late to Refill,0,1,>10,14-Aug,1,68,47,47,47,47,1039,581
+2015,5,IVR,Late to Refill,0,1,>10,<=7,0,14,9,9,2,0,1438,20
+2015,5,IVR,Late to Refill,0,1,>10,<=7,1,12,7,7,7,7,1303,19
+2015,5,IVR,Late to Refill,0,1,>10,>60,0,4757,2575,2575,795,0,554382,229471
+2015,5,IVR,Late to Refill,0,1,>10,>60,1,1407,775,775,758,775,170359,69255
+2015,5,IVR,Chronic Non-Adherent,0,0,,,,,43369,0,,,,
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,0,4,2,2,0,0,14,36
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,0,6,5,5,2,0,23,126
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,1,1,1,1,1,1,6,24
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,0,11,6,6,3,0,31,267
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,1,2,1,1,1,1,5,31
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,0,3,2,2,1,0,12,17
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,1,2,2,2,2,2,13,22
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,0,47,32,32,4,0,168,71
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,1,13,8,8,8,8,40,6
+2015,5,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,0,2,1,1,0,0,4,62
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,15-21,0,2,1,1,0,0,10,20
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,0,2,2,2,0,0,18,52
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,1,2,2,2,2,2,18,60
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,0,1,1,1,0,0,9,33
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,1,6,2,2,2,2,20,94
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,0,6,4,4,2,0,37,38
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,1,2,1,1,1,1,10,9
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,0,58,32,32,3,0,290,30
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,1,22,16,16,16,16,148,43
+2015,5,IVR,Chronic Non-Adherent,0,0,10-Aug,>60,0,16,1,1,0,0,10,76
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,15-21,0,7520,4605,4605,1234,0,9,82050
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,15-21,1,2765,1609,1609,1597,1609,0,28378
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,22-30,0,6592,3812,3812,935,0,1,98166
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,22-30,1,2061,1136,1136,1120,1136,0,29103
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,31-60,0,12621,7623,7623,1850,0,18,335283
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,31-60,1,3695,2233,2233,2205,2233,2,99532
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,0,10929,6607,6607,1938,0,4,70896
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,1,4017,2591,2591,2559,2591,4,27642
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,<=7,0,60714,35186,35186,12311,0,57,48514
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,<=7,1,20745,12448,12448,12340,12448,20,16058
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,>60,0,4123,2440,2440,550,0,13,177663
+2015,5,IVR,Chronic Non-Adherent,0,0,<=3,>60,1,953,562,562,559,562,0,41018
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,15-21,0,178,86,86,16,0,12401,1499
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,15-21,1,40,29,29,29,29,3652,503
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,22-30,0,97,68,68,13,0,9280,1765
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,22-30,1,40,24,24,24,24,3148,609
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,31-60,0,184,110,110,26,0,15518,4623
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,31-60,1,61,38,38,37,38,5963,1547
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,0,236,136,136,43,0,18800,1454
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,1,69,47,47,45,47,6221,478
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,<=7,0,1484,869,869,258,0,115297,867
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,<=7,1,519,296,296,294,296,36682,306
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,>60,0,45,32,32,9,0,5111,2173
+2015,5,IVR,Chronic Non-Adherent,0,0,>10,>60,1,11,7,7,7,7,606,471
+2015,5,IVR,Chronic Non-Adherent,0,1,,,,,37702,0,,,,
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,0,7,3,3,0,0,20,51
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,1,1,1,1,1,1,5,16
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,0,2,1,1,1,0,5,29
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,0,8,4,4,0,0,19,184
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,0,18,10,10,2,0,55,112
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,1,5,4,4,4,4,23,46
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,0,208,124,124,32,0,695,56
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,1,59,43,43,43,43,242,22
+2015,5,IVR,Chronic Non-Adherent,0,1,7-Apr,>60,1,1,1,1,1,1,6,66
+2015,5,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,0,6,4,4,0,0,36,75
+2015,5,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,0,1,1,1,0,0,9,25
+2015,5,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,0,20,12,12,2,0,114,544
+2015,5,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,1,6,3,3,3,3,30,93
+2015,5,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,0,14,9,9,4,0,83,91
+2015,5,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,0,112,78,78,32,0,699,59
+2015,5,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,1,31,11,11,11,11,101,2
+2015,5,IVR,Chronic Non-Adherent,0,1,10-Aug,>60,1,1,1,1,1,1,8,77
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,15-21,0,3783,2029,2029,658,0,6,35712
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,15-21,1,1043,581,581,566,581,1,10202
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,22-30,0,2864,1614,1614,534,0,8,41339
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,22-30,1,858,505,505,499,505,0,12982
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,31-60,0,3741,1947,1947,611,0,7,83285
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,31-60,1,1033,536,536,524,536,0,22952
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,0,6226,3610,3610,1250,0,16,37970
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,1,1744,1044,1044,1033,1044,3,10894
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,<=7,0,46156,25815,25815,9435,0,160,29892
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,<=7,1,14185,8090,8090,8028,8090,34,8889
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,>60,0,940,554,554,187,0,0,40754
+2015,5,IVR,Chronic Non-Adherent,0,1,<=3,>60,1,282,182,182,179,182,4,13335
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,15-21,0,129,73,73,18,0,7315,1272
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,15-21,1,16,12,12,12,12,1460,221
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,22-30,0,128,74,74,21,0,7588,1926
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,22-30,1,43,20,20,18,20,2495,509
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,31-60,0,134,73,73,22,0,8918,2996
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,31-60,1,41,23,23,22,23,1369,920
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,0,228,126,126,34,0,14869,1307
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,1,72,46,46,45,46,5271,468
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,<=7,0,4783,2644,2644,937,0,305122,1060
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,<=7,1,1414,804,804,794,804,96482,311
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,>60,0,32,17,17,8,0,1882,1251
+2015,5,IVR,Chronic Non-Adherent,0,1,>10,>60,1,7,5,5,5,5,811,362
+2015,5,Live Call,Late to Refill,1,0,7-Apr,15-21,0,102,11,11,1,0,64,197
+2015,5,Live Call,Late to Refill,1,0,7-Apr,15-21,1,124,13,13,13,13,73,223
+2015,5,Live Call,Late to Refill,1,0,7-Apr,22-30,0,334,40,40,1,0,251,1126
+2015,5,Live Call,Late to Refill,1,0,7-Apr,22-30,1,185,19,19,19,19,106,541
+2015,5,Live Call,Late to Refill,1,0,7-Apr,31-60,0,323,37,37,0,0,228,1841
+2015,5,Live Call,Late to Refill,1,0,7-Apr,31-60,1,182,22,22,22,22,112,1151
+2015,5,Live Call,Late to Refill,1,0,7-Apr,14-Aug,0,247,28,28,3,0,154,299
+2015,5,Live Call,Late to Refill,1,0,7-Apr,14-Aug,1,108,14,14,14,14,73,137
+2015,5,Live Call,Late to Refill,1,0,7-Apr,<=7,0,987,121,121,21,0,698,706
+2015,5,Live Call,Late to Refill,1,0,7-Apr,<=7,1,475,55,55,55,55,294,300
+2015,5,Live Call,Late to Refill,1,0,7-Apr,>60,0,9,1,1,0,0,7,62
+2015,5,Live Call,Late to Refill,1,0,10-Aug,15-21,0,79,10,10,0,0,86,178
+2015,5,Live Call,Late to Refill,1,0,10-Aug,15-21,1,62,6,6,6,6,59,118
+2015,5,Live Call,Late to Refill,1,0,10-Aug,22-30,0,231,28,28,1,0,244,801
+2015,5,Live Call,Late to Refill,1,0,10-Aug,22-30,1,117,14,14,14,14,130,396
+2015,5,Live Call,Late to Refill,1,0,10-Aug,31-60,0,349,37,37,5,0,324,1743
+2015,5,Live Call,Late to Refill,1,0,10-Aug,31-60,1,88,7,7,7,7,62,384
+2015,5,Live Call,Late to Refill,1,0,10-Aug,14-Aug,0,520,59,59,6,0,528,555
+2015,5,Live Call,Late to Refill,1,0,10-Aug,14-Aug,1,243,28,28,28,28,260,260
+2015,5,Live Call,Late to Refill,1,0,10-Aug,>60,1,53,3,3,3,3,24,201
+2015,5,Live Call,Late to Refill,1,0,<=3,15-21,0,149,18,18,0,0,34,311
+2015,5,Live Call,Late to Refill,1,0,<=3,15-21,1,115,11,11,11,11,19,186
+2015,5,Live Call,Late to Refill,1,0,<=3,22-30,0,495,59,59,5,0,110,1673
+2015,5,Live Call,Late to Refill,1,0,<=3,22-30,1,71,7,7,7,7,14,191
+2015,5,Live Call,Late to Refill,1,0,<=3,31-60,0,373,41,41,0,0,80,2033
+2015,5,Live Call,Late to Refill,1,0,<=3,31-60,1,103,7,7,7,7,19,389
+2015,5,Live Call,Late to Refill,1,0,<=3,14-Aug,0,513,65,65,11,0,131,754
+2015,5,Live Call,Late to Refill,1,0,<=3,14-Aug,1,58,4,4,4,4,6,45
+2015,5,Live Call,Late to Refill,1,0,<=3,<=7,0,999,120,120,9,0,214,305
+2015,5,Live Call,Late to Refill,1,0,<=3,<=7,1,478,59,59,59,59,101,144
+2015,5,Live Call,Late to Refill,1,0,<=3,>60,0,12,2,2,0,0,6,150
+2015,5,Live Call,Late to Refill,1,0,>10,15-21,0,1094,138,138,6,0,3135,2439
+2015,5,Live Call,Late to Refill,1,0,>10,15-21,1,436,58,58,58,58,1721,1059
+2015,5,Live Call,Late to Refill,1,0,>10,22-30,0,1665,196,196,14,0,4959,5271
+2015,5,Live Call,Late to Refill,1,0,>10,22-30,1,693,83,83,83,83,2158,2254
+2015,5,Live Call,Late to Refill,1,0,>10,31-60,0,4969,579,579,30,0,22632,28498
+2015,5,Live Call,Late to Refill,1,0,>10,31-60,1,2276,264,264,264,264,9721,12466
+2015,5,Live Call,Late to Refill,1,0,>10,14-Aug,0,463,58,58,4,0,1008,748
+2015,5,Live Call,Late to Refill,1,0,>10,14-Aug,1,267,34,34,34,34,527,439
+2015,5,Live Call,Late to Refill,1,0,>10,<=7,0,40,5,5,0,0,665,22
+2015,5,Live Call,Late to Refill,1,0,>10,<=7,1,18,3,3,3,3,315,18
+2015,5,Live Call,Late to Refill,1,0,>10,>60,0,11179,1310,1310,86,0,232205,114754
+2015,5,Live Call,Late to Refill,1,0,>10,>60,1,4695,516,516,516,516,90629,44699
+2015,5,Live Call,Late to Refill,1,1,7-Apr,15-21,0,9,1,1,0,0,6,18
+2015,5,Live Call,Late to Refill,1,1,7-Apr,22-30,0,17,2,2,0,0,12,58
+2015,5,Live Call,Late to Refill,1,1,7-Apr,31-60,0,10,1,1,0,0,4,33
+2015,5,Live Call,Late to Refill,1,1,7-Apr,14-Aug,0,59,8,8,2,0,49,92
+2015,5,Live Call,Late to Refill,1,1,7-Apr,14-Aug,1,11,1,1,1,1,4,9
+2015,5,Live Call,Late to Refill,1,1,7-Apr,<=7,0,236,28,28,1,0,161,165
+2015,5,Live Call,Late to Refill,1,1,7-Apr,<=7,1,64,7,7,7,7,38,38
+2015,5,Live Call,Late to Refill,1,1,10-Aug,15-21,0,16,2,2,0,0,18,36
+2015,5,Live Call,Late to Refill,1,1,10-Aug,14-Aug,0,149,17,17,4,0,144,152
+2015,5,Live Call,Late to Refill,1,1,10-Aug,14-Aug,1,71,8,8,8,8,68,68
+2015,5,Live Call,Late to Refill,1,1,<=3,15-21,0,8,1,1,0,0,2,17
+2015,5,Live Call,Late to Refill,1,1,<=3,22-30,0,34,3,3,0,0,5,82
+2015,5,Live Call,Late to Refill,1,1,<=3,14-Aug,0,50,6,6,0,0,12,59
+2015,5,Live Call,Late to Refill,1,1,<=3,<=7,0,297,31,31,6,0,57,59
+2015,5,Live Call,Late to Refill,1,1,<=3,<=7,1,88,9,9,9,9,16,19
+2015,5,Live Call,Late to Refill,1,1,>10,15-21,0,122,14,14,3,0,255,255
+2015,5,Live Call,Late to Refill,1,1,>10,15-21,1,21,2,2,2,2,35,35
+2015,5,Live Call,Late to Refill,1,1,>10,22-30,0,203,22,22,1,0,722,586
+2015,5,Live Call,Late to Refill,1,1,>10,22-30,1,86,10,10,10,10,208,246
+2015,5,Live Call,Late to Refill,1,1,>10,31-60,0,384,43,43,6,0,1754,1758
+2015,5,Live Call,Late to Refill,1,1,>10,31-60,1,116,14,14,14,14,551,670
+2015,5,Live Call,Late to Refill,1,1,>10,14-Aug,0,138,16,16,3,0,279,185
+2015,5,Live Call,Late to Refill,1,1,>10,14-Aug,1,47,5,5,5,5,60,60
+2015,5,Live Call,Late to Refill,1,1,>10,<=7,0,32,4,4,0,0,954,13
+2015,5,Live Call,Late to Refill,1,1,>10,<=7,1,11,1,1,1,1,242,6
+2015,5,Live Call,Late to Refill,1,1,>10,>60,0,1836,209,209,29,0,42585,18509
+2015,5,Live Call,Late to Refill,1,1,>10,>60,1,684,80,80,80,80,16466,7111
+2015,5,Live Call,Chronic Non-Adherent,0,0,,,,,2358,0,,,,
+2015,5,Live Call,Chronic Non-Adherent,0,1,,,,,144,0,,,,
+2015,5,Live Call,Chronic Non-Adherent,1,0,7-Apr,22-30,1,14,2,2,2,2,12,60
+2015,5,Live Call,Chronic Non-Adherent,1,0,7-Apr,31-60,0,8,1,1,0,0,4,50
+2015,5,Live Call,Chronic Non-Adherent,1,0,7-Apr,14-Aug,1,18,2,2,2,2,11,19
+2015,5,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,0,192,21,21,1,0,120,44
+2015,5,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,1,23,2,2,2,2,9,0
+2015,5,Live Call,Chronic Non-Adherent,1,0,7-Apr,>60,0,36,5,5,0,0,29,350
+2015,5,Live Call,Chronic Non-Adherent,1,0,10-Aug,15-21,0,40,5,5,0,0,49,94
+2015,5,Live Call,Chronic Non-Adherent,1,0,10-Aug,22-30,0,10,1,1,0,0,8,26
+2015,5,Live Call,Chronic Non-Adherent,1,0,10-Aug,31-60,0,14,2,2,1,0,19,101
+2015,5,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,0,48,4,4,0,0,36,44
+2015,5,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,0,99,12,12,1,0,106,15
+2015,5,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,1,40,5,5,5,5,49,11
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,0,8635,971,971,93,0,0,17405
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,1,3680,404,404,404,404,0,7223
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,0,8085,908,908,99,0,12,23139
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,1,3007,327,327,327,327,0,8359
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,0,12783,1426,1426,148,0,0,62118
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,1,4598,530,530,530,530,0,22867
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,0,8959,1011,1011,97,0,0,11074
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,1,3819,419,419,419,419,0,4543
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,0,42858,4847,4847,506,0,16,6641
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,1,18066,2020,2020,2020,2020,3,2497
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,>60,0,5044,550,550,55,0,6,39676
+2015,5,Live Call,Chronic Non-Adherent,1,0,<=3,>60,1,1734,197,197,197,197,0,14339
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,15-21,0,275,28,28,2,0,3475,503
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,15-21,1,85,8,8,8,8,1352,151
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,22-30,0,219,24,24,2,0,2811,611
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,22-30,1,100,8,8,8,8,1623,196
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,31-60,0,464,52,52,1,0,8155,2271
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,31-60,1,69,9,9,9,9,1031,382
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,0,274,29,29,0,0,3218,303
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,1,68,9,9,9,9,359,98
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,<=7,0,1858,207,207,20,0,23438,161
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,<=7,1,641,67,67,67,67,6901,86
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,>60,0,243,22,22,2,0,3424,1667
+2015,5,Live Call,Chronic Non-Adherent,1,0,>10,>60,1,73,7,7,7,7,1565,522
+2015,5,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,0,21,3,3,0,0,12,57
+2015,5,Live Call,Chronic Non-Adherent,1,1,7-Apr,14-Aug,1,8,1,1,1,1,5,8
+2015,5,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,0,95,10,10,0,0,59,2
+2015,5,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,1,18,2,2,2,2,13,1
+2015,5,Live Call,Chronic Non-Adherent,1,1,7-Apr,>60,1,8,1,1,1,1,5,84
+2015,5,Live Call,Chronic Non-Adherent,1,1,10-Aug,22-30,1,16,2,2,2,2,16,46
+2015,5,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,0,58,7,7,0,0,69,7
+2015,5,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,1,52,6,6,6,6,58,13
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,0,1121,122,122,5,0,0,2172
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,1,438,51,51,51,51,0,881
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,0,968,108,108,8,0,4,2675
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,1,445,50,50,50,50,0,1266
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,0,1049,119,119,17,0,0,4961
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,1,403,50,50,50,50,0,2232
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,0,2013,223,223,23,0,0,2360
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,1,835,90,90,90,90,0,980
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,0,13474,1514,1514,171,0,13,1737
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,1,5324,594,594,594,594,4,666
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,>60,0,357,39,39,5,0,0,2832
+2015,5,Live Call,Chronic Non-Adherent,1,1,<=3,>60,1,158,17,17,17,17,0,1171
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,15-21,0,182,19,19,0,0,941,322
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,15-21,1,26,3,3,3,3,333,49
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,22-30,0,85,8,8,0,0,860,218
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,22-30,1,20,2,2,2,2,228,53
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,31-60,0,55,7,7,2,0,473,284
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,0,80,10,10,0,0,594,105
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,1,26,3,3,3,3,318,35
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,<=7,0,1793,202,202,31,0,26261,93
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,<=7,1,779,95,95,95,95,10226,42
+2015,5,Live Call,Chronic Non-Adherent,1,1,>10,>60,0,12,2,2,0,0,404,144
+2015,6,IVR,Late to Refill,0,0,7-Apr,15-21,0,401,165,165,39,0,920,2866
+2015,6,IVR,Late to Refill,0,0,7-Apr,15-21,1,126,61,61,60,61,330,1135
+2015,6,IVR,Late to Refill,0,0,7-Apr,22-30,0,780,322,322,104,0,1828,9051
+2015,6,IVR,Late to Refill,0,0,7-Apr,22-30,1,225,96,96,96,96,526,2662
+2015,6,IVR,Late to Refill,0,0,7-Apr,31-60,0,981,368,368,99,0,2062,17797
+2015,6,IVR,Late to Refill,0,0,7-Apr,31-60,1,311,86,86,85,86,502,4295
+2015,6,IVR,Late to Refill,0,0,7-Apr,14-Aug,0,508,200,200,64,0,1087,2076
+2015,6,IVR,Late to Refill,0,0,7-Apr,14-Aug,1,117,52,52,50,52,286,547
+2015,6,IVR,Late to Refill,0,0,7-Apr,<=7,0,6186,2500,2500,1046,0,13664,13788
+2015,6,IVR,Late to Refill,0,0,7-Apr,<=7,1,1301,549,549,541,549,2943,2964
+2015,6,IVR,Late to Refill,0,0,7-Apr,>60,0,6,3,3,3,0,18,204
+2015,6,IVR,Late to Refill,0,0,10-Aug,15-21,0,231,89,89,29,0,800,1584
+2015,6,IVR,Late to Refill,0,0,10-Aug,15-21,1,85,33,33,33,33,297,577
+2015,6,IVR,Late to Refill,0,0,10-Aug,22-30,0,496,197,197,71,0,1771,5545
+2015,6,IVR,Late to Refill,0,0,10-Aug,22-30,1,138,60,60,60,60,533,1718
+2015,6,IVR,Late to Refill,0,0,10-Aug,31-60,0,500,203,203,77,0,1816,9747
+2015,6,IVR,Late to Refill,0,0,10-Aug,31-60,1,127,49,49,49,49,441,2418
+2015,6,IVR,Late to Refill,0,0,10-Aug,14-Aug,0,3385,1361,1361,673,0,12172,12396
+2015,6,IVR,Late to Refill,0,0,10-Aug,14-Aug,1,920,362,362,358,362,3303,3410
+2015,6,IVR,Late to Refill,0,0,10-Aug,>60,0,18,6,6,1,0,52,442
+2015,6,IVR,Late to Refill,0,0,<=3,15-21,0,256,109,109,47,0,208,1922
+2015,6,IVR,Late to Refill,0,0,<=3,15-21,1,96,41,41,41,41,83,732
+2015,6,IVR,Late to Refill,0,0,<=3,22-30,0,640,255,255,117,0,473,7211
+2015,6,IVR,Late to Refill,0,0,<=3,22-30,1,212,75,75,75,75,155,2098
+2015,6,IVR,Late to Refill,0,0,<=3,31-60,0,707,258,258,97,0,506,13050
+2015,6,IVR,Late to Refill,0,0,<=3,31-60,1,171,63,63,62,63,122,3116
+2015,6,IVR,Late to Refill,0,0,<=3,14-Aug,0,379,166,166,62,0,327,1773
+2015,6,IVR,Late to Refill,0,0,<=3,14-Aug,1,171,63,63,63,63,133,675
+2015,6,IVR,Late to Refill,0,0,<=3,<=7,0,5602,2279,2279,1293,0,4260,4903
+2015,6,IVR,Late to Refill,0,0,<=3,<=7,1,1949,737,737,729,737,1453,1659
+2015,6,IVR,Late to Refill,0,0,<=3,>60,0,7,3,3,0,0,5,248
+2015,6,IVR,Late to Refill,0,0,>10,15-21,0,5478,2183,2183,952,0,42652,39288
+2015,6,IVR,Late to Refill,0,0,>10,15-21,1,1223,471,471,468,471,9467,8480
+2015,6,IVR,Late to Refill,0,0,>10,22-30,0,6839,2677,2677,1073,0,71923,71263
+2015,6,IVR,Late to Refill,0,0,>10,22-30,1,1598,646,646,641,646,17030,16984
+2015,6,IVR,Late to Refill,0,0,>10,31-60,0,17489,6820,6820,2594,0,275151,323165
+2015,6,IVR,Late to Refill,0,0,>10,31-60,1,3961,1555,1555,1539,1555,62513,74600
+2015,6,IVR,Late to Refill,0,0,>10,14-Aug,0,3840,1604,1604,689,0,26414,20048
+2015,6,IVR,Late to Refill,0,0,>10,14-Aug,1,908,365,365,359,365,6448,4501
+2015,6,IVR,Late to Refill,0,0,>10,<=7,0,129,57,57,25,0,8875,246
+2015,6,IVR,Late to Refill,0,0,>10,<=7,1,26,10,10,10,10,1517,37
+2015,6,IVR,Late to Refill,0,0,>10,>60,0,33828,13217,13217,4562,0,2044950,1142763
+2015,6,IVR,Late to Refill,0,0,>10,>60,1,7848,3188,3188,3156,3188,526475,277609
+2015,6,IVR,Late to Refill,0,1,7-Apr,15-21,0,74,33,33,4,0,194,555
+2015,6,IVR,Late to Refill,0,1,7-Apr,15-21,1,21,3,3,3,3,17,53
+2015,6,IVR,Late to Refill,0,1,7-Apr,22-30,0,38,18,18,1,0,103,483
+2015,6,IVR,Late to Refill,0,1,7-Apr,22-30,1,7,3,3,3,3,18,70
+2015,6,IVR,Late to Refill,0,1,7-Apr,31-60,0,38,15,15,2,0,87,680
+2015,6,IVR,Late to Refill,0,1,7-Apr,31-60,1,6,3,3,3,3,14,141
+2015,6,IVR,Late to Refill,0,1,7-Apr,14-Aug,0,104,45,45,14,0,246,482
+2015,6,IVR,Late to Refill,0,1,7-Apr,14-Aug,1,10,5,5,5,5,28,49
+2015,6,IVR,Late to Refill,0,1,7-Apr,<=7,0,739,322,322,100,0,1762,1780
+2015,6,IVR,Late to Refill,0,1,7-Apr,<=7,1,248,115,115,115,115,630,635
+2015,6,IVR,Late to Refill,0,1,10-Aug,15-21,0,24,9,9,3,0,80,158
+2015,6,IVR,Late to Refill,0,1,10-Aug,15-21,1,3,1,1,1,1,8,20
+2015,6,IVR,Late to Refill,0,1,10-Aug,22-30,0,39,18,18,4,0,154,523
+2015,6,IVR,Late to Refill,0,1,10-Aug,22-30,1,2,1,1,1,1,8,26
+2015,6,IVR,Late to Refill,0,1,10-Aug,31-60,0,55,12,12,1,0,102,616
+2015,6,IVR,Late to Refill,0,1,10-Aug,31-60,1,9,3,3,2,3,27,133
+2015,6,IVR,Late to Refill,0,1,10-Aug,14-Aug,0,272,119,119,47,0,1063,1117
+2015,6,IVR,Late to Refill,0,1,10-Aug,14-Aug,1,116,52,52,49,52,472,477
+2015,6,IVR,Late to Refill,0,1,<=3,15-21,0,22,10,10,0,0,22,179
+2015,6,IVR,Late to Refill,0,1,<=3,15-21,1,4,2,2,2,2,3,36
+2015,6,IVR,Late to Refill,0,1,<=3,22-30,0,51,21,21,9,0,36,566
+2015,6,IVR,Late to Refill,0,1,<=3,22-30,1,6,3,3,3,3,8,76
+2015,6,IVR,Late to Refill,0,1,<=3,31-60,0,76,13,13,6,0,26,691
+2015,6,IVR,Late to Refill,0,1,<=3,31-60,1,2,1,1,1,1,3,60
+2015,6,IVR,Late to Refill,0,1,<=3,14-Aug,0,78,35,35,9,0,68,375
+2015,6,IVR,Late to Refill,0,1,<=3,14-Aug,1,16,8,8,8,8,17,88
+2015,6,IVR,Late to Refill,0,1,<=3,<=7,0,699,313,313,145,0,570,740
+2015,6,IVR,Late to Refill,0,1,<=3,<=7,1,337,122,122,121,122,235,294
+2015,6,IVR,Late to Refill,0,1,>10,15-21,0,480,203,203,62,0,4551,3655
+2015,6,IVR,Late to Refill,0,1,>10,15-21,1,133,54,54,52,54,1162,963
+2015,6,IVR,Late to Refill,0,1,>10,22-30,0,378,175,175,66,0,4351,4567
+2015,6,IVR,Late to Refill,0,1,>10,22-30,1,173,73,73,73,73,1707,1896
+2015,6,IVR,Late to Refill,0,1,>10,31-60,0,687,268,268,79,0,11233,11874
+2015,6,IVR,Late to Refill,0,1,>10,31-60,1,308,120,120,120,120,5025,5568
+2015,6,IVR,Late to Refill,0,1,>10,14-Aug,0,358,152,152,58,0,3018,1868
+2015,6,IVR,Late to Refill,0,1,>10,14-Aug,1,110,46,46,46,46,567,568
+2015,6,IVR,Late to Refill,0,1,>10,<=7,0,20,10,10,3,0,1664,41
+2015,6,IVR,Late to Refill,0,1,>10,<=7,1,18,9,9,9,9,1647,39
+2015,6,IVR,Late to Refill,0,1,>10,>60,0,8247,3285,3285,1021,0,631818,293570
+2015,6,IVR,Late to Refill,0,1,>10,>60,1,2801,1146,1146,1134,1146,223971,102518
+2015,6,IVR,Chronic Non-Adherent,0,0,,,,,36844,0,,,,
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,0,14,6,6,5,0,41,115
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,1,2,1,1,1,1,6,16
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,0,14,7,7,4,0,34,175
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,1,2,1,1,1,1,7,26
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,0,17,8,8,2,0,41,381
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,1,13,6,6,6,6,32,226
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,0,22,10,10,5,0,61,121
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,1,13,6,6,6,6,33,70
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,0,132,60,60,17,0,317,80
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,1,30,13,13,13,13,76,12
+2015,6,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,0,6,3,3,0,0,13,204
+2015,6,IVR,Chronic Non-Adherent,0,0,10-Aug,15-21,0,38,4,4,0,0,38,77
+2015,6,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,0,6,2,2,2,0,16,48
+2015,6,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,1,6,3,3,3,3,26,66
+2015,6,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,0,12,6,6,3,0,54,249
+2015,6,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,0,14,6,6,0,0,51,68
+2015,6,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,0,44,19,19,7,0,166,17
+2015,6,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,1,32,15,15,15,15,133,10
+2015,6,IVR,Chronic Non-Adherent,0,0,10-Aug,>60,0,2,1,1,0,0,10,70
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,15-21,0,10067,4321,4321,1220,0,4,76847
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,15-21,1,3895,1689,1689,1665,1689,3,29911
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,22-30,0,9076,3886,3886,1178,0,1,99947
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,22-30,1,3298,1418,1418,1396,1418,0,36640
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,31-60,0,16822,7087,7087,2212,0,12,310799
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,31-60,1,6332,2697,2697,2655,2697,7,120180
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,0,15502,6539,6539,2057,0,7,69148
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,1,5888,2549,2549,2522,2549,4,27282
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,<=7,0,83641,34763,34763,13418,0,76,47166
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,<=7,1,32915,14190,14190,14072,14190,29,17879
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,>60,0,6645,2803,2803,723,0,3,203497
+2015,6,IVR,Chronic Non-Adherent,0,0,<=3,>60,1,2163,909,909,899,909,1,66274
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,15-21,0,162,74,74,25,0,10148,1292
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,15-21,1,87,28,28,28,28,3144,489
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,22-30,0,209,85,85,24,0,11244,2188
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,22-30,1,58,28,28,28,28,4681,714
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,31-60,0,373,130,130,33,0,19514,5810
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,31-60,1,99,46,46,46,46,7518,2024
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,0,259,116,116,38,0,14554,1242
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,1,128,60,60,60,60,6836,636
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,<=7,0,1926,796,796,238,0,95696,806
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,<=7,1,762,352,352,346,352,45814,326
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,>60,0,133,43,43,6,0,6100,3037
+2015,6,IVR,Chronic Non-Adherent,0,0,>10,>60,1,12,6,6,6,6,710,407
+2015,6,IVR,Chronic Non-Adherent,0,1,,,,,30028,0,,,,
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,0,28,6,6,2,0,31,101
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,1,4,2,2,2,2,12,32
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,1,2,1,1,1,1,4,29
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,0,16,8,8,5,0,43,321
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,1,15,7,7,7,7,36,336
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,0,18,7,7,1,0,35,74
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,1,4,2,2,2,2,13,23
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,0,279,126,126,40,0,651,92
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,1,136,61,61,60,61,342,47
+2015,6,IVR,Chronic Non-Adherent,0,1,7-Apr,>60,0,7,3,3,1,0,16,210
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,0,8,4,4,3,0,35,69
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,1,2,1,1,1,1,10,17
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,0,7,2,2,0,0,16,51
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,1,6,3,3,3,3,27,90
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,0,23,4,4,1,0,35,149
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,1,12,6,6,6,6,59,274
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,0,35,13,13,5,0,117,137
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,1,4,2,2,2,2,20,18
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,0,257,105,105,39,0,955,45
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,1,94,37,37,37,37,330,9
+2015,6,IVR,Chronic Non-Adherent,0,1,10-Aug,>60,0,6,2,2,1,0,17,136
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,15-21,0,5012,2032,2032,782,0,2,36055
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,15-21,1,1705,718,718,709,718,0,12769
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,22-30,0,4090,1662,1662,601,0,6,42413
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,22-30,1,1121,473,473,469,473,8,11978
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,31-60,0,5642,2196,2196,758,0,15,94029
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,31-60,1,1470,621,621,619,621,3,26448
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,0,8919,3652,3652,1354,0,6,38391
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,1,2872,1246,1246,1243,1246,7,13216
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,<=7,0,69814,28207,28207,11070,0,176,30378
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,<=7,1,24253,10187,10187,10094,10187,99,10307
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,>60,0,2078,811,811,259,0,7,59147
+2015,6,IVR,Chronic Non-Adherent,0,1,<=3,>60,1,482,206,206,200,206,0,14850
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,15-21,0,214,91,91,34,0,9311,1602
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,15-21,1,47,23,23,23,23,1997,390
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,22-30,0,139,62,62,19,0,5196,1575
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,22-30,1,49,24,24,24,24,2142,656
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,31-60,0,216,88,88,30,0,8370,3949
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,31-60,1,69,29,29,28,29,2285,1294
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,0,377,157,157,48,0,13457,1690
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,1,150,39,39,38,39,4131,415
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,<=7,0,7517,3038,3038,1187,0,344382,1126
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,<=7,1,2411,1051,1051,1044,1051,122968,325
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,>60,0,42,20,20,6,0,3167,1402
+2015,6,IVR,Chronic Non-Adherent,0,1,>10,>60,1,10,5,5,5,5,412,345
+2015,6,Live Call,Late to Refill,1,0,7-Apr,15-21,0,570,60,60,4,0,335,1081
+2015,6,Live Call,Late to Refill,1,0,7-Apr,15-21,1,113,13,13,13,13,73,235
+2015,6,Live Call,Late to Refill,1,0,7-Apr,22-30,0,1335,132,132,15,0,719,3752
+2015,6,Live Call,Late to Refill,1,0,7-Apr,22-30,1,440,46,46,46,46,236,1277
+2015,6,Live Call,Late to Refill,1,0,7-Apr,31-60,0,1077,108,108,11,0,631,5407
+2015,6,Live Call,Late to Refill,1,0,7-Apr,31-60,1,442,50,50,50,50,289,2489
+2015,6,Live Call,Late to Refill,1,0,7-Apr,14-Aug,0,684,73,73,8,0,409,773
+2015,6,Live Call,Late to Refill,1,0,7-Apr,14-Aug,1,261,31,31,31,31,163,329
+2015,6,Live Call,Late to Refill,1,0,7-Apr,<=7,0,4084,434,434,52,0,2366,2406
+2015,6,Live Call,Late to Refill,1,0,7-Apr,<=7,1,1674,178,178,178,178,1005,1018
+2015,6,Live Call,Late to Refill,1,0,7-Apr,>60,0,5,1,1,0,0,4,70
+2015,6,Live Call,Late to Refill,1,0,10-Aug,15-21,0,239,27,27,3,0,249,488
+2015,6,Live Call,Late to Refill,1,0,10-Aug,15-21,1,122,9,9,9,9,75,160
+2015,6,Live Call,Late to Refill,1,0,10-Aug,22-30,0,867,85,85,14,0,760,2364
+2015,6,Live Call,Late to Refill,1,0,10-Aug,22-30,1,354,34,34,34,34,303,992
+2015,6,Live Call,Late to Refill,1,0,10-Aug,31-60,0,777,77,77,6,0,683,3754
+2015,6,Live Call,Late to Refill,1,0,10-Aug,31-60,1,213,24,24,24,24,214,1248
+2015,6,Live Call,Late to Refill,1,0,10-Aug,14-Aug,0,2490,262,262,20,0,2362,2424
+2015,6,Live Call,Late to Refill,1,0,10-Aug,14-Aug,1,1103,117,117,117,117,1027,1084
+2015,6,Live Call,Late to Refill,1,0,<=3,15-21,0,483,48,48,2,0,82,852
+2015,6,Live Call,Late to Refill,1,0,<=3,15-21,1,214,26,26,26,26,53,476
+2015,6,Live Call,Late to Refill,1,0,<=3,22-30,0,1260,115,115,10,0,213,3291
+2015,6,Live Call,Late to Refill,1,0,<=3,22-30,1,333,33,33,33,33,61,900
+2015,6,Live Call,Late to Refill,1,0,<=3,31-60,0,809,85,85,7,0,161,4457
+2015,6,Live Call,Late to Refill,1,0,<=3,31-60,1,332,29,29,29,29,53,1619
+2015,6,Live Call,Late to Refill,1,0,<=3,14-Aug,0,501,52,52,4,0,88,597
+2015,6,Live Call,Late to Refill,1,0,<=3,14-Aug,1,186,22,22,22,22,35,255
+2015,6,Live Call,Late to Refill,1,0,<=3,<=7,0,3949,406,406,55,0,785,916
+2015,6,Live Call,Late to Refill,1,0,<=3,<=7,1,1477,166,166,166,166,317,381
+2015,6,Live Call,Late to Refill,1,0,<=3,>60,0,12,1,1,0,0,2,75
+2015,6,Live Call,Late to Refill,1,0,>10,15-21,0,4243,473,473,66,0,8834,8466
+2015,6,Live Call,Late to Refill,1,0,>10,15-21,1,1651,189,189,189,189,3475,3358
+2015,6,Live Call,Late to Refill,1,0,>10,22-30,0,6513,657,657,71,0,18015,17633
+2015,6,Live Call,Late to Refill,1,0,>10,22-30,1,2194,218,218,218,218,6098,5799
+2015,6,Live Call,Late to Refill,1,0,>10,31-60,0,17771,1842,1842,198,0,73312,89740
+2015,6,Live Call,Late to Refill,1,0,>10,31-60,1,6632,686,686,686,686,27281,32879
+2015,6,Live Call,Late to Refill,1,0,>10,14-Aug,0,2849,293,293,43,0,5876,3682
+2015,6,Live Call,Late to Refill,1,0,>10,14-Aug,1,987,103,103,103,103,1951,1281
+2015,6,Live Call,Late to Refill,1,0,>10,<=7,0,241,26,26,0,0,3176,100
+2015,6,Live Call,Late to Refill,1,0,>10,<=7,1,112,8,8,8,8,1050,36
+2015,6,Live Call,Late to Refill,1,0,>10,>60,0,35793,3713,3713,404,0,584792,322441
+2015,6,Live Call,Late to Refill,1,0,>10,>60,1,13594,1354,1354,1354,1354,210765,117203
+2015,6,Live Call,Late to Refill,1,1,7-Apr,15-21,0,10,1,1,0,0,4,21
+2015,6,Live Call,Late to Refill,1,1,7-Apr,22-30,0,87,10,10,1,0,55,275
+2015,6,Live Call,Late to Refill,1,1,7-Apr,22-30,1,60,4,4,4,4,20,120
+2015,6,Live Call,Late to Refill,1,1,7-Apr,31-60,0,66,6,6,0,0,36,314
+2015,6,Live Call,Late to Refill,1,1,7-Apr,14-Aug,0,87,8,8,1,0,41,73
+2015,6,Live Call,Late to Refill,1,1,7-Apr,14-Aug,1,19,2,2,2,2,9,18
+2015,6,Live Call,Late to Refill,1,1,7-Apr,<=7,0,730,80,80,9,0,433,438
+2015,6,Live Call,Late to Refill,1,1,7-Apr,<=7,1,181,20,20,20,20,109,111
+2015,6,Live Call,Late to Refill,1,1,10-Aug,15-21,0,78,6,6,1,0,54,113
+2015,6,Live Call,Late to Refill,1,1,10-Aug,15-21,1,41,3,3,3,3,24,53
+2015,6,Live Call,Late to Refill,1,1,10-Aug,22-30,0,34,3,3,0,0,29,82
+2015,6,Live Call,Late to Refill,1,1,10-Aug,22-30,1,8,1,1,1,1,9,27
+2015,6,Live Call,Late to Refill,1,1,10-Aug,31-60,0,14,2,2,0,0,16,83
+2015,6,Live Call,Late to Refill,1,1,10-Aug,31-60,1,3,1,1,1,1,9,45
+2015,6,Live Call,Late to Refill,1,1,10-Aug,14-Aug,0,269,29,29,7,0,258,265
+2015,6,Live Call,Late to Refill,1,1,10-Aug,14-Aug,1,161,15,15,15,15,136,136
+2015,6,Live Call,Late to Refill,1,1,10-Aug,<=7,0,7,1,1,0,0,8,7
+2015,6,Live Call,Late to Refill,1,1,<=3,15-21,1,24,2,2,2,2,5,32
+2015,6,Live Call,Late to Refill,1,1,<=3,22-30,0,16,2,2,0,0,2,44
+2015,6,Live Call,Late to Refill,1,1,<=3,31-60,0,9,1,1,0,0,2,33
+2015,6,Live Call,Late to Refill,1,1,<=3,14-Aug,0,79,8,8,2,0,17,91
+2015,6,Live Call,Late to Refill,1,1,<=3,14-Aug,1,38,5,5,5,5,9,56
+2015,6,Live Call,Late to Refill,1,1,<=3,<=7,0,623,70,70,8,0,112,136
+2015,6,Live Call,Late to Refill,1,1,<=3,<=7,1,144,25,25,25,25,45,50
+2015,6,Live Call,Late to Refill,1,1,>10,15-21,0,479,53,53,7,0,1512,915
+2015,6,Live Call,Late to Refill,1,1,>10,15-21,1,232,25,25,25,25,607,430
+2015,6,Live Call,Late to Refill,1,1,>10,22-30,0,465,50,50,2,0,1120,1310
+2015,6,Live Call,Late to Refill,1,1,>10,22-30,1,212,22,22,22,22,527,621
+2015,6,Live Call,Late to Refill,1,1,>10,31-60,0,674,71,71,9,0,3200,3311
+2015,6,Live Call,Late to Refill,1,1,>10,31-60,1,220,26,26,26,26,1011,1064
+2015,6,Live Call,Late to Refill,1,1,>10,14-Aug,0,390,35,35,4,0,1007,426
+2015,6,Live Call,Late to Refill,1,1,>10,14-Aug,1,118,11,11,11,11,356,142
+2015,6,Live Call,Late to Refill,1,1,>10,<=7,0,97,11,11,0,0,1677,35
+2015,6,Live Call,Late to Refill,1,1,>10,<=7,1,7,1,1,1,1,198,3
+2015,6,Live Call,Late to Refill,1,1,>10,>60,0,6738,667,667,67,0,121608,59535
+2015,6,Live Call,Late to Refill,1,1,>10,>60,1,2586,255,255,255,255,46740,22693
+2015,6,Live Call,Chronic Non-Adherent,0,0,,,,,4669,0,,,,
+2015,6,Live Call,Chronic Non-Adherent,0,1,,,,,449,0,,,,
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,15-21,0,12,1,1,0,0,6,16
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,15-21,1,36,4,4,4,4,23,66
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,22-30,0,14,2,2,0,0,12,46
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,31-60,0,84,9,9,1,0,52,441
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,14-Aug,0,12,2,2,0,0,11,28
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,14-Aug,1,32,3,3,3,3,17,25
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,0,196,21,21,3,0,117,7
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,1,93,8,8,8,8,46,5
+2015,6,Live Call,Chronic Non-Adherent,1,0,7-Apr,>60,1,12,1,1,1,1,4,72
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,15-21,0,62,5,5,2,0,48,97
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,15-21,1,13,1,1,1,1,10,16
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,22-30,0,6,1,1,0,0,9,25
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,31-60,0,8,1,1,0,0,8,32
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,31-60,1,27,3,3,3,3,29,140
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,0,30,4,4,0,0,34,46
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,1,30,3,3,3,3,25,33
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,0,165,16,16,4,0,145,5
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,1,140,13,13,13,13,122,23
+2015,6,Live Call,Chronic Non-Adherent,1,0,10-Aug,>60,0,16,1,1,0,0,9,61
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,0,14089,1437,1437,138,0,8,25537
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,1,5419,545,545,545,545,0,9657
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,0,14146,1399,1399,154,0,3,36099
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,1,5995,593,593,593,593,4,15177
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,0,24588,2553,2553,240,0,0,110371
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,1,10330,1053,1053,1053,1053,2,46135
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,0,19489,2037,2037,257,0,9,21888
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,1,7497,821,821,821,821,1,8697
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,0,88610,9180,9180,1044,0,15,12709
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,1,37204,3782,3782,3782,3782,14,5214
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,>60,0,10487,1076,1076,135,0,0,78114
+2015,6,Live Call,Chronic Non-Adherent,1,0,<=3,>60,1,4177,430,430,430,430,0,31524
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,15-21,0,402,36,36,8,0,4873,642
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,15-21,1,131,17,17,17,17,3035,309
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,22-30,0,397,41,41,3,0,4860,1045
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,22-30,1,137,14,14,14,14,1862,378
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,31-60,0,657,68,68,11,0,7867,2883
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,31-60,1,290,33,33,33,33,3733,1358
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,0,622,61,61,7,0,7121,653
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,1,186,17,17,17,17,1588,186
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,<=7,0,3254,328,328,30,0,39934,298
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,<=7,1,1281,136,136,136,136,14879,116
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,>60,0,278,29,29,1,0,3517,2093
+2015,6,Live Call,Chronic Non-Adherent,1,0,>10,>60,1,102,11,11,11,11,2298,860
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,0,28,2,2,0,0,11,31
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,1,20,2,2,2,2,14,38
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,22-30,0,10,1,1,0,0,7,22
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,22-30,1,49,3,3,3,3,15,67
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,31-60,0,7,1,1,0,0,6,52
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,31-60,1,53,3,3,3,3,17,110
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,14-Aug,1,11,1,1,1,1,5,12
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,0,295,29,29,3,0,164,2
+2015,6,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,1,71,6,6,6,6,37,4
+2015,6,Live Call,Chronic Non-Adherent,1,1,10-Aug,15-21,0,9,1,1,1,0,10,17
+2015,6,Live Call,Chronic Non-Adherent,1,1,10-Aug,31-60,1,13,1,1,1,1,8,41
+2015,6,Live Call,Chronic Non-Adherent,1,1,10-Aug,14-Aug,0,14,1,1,1,0,8,9
+2015,6,Live Call,Chronic Non-Adherent,1,1,10-Aug,14-Aug,1,16,2,2,2,2,19,22
+2015,6,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,0,162,15,15,4,0,134,11
+2015,6,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,1,89,10,10,10,10,93,1
+2015,6,Live Call,Chronic Non-Adherent,1,1,10-Aug,>60,0,13,1,1,0,0,9,64
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,0,3015,301,301,35,0,1,5249
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,1,1178,135,135,135,135,0,2369
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,0,2844,291,291,28,0,0,7573
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,1,1020,103,103,103,103,2,2610
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,0,4079,411,411,40,0,1,17618
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,1,1542,151,151,151,151,0,6503
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,0,5306,548,548,50,0,5,5771
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,1,1927,206,206,206,206,0,2134
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,0,36516,3796,3796,505,0,36,4101
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,1,15886,1617,1617,1617,1617,17,1674
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,>60,0,1363,141,141,11,0,0,10242
+2015,6,Live Call,Chronic Non-Adherent,1,1,<=3,>60,1,483,51,51,51,51,0,3702
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,15-21,0,92,11,11,1,0,774,189
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,15-21,1,62,8,8,8,8,548,146
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,22-30,0,124,13,13,4,0,1092,332
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,22-30,1,119,9,9,9,9,879,232
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,31-60,0,84,11,11,1,0,966,465
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,31-60,1,76,10,10,10,10,932,435
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,0,251,27,27,1,0,2254,280
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,1,36,5,5,5,5,485,53
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,<=7,0,4871,496,496,62,0,52662,233
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,<=7,1,1741,186,186,186,186,17480,146
+2015,6,Live Call,Chronic Non-Adherent,1,1,>10,>60,0,29,4,4,0,0,535,291
+2015,7,IVR,Late to Refill,0,0,7-Apr,15-21,0,140,70,70,23,0,391,1243
+2015,7,IVR,Late to Refill,0,0,7-Apr,15-21,1,46,23,23,23,23,135,402
+2015,7,IVR,Late to Refill,0,0,7-Apr,22-30,0,484,227,227,66,0,1265,6387
+2015,7,IVR,Late to Refill,0,0,7-Apr,22-30,1,92,46,46,46,46,231,1302
+2015,7,IVR,Late to Refill,0,0,7-Apr,31-60,0,348,174,174,42,0,962,8558
+2015,7,IVR,Late to Refill,0,0,7-Apr,31-60,1,44,22,22,22,22,121,1126
+2015,7,IVR,Late to Refill,0,0,7-Apr,14-Aug,0,294,147,147,52,0,820,1534
+2015,7,IVR,Late to Refill,0,0,7-Apr,14-Aug,1,89,37,37,37,37,199,376
+2015,7,IVR,Late to Refill,0,0,7-Apr,<=7,0,3087,1461,1461,599,0,7962,8037
+2015,7,IVR,Late to Refill,0,0,7-Apr,<=7,1,708,354,354,352,354,1904,1913
+2015,7,IVR,Late to Refill,0,0,10-Aug,15-21,0,98,49,49,16,0,450,862
+2015,7,IVR,Late to Refill,0,0,10-Aug,15-21,1,24,12,12,12,12,112,217
+2015,7,IVR,Late to Refill,0,0,10-Aug,22-30,0,189,87,87,24,0,781,2432
+2015,7,IVR,Late to Refill,0,0,10-Aug,22-30,1,70,20,20,19,20,187,545
+2015,7,IVR,Late to Refill,0,0,10-Aug,31-60,0,225,105,105,39,0,925,5037
+2015,7,IVR,Late to Refill,0,0,10-Aug,31-60,1,125,25,25,25,25,234,1236
+2015,7,IVR,Late to Refill,0,0,10-Aug,14-Aug,0,1445,715,715,321,0,6424,6600
+2015,7,IVR,Late to Refill,0,0,10-Aug,14-Aug,1,331,158,158,155,158,1434,1468
+2015,7,IVR,Late to Refill,0,0,10-Aug,>60,0,6,3,3,0,0,27,203
+2015,7,IVR,Late to Refill,0,0,<=3,15-21,0,147,51,51,12,0,91,883
+2015,7,IVR,Late to Refill,0,0,<=3,15-21,1,34,17,17,17,17,29,309
+2015,7,IVR,Late to Refill,0,0,<=3,22-30,0,320,160,160,40,0,307,4540
+2015,7,IVR,Late to Refill,0,0,<=3,22-30,1,91,38,38,37,38,67,1058
+2015,7,IVR,Late to Refill,0,0,<=3,31-60,0,223,104,104,31,0,208,5266
+2015,7,IVR,Late to Refill,0,0,<=3,31-60,1,79,32,32,30,32,47,1594
+2015,7,IVR,Late to Refill,0,0,<=3,14-Aug,0,198,99,99,45,0,194,1037
+2015,7,IVR,Late to Refill,0,0,<=3,14-Aug,1,68,34,34,34,34,76,353
+2015,7,IVR,Late to Refill,0,0,<=3,<=7,0,2859,1332,1332,662,0,2571,2925
+2015,7,IVR,Late to Refill,0,0,<=3,<=7,1,811,368,368,365,368,727,858
+2015,7,IVR,Late to Refill,0,0,<=3,>60,0,6,3,3,0,0,7,255
+2015,7,IVR,Late to Refill,0,0,<=3,>60,1,4,2,2,2,2,2,152
+2015,7,IVR,Late to Refill,0,0,>10,15-21,0,2615,1240,1240,454,0,24297,22343
+2015,7,IVR,Late to Refill,0,0,>10,15-21,1,507,246,246,246,246,4806,4436
+2015,7,IVR,Late to Refill,0,0,>10,22-30,0,2944,1442,1442,480,0,37604,38317
+2015,7,IVR,Late to Refill,0,0,>10,22-30,1,654,312,312,307,312,8310,8313
+2015,7,IVR,Late to Refill,0,0,>10,31-60,0,7841,3673,3673,1201,0,147596,173848
+2015,7,IVR,Late to Refill,0,0,>10,31-60,1,1561,713,713,702,713,28282,33201
+2015,7,IVR,Late to Refill,0,0,>10,14-Aug,0,1903,914,914,347,0,15681,11485
+2015,7,IVR,Late to Refill,0,0,>10,14-Aug,1,401,193,193,192,193,3099,2362
+2015,7,IVR,Late to Refill,0,0,>10,<=7,0,110,40,40,12,0,5558,160
+2015,7,IVR,Late to Refill,0,0,>10,<=7,1,26,13,13,13,13,2518,47
+2015,7,IVR,Late to Refill,0,0,>10,>60,0,17152,7871,7871,2417,0,1150571,680817
+2015,7,IVR,Late to Refill,0,0,>10,>60,1,3736,1643,1643,1620,1643,248342,143196
+2015,7,IVR,Late to Refill,0,1,7-Apr,15-21,0,22,11,11,1,0,64,175
+2015,7,IVR,Late to Refill,0,1,7-Apr,15-21,1,21,3,3,3,3,18,50
+2015,7,IVR,Late to Refill,0,1,7-Apr,22-30,0,28,14,14,3,0,80,364
+2015,7,IVR,Late to Refill,0,1,7-Apr,22-30,1,10,5,5,5,5,21,122
+2015,7,IVR,Late to Refill,0,1,7-Apr,31-60,0,20,10,10,0,0,49,505
+2015,7,IVR,Late to Refill,0,1,7-Apr,31-60,1,4,2,2,2,2,9,120
+2015,7,IVR,Late to Refill,0,1,7-Apr,14-Aug,0,42,21,21,7,0,105,245
+2015,7,IVR,Late to Refill,0,1,7-Apr,<=7,0,348,144,144,52,0,783,793
+2015,7,IVR,Late to Refill,0,1,7-Apr,<=7,1,76,38,38,38,38,183,184
+2015,7,IVR,Late to Refill,0,1,10-Aug,15-21,0,10,5,5,0,0,41,79
+2015,7,IVR,Late to Refill,0,1,10-Aug,15-21,1,2,1,1,1,1,10,20
+2015,7,IVR,Late to Refill,0,1,10-Aug,22-30,0,16,8,8,2,0,74,216
+2015,7,IVR,Late to Refill,0,1,10-Aug,31-60,0,4,2,2,1,0,18,93
+2015,7,IVR,Late to Refill,0,1,10-Aug,31-60,1,14,7,7,7,7,64,378
+2015,7,IVR,Late to Refill,0,1,10-Aug,14-Aug,0,164,82,82,32,0,734,742
+2015,7,IVR,Late to Refill,0,1,10-Aug,14-Aug,1,69,27,27,27,27,252,252
+2015,7,IVR,Late to Refill,0,1,<=3,15-21,0,12,6,6,1,0,12,102
+2015,7,IVR,Late to Refill,0,1,<=3,22-30,0,18,9,9,2,0,16,245
+2015,7,IVR,Late to Refill,0,1,<=3,22-30,1,4,2,2,2,2,4,60
+2015,7,IVR,Late to Refill,0,1,<=3,31-60,0,6,3,3,1,0,6,107
+2015,7,IVR,Late to Refill,0,1,<=3,31-60,1,6,3,3,3,3,8,155
+2015,7,IVR,Late to Refill,0,1,<=3,14-Aug,0,32,16,16,2,0,28,158
+2015,7,IVR,Late to Refill,0,1,<=3,14-Aug,1,14,7,7,7,7,14,80
+2015,7,IVR,Late to Refill,0,1,<=3,<=7,0,511,203,203,74,0,373,452
+2015,7,IVR,Late to Refill,0,1,<=3,<=7,1,122,61,61,61,61,105,139
+2015,7,IVR,Late to Refill,0,1,>10,15-21,0,305,130,130,36,0,2637,2363
+2015,7,IVR,Late to Refill,0,1,>10,15-21,1,50,25,25,25,25,427,443
+2015,7,IVR,Late to Refill,0,1,>10,22-30,0,289,122,122,23,0,3746,3215
+2015,7,IVR,Late to Refill,0,1,>10,22-30,1,76,23,23,23,23,792,614
+2015,7,IVR,Late to Refill,0,1,>10,31-60,0,453,174,174,61,0,7661,7723
+2015,7,IVR,Late to Refill,0,1,>10,31-60,1,174,57,57,56,57,2277,2455
+2015,7,IVR,Late to Refill,0,1,>10,14-Aug,0,142,71,71,27,0,1436,892
+2015,7,IVR,Late to Refill,0,1,>10,14-Aug,1,50,25,25,25,25,316,316
+2015,7,IVR,Late to Refill,0,1,>10,<=7,0,50,10,10,1,0,1386,39
+2015,7,IVR,Late to Refill,0,1,>10,<=7,1,6,3,3,2,3,350,7
+2015,7,IVR,Late to Refill,0,1,>10,>60,0,3754,1772,1772,523,0,304354,158248
+2015,7,IVR,Late to Refill,0,1,>10,>60,1,1052,496,496,496,496,87746,44275
+2015,7,IVR,Chronic Non-Adherent,0,0,,,,,29081,0,,,,
+2015,7,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,0,4,2,2,0,0,11,36
+2015,7,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,0,10,5,5,0,0,29,118
+2015,7,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,0,16,8,8,0,0,42,331
+2015,7,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,1,2,1,1,0,1,4,55
+2015,7,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,1,4,2,2,2,2,11,23
+2015,7,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,0,16,8,8,3,0,40,8
+2015,7,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,1,36,18,18,17,18,102,11
+2015,7,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,0,2,1,1,0,0,5,64
+2015,7,IVR,Chronic Non-Adherent,0,0,10-Aug,15-21,0,4,2,2,0,0,18,36
+2015,7,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,0,10,5,5,1,0,46,212
+2015,7,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,1,2,1,1,1,1,10,31
+2015,7,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,0,2,1,1,1,0,8,14
+2015,7,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,1,2,1,1,1,1,8,8
+2015,7,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,0,24,12,12,3,0,105,11
+2015,7,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,1,4,2,2,2,2,20,0
+2015,7,IVR,Chronic Non-Adherent,0,0,10-Aug,>60,1,2,1,1,1,1,9,63
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,15-21,0,4736,2248,2248,656,0,5,40200
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,15-21,1,1865,835,835,823,835,2,14687
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,22-30,0,4729,2192,2192,598,0,0,56060
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,22-30,1,1582,686,686,680,686,2,17667
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,31-60,0,8862,4011,4011,1043,0,0,173756
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,31-60,1,2902,1391,1391,1382,1391,7,60741
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,0,7558,3449,3449,1020,0,16,36419
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,1,2846,1213,1213,1195,1213,0,13113
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,<=7,0,39425,18415,18415,6419,0,35,25567
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,<=7,1,14507,6556,6556,6511,6556,34,8032
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,>60,0,3872,1801,1801,415,0,0,132527
+2015,7,IVR,Chronic Non-Adherent,0,0,<=3,>60,1,1105,500,500,494,500,0,36664
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,15-21,0,73,29,29,4,0,3413,505
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,15-21,1,26,13,13,13,13,970,231
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,22-30,0,90,45,45,12,0,6307,1151
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,22-30,1,32,16,16,15,16,2155,431
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,31-60,0,172,71,71,12,0,9653,3062
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,31-60,1,47,16,16,16,16,2329,673
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,0,144,72,72,23,0,7953,806
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,1,46,23,23,23,23,3160,256
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,<=7,0,896,403,403,118,0,44555,361
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,<=7,1,335,145,145,144,145,14891,83
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,>60,0,52,26,26,1,0,3920,1940
+2015,7,IVR,Chronic Non-Adherent,0,0,>10,>60,1,18,9,9,9,9,1622,651
+2015,7,IVR,Chronic Non-Adherent,0,1,,,,,37075,0,,,,
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,0,8,4,4,4,0,16,60
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,1,2,1,1,1,1,4,16
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,0,4,2,2,0,0,8,54
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,0,12,6,6,2,0,35,65
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,1,6,3,3,3,3,16,36
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,0,186,93,93,45,0,496,42
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,1,48,24,24,24,24,132,4
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,>60,0,6,3,3,0,0,15,216
+2015,7,IVR,Chronic Non-Adherent,0,1,7-Apr,>60,1,2,1,1,1,1,7,82
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,0,4,2,2,0,0,19,34
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,1,2,1,1,1,1,10,16
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,1,2,1,1,1,1,9,26
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,0,10,5,5,2,0,41,222
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,1,2,1,1,1,1,9,39
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,0,20,10,10,2,0,93,112
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,0,72,36,36,12,0,327,14
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,1,38,19,19,19,19,167,11
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,>60,0,2,1,1,0,0,9,74
+2015,7,IVR,Chronic Non-Adherent,0,1,10-Aug,>60,1,2,1,1,0,1,8,78
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,15-21,0,2193,1014,1014,310,0,7,17945
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,15-21,1,685,290,290,287,290,3,5041
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,22-30,0,1682,796,796,207,0,3,20254
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,22-30,1,550,245,245,243,245,0,6275
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,31-60,0,2531,1198,1198,393,0,9,51349
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,31-60,1,861,363,363,361,363,0,15927
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,0,4176,1938,1938,628,0,4,20349
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,1,1035,510,510,507,510,0,5334
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,<=7,0,31383,14694,14694,5203,0,79,15756
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,<=7,1,9991,4598,4598,4572,4598,28,4729
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,>60,0,959,457,457,140,0,1,33357
+2015,7,IVR,Chronic Non-Adherent,0,1,<=3,>60,1,234,117,117,116,117,0,8797
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,15-21,0,78,39,39,11,0,3328,668
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,15-21,1,18,9,9,9,9,271,165
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,22-30,0,50,25,25,7,0,2280,653
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,22-30,1,18,9,9,9,9,1055,210
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,31-60,0,72,36,36,11,0,2912,1591
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,31-60,1,28,14,14,14,14,1506,510
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,0,217,86,86,17,0,7491,912
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,1,48,24,24,24,24,1588,261
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,<=7,0,3146,1408,1408,498,0,146101,542
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,<=7,1,1149,507,507,505,507,52374,178
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,>60,0,50,10,10,2,0,1550,742
+2015,7,IVR,Chronic Non-Adherent,0,1,>10,>60,1,2,1,1,1,1,22,66
+2015,7,Live Call,Late to Refill,1,0,7-Apr,15-21,0,533,38,38,4,0,202,654
+2015,7,Live Call,Late to Refill,1,0,7-Apr,15-21,1,176,15,15,15,15,84,269
+2015,7,Live Call,Late to Refill,1,0,7-Apr,22-30,0,1224,86,86,7,0,500,2430
+2015,7,Live Call,Late to Refill,1,0,7-Apr,22-30,1,633,42,42,42,42,222,1216
+2015,7,Live Call,Late to Refill,1,0,7-Apr,31-60,0,974,61,61,11,0,358,2953
+2015,7,Live Call,Late to Refill,1,0,7-Apr,31-60,1,483,36,36,36,36,197,1925
+2015,7,Live Call,Late to Refill,1,0,7-Apr,14-Aug,0,752,49,49,3,0,273,555
+2015,7,Live Call,Late to Refill,1,0,7-Apr,14-Aug,1,533,37,37,37,37,210,394
+2015,7,Live Call,Late to Refill,1,0,7-Apr,<=7,0,4939,375,375,47,0,2091,2108
+2015,7,Live Call,Late to Refill,1,0,7-Apr,<=7,1,2208,180,180,180,180,1002,1008
+2015,7,Live Call,Late to Refill,1,0,10-Aug,15-21,0,566,39,39,7,0,325,715
+2015,7,Live Call,Late to Refill,1,0,10-Aug,15-21,1,56,5,5,5,5,46,93
+2015,7,Live Call,Late to Refill,1,0,10-Aug,22-30,0,1017,65,65,9,0,565,1825
+2015,7,Live Call,Late to Refill,1,0,10-Aug,22-30,1,218,17,17,17,17,143,481
+2015,7,Live Call,Late to Refill,1,0,10-Aug,31-60,0,935,63,63,6,0,573,3111
+2015,7,Live Call,Late to Refill,1,0,10-Aug,31-60,1,288,20,20,20,20,175,985
+2015,7,Live Call,Late to Refill,1,0,10-Aug,14-Aug,0,3643,288,288,29,0,2540,2644
+2015,7,Live Call,Late to Refill,1,0,10-Aug,14-Aug,1,1156,98,98,98,98,879,909
+2015,7,Live Call,Late to Refill,1,0,<=3,15-21,0,343,28,28,4,0,53,498
+2015,7,Live Call,Late to Refill,1,0,<=3,15-21,1,187,13,13,13,13,28,230
+2015,7,Live Call,Late to Refill,1,0,<=3,22-30,0,1396,101,101,11,0,173,2849
+2015,7,Live Call,Late to Refill,1,0,<=3,22-30,1,306,21,21,21,21,37,573
+2015,7,Live Call,Late to Refill,1,0,<=3,31-60,0,1134,68,68,6,0,132,3165
+2015,7,Live Call,Late to Refill,1,0,<=3,31-60,1,182,17,17,17,17,26,915
+2015,7,Live Call,Late to Refill,1,0,<=3,14-Aug,0,1143,71,71,10,0,145,743
+2015,7,Live Call,Late to Refill,1,0,<=3,14-Aug,1,232,15,15,15,15,29,174
+2015,7,Live Call,Late to Refill,1,0,<=3,<=7,0,5825,477,477,70,0,901,1102
+2015,7,Live Call,Late to Refill,1,0,<=3,<=7,1,2431,191,191,191,191,352,403
+2015,7,Live Call,Late to Refill,1,0,<=3,>60,0,15,1,1,0,0,1,67
+2015,7,Live Call,Late to Refill,1,0,>10,15-21,0,6040,482,482,52,0,9447,8538
+2015,7,Live Call,Late to Refill,1,0,>10,15-21,1,2160,174,174,174,174,4122,3182
+2015,7,Live Call,Late to Refill,1,0,>10,22-30,0,8995,639,639,69,0,15968,16948
+2015,7,Live Call,Late to Refill,1,0,>10,22-30,1,3628,272,272,272,272,7570,7258
+2015,7,Live Call,Late to Refill,1,0,>10,31-60,0,24174,1762,1762,183,0,68182,84410
+2015,7,Live Call,Late to Refill,1,0,>10,31-60,1,8328,603,603,603,603,23167,28719
+2015,7,Live Call,Late to Refill,1,0,>10,14-Aug,0,4231,325,325,33,0,5112,4076
+2015,7,Live Call,Late to Refill,1,0,>10,14-Aug,1,1817,133,133,133,133,1838,1677
+2015,7,Live Call,Late to Refill,1,0,>10,<=7,0,91,8,8,1,0,1007,38
+2015,7,Live Call,Late to Refill,1,0,>10,<=7,1,75,5,5,5,5,434,14
+2015,7,Live Call,Late to Refill,1,0,>10,>60,0,49821,3524,3524,338,0,485450,305611
+2015,7,Live Call,Late to Refill,1,0,>10,>60,1,16837,1210,1210,1210,1210,167765,104680
+2015,7,Live Call,Late to Refill,1,1,7-Apr,15-21,0,16,1,1,0,0,7,16
+2015,7,Live Call,Late to Refill,1,1,7-Apr,15-21,1,3,1,1,1,1,4,20
+2015,7,Live Call,Late to Refill,1,1,7-Apr,22-30,0,124,6,6,1,0,30,173
+2015,7,Live Call,Late to Refill,1,1,7-Apr,22-30,1,51,3,3,3,3,21,90
+2015,7,Live Call,Late to Refill,1,1,7-Apr,31-60,0,52,4,4,0,0,18,212
+2015,7,Live Call,Late to Refill,1,1,7-Apr,14-Aug,0,198,11,11,1,0,46,108
+2015,7,Live Call,Late to Refill,1,1,7-Apr,14-Aug,1,39,5,5,5,5,28,51
+2015,7,Live Call,Late to Refill,1,1,7-Apr,<=7,0,1078,73,73,16,0,392,393
+2015,7,Live Call,Late to Refill,1,1,7-Apr,<=7,1,424,32,32,32,32,186,188
+2015,7,Live Call,Late to Refill,1,1,10-Aug,15-21,0,51,4,4,3,0,33,72
+2015,7,Live Call,Late to Refill,1,1,10-Aug,15-21,1,22,2,2,2,2,18,31
+2015,7,Live Call,Late to Refill,1,1,10-Aug,22-30,0,149,8,8,0,0,70,224
+2015,7,Live Call,Late to Refill,1,1,10-Aug,31-60,0,15,1,1,0,0,8,54
+2015,7,Live Call,Late to Refill,1,1,10-Aug,31-60,1,10,1,1,1,1,10,40
+2015,7,Live Call,Late to Refill,1,1,10-Aug,14-Aug,0,398,32,32,2,0,284,298
+2015,7,Live Call,Late to Refill,1,1,10-Aug,14-Aug,1,77,6,6,6,6,57,61
+2015,7,Live Call,Late to Refill,1,1,<=3,15-21,0,70,5,5,0,0,11,83
+2015,7,Live Call,Late to Refill,1,1,<=3,15-21,1,30,2,2,2,2,5,32
+2015,7,Live Call,Late to Refill,1,1,<=3,22-30,0,75,7,7,2,0,11,190
+2015,7,Live Call,Late to Refill,1,1,<=3,22-30,1,60,4,4,4,4,9,114
+2015,7,Live Call,Late to Refill,1,1,<=3,31-60,0,36,3,3,2,0,7,180
+2015,7,Live Call,Late to Refill,1,1,<=3,14-Aug,0,69,5,5,1,0,7,56
+2015,7,Live Call,Late to Refill,1,1,<=3,14-Aug,1,43,4,4,4,4,9,41
+2015,7,Live Call,Late to Refill,1,1,<=3,<=7,0,1157,90,90,10,0,171,204
+2015,7,Live Call,Late to Refill,1,1,<=3,<=7,1,472,36,36,36,36,63,80
+2015,7,Live Call,Late to Refill,1,1,>10,15-21,0,545,43,43,8,0,881,812
+2015,7,Live Call,Late to Refill,1,1,>10,15-21,1,193,15,15,15,15,270,280
+2015,7,Live Call,Late to Refill,1,1,>10,22-30,0,622,46,46,5,0,1741,1196
+2015,7,Live Call,Late to Refill,1,1,>10,22-30,1,208,15,15,15,15,551,400
+2015,7,Live Call,Late to Refill,1,1,>10,31-60,0,920,69,69,6,0,3198,3122
+2015,7,Live Call,Late to Refill,1,1,>10,31-60,1,301,18,18,18,18,690,830
+2015,7,Live Call,Late to Refill,1,1,>10,14-Aug,0,631,43,43,6,0,771,558
+2015,7,Live Call,Late to Refill,1,1,>10,14-Aug,1,243,15,15,15,15,529,187
+2015,7,Live Call,Late to Refill,1,1,>10,>60,0,10688,746,746,84,0,118076,66734
+2015,7,Live Call,Late to Refill,1,1,>10,>60,1,3863,275,275,275,275,44131,24547
+2015,7,Live Call,Chronic Non-Adherent,0,0,,,,,3553,0,,,,
+2015,7,Live Call,Chronic Non-Adherent,0,1,,,,,210,0,,,,
+2015,7,Live Call,Chronic Non-Adherent,1,0,7-Apr,22-30,0,26,1,1,0,0,7,24
+2015,7,Live Call,Chronic Non-Adherent,1,0,7-Apr,31-60,0,45,3,3,0,0,19,128
+2015,7,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,0,307,16,16,3,0,79,4
+2015,7,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,1,95,6,6,6,6,31,0
+2015,7,Live Call,Chronic Non-Adherent,1,0,7-Apr,>60,0,13,1,1,0,0,7,64
+2015,7,Live Call,Chronic Non-Adherent,1,0,10-Aug,15-21,1,21,1,1,1,1,10,20
+2015,7,Live Call,Chronic Non-Adherent,1,0,10-Aug,22-30,0,35,2,2,1,0,18,52
+2015,7,Live Call,Chronic Non-Adherent,1,0,10-Aug,31-60,0,23,1,1,0,0,10,34
+2015,7,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,0,21,2,2,1,0,16,18
+2015,7,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,1,22,2,2,2,2,16,23
+2015,7,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,0,155,12,12,0,0,117,19
+2015,7,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,1,23,3,3,3,3,28,3
+2015,7,Live Call,Chronic Non-Adherent,1,0,10-Aug,>60,0,30,3,3,0,0,26,217
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,0,18852,1391,1391,137,0,0,24763
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,1,6863,504,504,504,504,0,8951
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,0,18084,1360,1360,162,0,0,35137
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,1,6870,505,505,505,505,3,12964
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,0,32609,2444,2444,264,0,0,106316
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,1,12042,911,911,911,911,3,39635
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,0,25880,1957,1957,208,0,2,21105
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,1,8834,671,671,671,671,0,7165
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,0,116720,8910,8910,1042,0,36,13021
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,1,47236,3567,3567,3567,3567,5,5219
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,>60,0,13667,1063,1063,132,0,0,76539
+2015,7,Live Call,Chronic Non-Adherent,1,0,<=3,>60,1,4695,365,365,365,365,0,26402
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,15-21,0,344,24,24,1,0,2744,414
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,15-21,1,203,12,12,12,12,1327,206
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,22-30,0,383,25,25,1,0,2640,662
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,22-30,1,207,15,15,15,15,1555,405
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,31-60,0,542,39,39,1,0,4227,1698
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,31-60,1,351,27,27,27,27,3565,1149
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,0,561,41,41,9,0,4166,469
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,1,158,14,14,14,14,2092,151
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,<=7,0,3437,252,252,28,0,27133,219
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,<=7,1,1449,100,100,100,100,9072,99
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,>60,0,292,24,24,2,0,3758,1711
+2015,7,Live Call,Chronic Non-Adherent,1,0,>10,>60,1,129,10,10,10,10,1002,670
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,0,16,1,1,0,0,5,16
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,1,16,2,2,2,2,14,40
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,22-30,0,16,1,1,0,0,6,29
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,14-Aug,0,10,1,1,0,0,7,14
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,14-Aug,1,24,2,2,2,2,10,20
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,0,308,23,23,2,0,128,28
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,1,176,11,11,11,11,61,5
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,>60,0,53,3,3,0,0,19,211
+2015,7,Live Call,Chronic Non-Adherent,1,1,7-Apr,>60,1,16,1,1,1,1,6,68
+2015,7,Live Call,Chronic Non-Adherent,1,1,10-Aug,15-21,0,23,2,2,0,0,19,36
+2015,7,Live Call,Chronic Non-Adherent,1,1,10-Aug,15-21,1,16,1,1,1,1,9,19
+2015,7,Live Call,Chronic Non-Adherent,1,1,10-Aug,31-60,0,11,1,1,0,0,8,33
+2015,7,Live Call,Chronic Non-Adherent,1,1,10-Aug,31-60,1,6,1,1,1,1,8,55
+2015,7,Live Call,Chronic Non-Adherent,1,1,10-Aug,14-Aug,0,12,1,1,0,0,9,8
+2015,7,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,0,304,23,23,2,0,200,13
+2015,7,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,1,65,6,6,6,6,54,10
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,0,4541,349,349,34,0,5,6205
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,1,1902,144,144,144,144,2,2524
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,0,4032,304,304,34,0,0,7768
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,1,1487,109,109,109,109,0,2815
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,0,5473,398,398,32,0,0,16939
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,1,1886,138,138,138,138,4,5788
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,0,8685,677,677,70,0,3,6989
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,1,2534,196,196,196,196,0,2029
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,0,63992,4948,4948,595,0,29,5314
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,1,25441,1945,1945,1945,1945,1,2242
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,>60,0,2401,185,185,13,0,2,13677
+2015,7,Live Call,Chronic Non-Adherent,1,1,<=3,>60,1,912,72,72,72,72,0,5256
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,15-21,0,193,12,12,0,0,1155,210
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,15-21,1,70,4,4,4,4,252,68
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,22-30,0,159,11,11,1,0,1392,276
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,22-30,1,68,4,4,4,4,296,102
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,31-60,0,319,23,23,2,0,2014,884
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,31-60,1,103,9,9,9,9,930,370
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,0,367,31,31,3,0,2201,321
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,1,187,16,16,16,16,1168,154
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,<=7,0,7289,545,545,66,0,52807,262
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,<=7,1,2600,204,204,204,204,19176,97
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,>60,0,31,3,3,0,0,290,206
+2015,7,Live Call,Chronic Non-Adherent,1,1,>10,>60,1,7,1,1,1,1,169,69
+2015,8,IVR,Late to Refill,0,0,7-Apr,15-21,0,139,66,66,29,0,346,1170
+2015,8,IVR,Late to Refill,0,0,7-Apr,15-21,1,34,16,16,16,16,74,289
+2015,8,IVR,Late to Refill,0,0,7-Apr,22-30,0,446,148,148,44,0,820,4137
+2015,8,IVR,Late to Refill,0,0,7-Apr,22-30,1,39,19,19,19,19,93,546
+2015,8,IVR,Late to Refill,0,0,7-Apr,31-60,0,286,129,129,43,0,736,6298
+2015,8,IVR,Late to Refill,0,0,7-Apr,31-60,1,68,31,31,30,31,183,1612
+2015,8,IVR,Late to Refill,0,0,7-Apr,14-Aug,0,269,115,115,35,0,644,1190
+2015,8,IVR,Late to Refill,0,0,7-Apr,14-Aug,1,84,40,40,40,40,224,404
+2015,8,IVR,Late to Refill,0,0,7-Apr,<=7,0,2645,1160,1160,543,0,6379,6410
+2015,8,IVR,Late to Refill,0,0,7-Apr,<=7,1,432,194,194,191,194,1034,1041
+2015,8,IVR,Late to Refill,0,0,7-Apr,>60,0,4,2,2,0,0,14,138
+2015,8,IVR,Late to Refill,0,0,10-Aug,15-21,0,62,22,22,9,0,190,401
+2015,8,IVR,Late to Refill,0,0,10-Aug,15-21,1,24,11,11,11,11,96,196
+2015,8,IVR,Late to Refill,0,0,10-Aug,22-30,0,160,72,72,24,0,631,2063
+2015,8,IVR,Late to Refill,0,0,10-Aug,22-30,1,22,11,11,11,11,100,310
+2015,8,IVR,Late to Refill,0,0,10-Aug,31-60,0,149,70,70,21,0,624,3551
+2015,8,IVR,Late to Refill,0,0,10-Aug,31-60,1,20,9,9,9,9,77,465
+2015,8,IVR,Late to Refill,0,0,10-Aug,14-Aug,0,1418,623,623,304,0,5590,5743
+2015,8,IVR,Late to Refill,0,0,10-Aug,14-Aug,1,240,112,112,112,112,1030,1084
+2015,8,IVR,Late to Refill,0,0,10-Aug,>60,0,2,1,1,0,0,8,67
+2015,8,IVR,Late to Refill,0,0,<=3,15-21,0,107,52,52,26,0,102,913
+2015,8,IVR,Late to Refill,0,0,<=3,15-21,1,65,16,16,16,16,38,300
+2015,8,IVR,Late to Refill,0,0,<=3,22-30,0,227,90,90,28,0,167,2514
+2015,8,IVR,Late to Refill,0,0,<=3,22-30,1,55,26,26,26,26,46,728
+2015,8,IVR,Late to Refill,0,0,<=3,31-60,0,229,98,98,33,0,202,4944
+2015,8,IVR,Late to Refill,0,0,<=3,31-60,1,54,26,26,26,26,58,1449
+2015,8,IVR,Late to Refill,0,0,<=3,14-Aug,0,152,64,64,25,0,129,668
+2015,8,IVR,Late to Refill,0,0,<=3,14-Aug,1,62,31,31,31,31,71,334
+2015,8,IVR,Late to Refill,0,0,<=3,<=7,0,2703,1188,1188,659,0,2297,2540
+2015,8,IVR,Late to Refill,0,0,<=3,<=7,1,541,254,254,250,254,506,554
+2015,8,IVR,Late to Refill,0,0,<=3,>60,0,6,3,3,1,0,6,213
+2015,8,IVR,Late to Refill,0,0,<=3,>60,1,2,1,1,1,1,3,62
+2015,8,IVR,Late to Refill,0,0,>10,15-21,0,2417,1049,1049,439,0,21363,18972
+2015,8,IVR,Late to Refill,0,0,>10,15-21,1,450,205,205,201,205,3738,3709
+2015,8,IVR,Late to Refill,0,0,>10,22-30,0,2917,1251,1251,466,0,33086,33076
+2015,8,IVR,Late to Refill,0,0,>10,22-30,1,608,278,278,271,278,6877,7432
+2015,8,IVR,Late to Refill,0,0,>10,31-60,0,7864,3346,3346,1258,0,138690,156285
+2015,8,IVR,Late to Refill,0,0,>10,31-60,1,1605,657,657,652,657,27303,30818
+2015,8,IVR,Late to Refill,0,0,>10,14-Aug,0,1705,756,756,335,0,10928,9490
+2015,8,IVR,Late to Refill,0,0,>10,14-Aug,1,299,142,142,141,142,2097,1771
+2015,8,IVR,Late to Refill,0,0,>10,<=7,0,47,23,23,8,0,2917,90
+2015,8,IVR,Late to Refill,0,0,>10,<=7,1,16,8,8,8,8,1327,19
+2015,8,IVR,Late to Refill,0,0,>10,>60,0,15769,6660,6660,2436,0,874617,573092
+2015,8,IVR,Late to Refill,0,0,>10,>60,1,3324,1372,1372,1359,1372,184225,118663
+2015,8,IVR,Late to Refill,0,1,7-Apr,15-21,0,7,3,3,0,0,18,51
+2015,8,IVR,Late to Refill,0,1,7-Apr,15-21,1,4,2,2,2,2,8,42
+2015,8,IVR,Late to Refill,0,1,7-Apr,22-30,0,16,8,8,1,0,38,215
+2015,8,IVR,Late to Refill,0,1,7-Apr,22-30,1,2,1,1,1,1,4,30
+2015,8,IVR,Late to Refill,0,1,7-Apr,31-60,0,12,6,6,3,0,28,302
+2015,8,IVR,Late to Refill,0,1,7-Apr,14-Aug,0,19,8,8,1,0,47,90
+2015,8,IVR,Late to Refill,0,1,7-Apr,14-Aug,1,4,2,2,2,2,12,20
+2015,8,IVR,Late to Refill,0,1,7-Apr,<=7,0,250,101,101,19,0,560,566
+2015,8,IVR,Late to Refill,0,1,7-Apr,<=7,1,36,17,17,17,17,85,85
+2015,8,IVR,Late to Refill,0,1,10-Aug,15-21,0,4,2,2,1,0,18,32
+2015,8,IVR,Late to Refill,0,1,10-Aug,22-30,0,4,2,2,1,0,17,56
+2015,8,IVR,Late to Refill,0,1,10-Aug,22-30,1,2,1,1,1,1,10,22
+2015,8,IVR,Late to Refill,0,1,10-Aug,31-60,0,5,2,2,0,0,18,120
+2015,8,IVR,Late to Refill,0,1,10-Aug,14-Aug,0,184,62,62,19,0,554,562
+2015,8,IVR,Late to Refill,0,1,10-Aug,14-Aug,1,12,6,6,6,6,54,64
+2015,8,IVR,Late to Refill,0,1,<=3,15-21,0,7,3,3,1,0,5,54
+2015,8,IVR,Late to Refill,0,1,<=3,15-21,1,8,4,4,4,4,4,70
+2015,8,IVR,Late to Refill,0,1,<=3,22-30,0,8,4,4,0,0,8,101
+2015,8,IVR,Late to Refill,0,1,<=3,22-30,1,4,2,2,2,2,5,58
+2015,8,IVR,Late to Refill,0,1,<=3,31-60,0,10,5,5,0,0,7,286
+2015,8,IVR,Late to Refill,0,1,<=3,31-60,1,2,1,1,1,1,3,45
+2015,8,IVR,Late to Refill,0,1,<=3,14-Aug,0,22,11,11,5,0,24,114
+2015,8,IVR,Late to Refill,0,1,<=3,14-Aug,1,8,4,4,4,4,7,35
+2015,8,IVR,Late to Refill,0,1,<=3,<=7,0,316,117,117,47,0,214,269
+2015,8,IVR,Late to Refill,0,1,<=3,<=7,1,70,26,26,25,26,52,69
+2015,8,IVR,Late to Refill,0,1,>10,15-21,0,150,62,62,17,0,1312,1099
+2015,8,IVR,Late to Refill,0,1,>10,15-21,1,34,17,17,17,17,306,306
+2015,8,IVR,Late to Refill,0,1,>10,22-30,0,262,73,73,42,0,1717,1855
+2015,8,IVR,Late to Refill,0,1,>10,22-30,1,39,18,18,17,18,581,494
+2015,8,IVR,Late to Refill,0,1,>10,31-60,0,230,106,106,44,0,4796,4876
+2015,8,IVR,Late to Refill,0,1,>10,31-60,1,89,27,27,25,27,895,1163
+2015,8,IVR,Late to Refill,0,1,>10,14-Aug,0,116,56,56,14,0,979,701
+2015,8,IVR,Late to Refill,0,1,>10,14-Aug,1,35,16,16,16,16,207,207
+2015,8,IVR,Late to Refill,0,1,>10,<=7,0,5,2,2,0,0,209,10
+2015,8,IVR,Late to Refill,0,1,>10,>60,0,2622,1034,1034,363,0,150624,92195
+2015,8,IVR,Late to Refill,0,1,>10,>60,1,510,228,228,224,228,34055,20398
+2015,8,IVR,Chronic Non-Adherent,0,0,,,,,24756,0,,,,
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,0,2,1,1,1,0,6,18
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,0,2,1,1,0,0,7,23
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,1,44,4,4,4,4,22,102
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,0,6,3,3,0,0,18,171
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,0,2,1,1,0,0,4,12
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,0,68,18,18,10,0,95,12
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,1,16,8,8,8,8,46,2
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,0,2,1,1,0,0,7,69
+2015,8,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,1,2,1,1,1,1,6,61
+2015,8,IVR,Chronic Non-Adherent,0,0,10-Aug,15-21,0,2,1,1,0,0,8,18
+2015,8,IVR,Chronic Non-Adherent,0,0,10-Aug,15-21,1,2,1,1,1,1,9,15
+2015,8,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,0,6,3,3,3,0,27,93
+2015,8,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,0,2,1,1,0,0,10,11
+2015,8,IVR,Chronic Non-Adherent,0,0,10-Aug,14-Aug,1,8,4,4,4,4,35,49
+2015,8,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,0,14,7,7,4,0,64,11
+2015,8,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,1,4,2,2,2,2,16,0
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,15-21,0,2319,991,991,312,0,5,17701
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,15-21,1,781,345,345,341,345,0,6140
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,22-30,0,2476,1047,1047,301,0,0,26997
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,22-30,1,706,310,310,305,310,0,8088
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,31-60,0,4197,1836,1836,500,0,5,78443
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,31-60,1,1201,536,536,533,536,3,23537
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,0,4505,1639,1639,461,0,6,17054
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,1,1027,450,450,448,450,0,4799
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,<=7,0,21222,8970,8970,3621,0,18,13355
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,<=7,1,5618,2452,2452,2423,2452,6,3293
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,>60,0,1796,774,774,209,0,0,57039
+2015,8,IVR,Chronic Non-Adherent,0,0,<=3,>60,1,643,257,257,256,257,0,19264
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,15-21,0,44,14,14,5,0,977,233
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,15-21,1,9,4,4,4,4,552,72
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,22-30,0,76,30,30,6,0,2910,792
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,22-30,1,62,16,16,16,16,1444,383
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,31-60,0,157,58,58,9,0,7068,2321
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,31-60,1,48,24,24,24,24,2513,1164
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,0,116,31,31,10,0,3286,344
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,1,14,7,7,7,7,889,84
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,<=7,0,452,219,219,67,0,23213,242
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,<=7,1,123,60,60,60,60,6354,71
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,>60,0,52,25,25,7,0,3024,1815
+2015,8,IVR,Chronic Non-Adherent,0,0,>10,>60,1,34,8,8,8,8,1355,624
+2015,8,IVR,Chronic Non-Adherent,0,1,,,,,39148,0,,,,
+2015,8,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,0,6,3,3,0,0,18,54
+2015,8,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,0,2,1,1,1,0,7,23
+2015,8,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,1,2,1,1,1,1,4,33
+2015,8,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,0,4,2,2,1,0,12,21
+2015,8,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,1,2,1,1,1,1,4,13
+2015,8,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,0,101,47,47,10,0,272,54
+2015,8,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,1,20,10,10,10,10,53,3
+2015,8,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,0,2,1,1,0,0,10,27
+2015,8,IVR,Chronic Non-Adherent,0,1,10-Aug,31-60,1,2,1,1,1,1,10,50
+2015,8,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,0,8,4,4,1,0,35,40
+2015,8,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,0,34,16,16,8,0,143,13
+2015,8,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,1,16,7,7,7,7,62,5
+2015,8,IVR,Chronic Non-Adherent,0,1,10-Aug,>60,0,60,3,3,0,0,27,198
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,15-21,0,1581,668,668,278,0,3,11597
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,15-21,1,418,162,162,160,162,0,2866
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,22-30,0,1254,553,553,185,0,0,14161
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,22-30,1,251,119,119,119,119,0,3087
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,31-60,0,1860,761,761,260,0,6,32541
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,31-60,1,494,186,186,182,186,0,7970
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,0,2886,1161,1161,457,0,6,12266
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,1,600,278,278,276,278,0,2986
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,<=7,0,20873,8850,8850,3808,0,69,9071
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,<=7,1,5005,2075,2075,2064,2075,13,2205
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,>60,0,749,310,310,98,0,2,22741
+2015,8,IVR,Chronic Non-Adherent,0,1,<=3,>60,1,161,53,53,53,53,0,3821
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,15-21,0,70,32,32,10,0,2355,554
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,15-21,1,7,3,3,3,3,233,52
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,22-30,0,32,15,15,4,0,959,399
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,22-30,1,10,5,5,5,5,386,124
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,31-60,0,63,29,29,15,0,1812,1223
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,31-60,1,6,3,3,3,3,67,124
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,0,77,33,33,10,0,2235,367
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,1,16,7,7,7,7,332,73
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,<=7,0,2106,862,862,372,0,81516,397
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,<=7,1,496,221,221,220,221,21988,115
+2015,8,IVR,Chronic Non-Adherent,0,1,>10,>60,0,13,6,6,0,0,711,399
+2015,8,Live Call,Late to Refill,1,0,7-Apr,15-21,0,1112,65,65,3,0,328,1140
+2015,8,Live Call,Late to Refill,1,0,7-Apr,15-21,1,120,14,14,14,14,66,244
+2015,8,Live Call,Late to Refill,1,0,7-Apr,22-30,0,2064,102,102,18,0,576,2863
+2015,8,Live Call,Late to Refill,1,0,7-Apr,22-30,1,654,39,39,39,39,214,1101
+2015,8,Live Call,Late to Refill,1,0,7-Apr,31-60,0,1176,68,68,9,0,393,3480
+2015,8,Live Call,Late to Refill,1,0,7-Apr,31-60,1,309,18,18,18,18,104,975
+2015,8,Live Call,Late to Refill,1,0,7-Apr,14-Aug,0,1153,66,66,21,0,357,690
+2015,8,Live Call,Late to Refill,1,0,7-Apr,14-Aug,1,426,26,26,26,26,143,286
+2015,8,Live Call,Late to Refill,1,0,7-Apr,<=7,0,8839,563,563,90,0,3092,3106
+2015,8,Live Call,Late to Refill,1,0,7-Apr,<=7,1,3193,203,203,203,203,1136,1138
+2015,8,Live Call,Late to Refill,1,0,7-Apr,>60,0,7,1,1,0,0,5,75
+2015,8,Live Call,Late to Refill,1,0,10-Aug,15-21,0,441,22,22,2,0,201,379
+2015,8,Live Call,Late to Refill,1,0,10-Aug,15-21,1,187,11,11,11,11,99,187
+2015,8,Live Call,Late to Refill,1,0,10-Aug,22-30,0,1672,91,91,17,0,823,2598
+2015,8,Live Call,Late to Refill,1,0,10-Aug,22-30,1,323,23,23,23,23,203,645
+2015,8,Live Call,Late to Refill,1,0,10-Aug,31-60,0,1312,70,70,8,0,626,3373
+2015,8,Live Call,Late to Refill,1,0,10-Aug,31-60,1,126,7,7,7,7,60,364
+2015,8,Live Call,Late to Refill,1,0,10-Aug,14-Aug,0,5363,319,319,43,0,2873,2968
+2015,8,Live Call,Late to Refill,1,0,10-Aug,14-Aug,1,2330,147,147,147,147,1341,1375
+2015,8,Live Call,Late to Refill,1,0,<=3,15-21,0,818,43,43,1,0,91,755
+2015,8,Live Call,Late to Refill,1,0,<=3,15-21,1,155,12,12,12,12,27,214
+2015,8,Live Call,Late to Refill,1,0,<=3,22-30,0,1854,104,104,13,0,208,2912
+2015,8,Live Call,Late to Refill,1,0,<=3,22-30,1,532,33,33,33,33,71,886
+2015,8,Live Call,Late to Refill,1,0,<=3,31-60,0,1528,73,73,12,0,156,3713
+2015,8,Live Call,Late to Refill,1,0,<=3,31-60,1,328,19,19,19,19,33,1069
+2015,8,Live Call,Late to Refill,1,0,<=3,14-Aug,0,863,49,49,7,0,82,552
+2015,8,Live Call,Late to Refill,1,0,<=3,14-Aug,1,430,28,28,28,28,50,329
+2015,8,Live Call,Late to Refill,1,0,<=3,<=7,0,8291,505,505,104,0,988,1213
+2015,8,Live Call,Late to Refill,1,0,<=3,<=7,1,2744,175,175,175,175,328,389
+2015,8,Live Call,Late to Refill,1,0,<=3,>60,1,5,1,1,1,1,2,80
+2015,8,Live Call,Late to Refill,1,0,>10,15-21,0,10881,626,626,105,0,11393,11089
+2015,8,Live Call,Late to Refill,1,0,>10,15-21,1,3010,200,200,200,200,3963,3533
+2015,8,Live Call,Late to Refill,1,0,>10,22-30,0,13186,755,755,134,0,18294,20061
+2015,8,Live Call,Late to Refill,1,0,>10,22-30,1,4267,263,263,263,263,6684,6951
+2015,8,Live Call,Late to Refill,1,0,>10,31-60,0,36454,2040,2040,314,0,83258,96877
+2015,8,Live Call,Late to Refill,1,0,>10,31-60,1,10536,663,663,663,663,26760,31274
+2015,8,Live Call,Late to Refill,1,0,>10,14-Aug,0,6006,385,385,62,0,6028,4839
+2015,8,Live Call,Late to Refill,1,0,>10,14-Aug,1,2306,156,156,156,156,2397,1951
+2015,8,Live Call,Late to Refill,1,0,>10,<=7,0,488,25,25,11,0,3280,101
+2015,8,Live Call,Late to Refill,1,0,>10,<=7,1,24,2,2,2,2,317,8
+2015,8,Live Call,Late to Refill,1,0,>10,>60,0,93981,5136,5136,802,0,641761,447825
+2015,8,Live Call,Late to Refill,1,0,>10,>60,1,28604,1683,1683,1683,1683,211267,146706
+2015,8,Live Call,Late to Refill,1,1,7-Apr,15-21,0,124,8,8,2,0,47,148
+2015,8,Live Call,Late to Refill,1,1,7-Apr,15-21,1,31,2,2,2,2,9,35
+2015,8,Live Call,Late to Refill,1,1,7-Apr,22-30,0,71,4,4,1,0,26,105
+2015,8,Live Call,Late to Refill,1,1,7-Apr,22-30,1,76,4,4,4,4,20,120
+2015,8,Live Call,Late to Refill,1,1,7-Apr,31-60,0,81,7,7,0,0,37,361
+2015,8,Live Call,Late to Refill,1,1,7-Apr,14-Aug,0,154,12,12,0,0,59,131
+2015,8,Live Call,Late to Refill,1,1,7-Apr,14-Aug,1,269,12,12,12,12,57,118
+2015,8,Live Call,Late to Refill,1,1,7-Apr,<=7,0,1374,79,79,11,0,438,444
+2015,8,Live Call,Late to Refill,1,1,7-Apr,<=7,1,594,33,33,33,33,195,198
+2015,8,Live Call,Late to Refill,1,1,10-Aug,15-21,0,28,1,1,0,0,8,19
+2015,8,Live Call,Late to Refill,1,1,10-Aug,22-30,0,72,3,3,0,0,30,90
+2015,8,Live Call,Late to Refill,1,1,10-Aug,22-30,1,15,2,2,2,2,18,60
+2015,8,Live Call,Late to Refill,1,1,10-Aug,31-60,0,21,1,1,0,0,8,47
+2015,8,Live Call,Late to Refill,1,1,10-Aug,14-Aug,0,1061,53,53,5,0,471,496
+2015,8,Live Call,Late to Refill,1,1,10-Aug,14-Aug,1,376,22,22,22,22,195,200
+2015,8,Live Call,Late to Refill,1,1,<=3,15-21,0,57,2,2,1,0,5,38
+2015,8,Live Call,Late to Refill,1,1,<=3,22-30,0,113,6,6,0,0,10,167
+2015,8,Live Call,Late to Refill,1,1,<=3,22-30,1,24,2,2,2,2,2,60
+2015,8,Live Call,Late to Refill,1,1,<=3,31-60,0,67,3,3,0,0,7,170
+2015,8,Live Call,Late to Refill,1,1,<=3,31-60,1,11,1,1,1,1,2,60
+2015,8,Live Call,Late to Refill,1,1,<=3,14-Aug,0,141,8,8,0,0,10,80
+2015,8,Live Call,Late to Refill,1,1,<=3,14-Aug,1,67,5,5,5,5,9,54
+2015,8,Live Call,Late to Refill,1,1,<=3,<=7,0,1713,98,98,10,0,185,222
+2015,8,Live Call,Late to Refill,1,1,<=3,<=7,1,709,40,40,40,40,76,94
+2015,8,Live Call,Late to Refill,1,1,>10,15-21,0,1347,68,68,11,0,1218,1249
+2015,8,Live Call,Late to Refill,1,1,>10,15-21,1,319,20,20,20,20,362,362
+2015,8,Live Call,Late to Refill,1,1,>10,22-30,0,1110,60,60,8,0,1883,1589
+2015,8,Live Call,Late to Refill,1,1,>10,22-30,1,656,29,29,29,29,682,740
+2015,8,Live Call,Late to Refill,1,1,>10,31-60,0,2015,111,111,19,0,4804,5055
+2015,8,Live Call,Late to Refill,1,1,>10,31-60,1,731,44,44,44,44,1790,2019
+2015,8,Live Call,Late to Refill,1,1,>10,14-Aug,0,1193,65,65,7,0,1194,785
+2015,8,Live Call,Late to Refill,1,1,>10,14-Aug,1,367,20,20,20,20,247,247
+2015,8,Live Call,Late to Refill,1,1,>10,<=7,0,28,2,2,0,0,303,14
+2015,8,Live Call,Late to Refill,1,1,>10,<=7,1,18,1,1,1,1,96,6
+2015,8,Live Call,Late to Refill,1,1,>10,>60,0,17793,994,994,149,0,128656,88812
+2015,8,Live Call,Late to Refill,1,1,>10,>60,1,5747,350,350,350,350,46069,31244
+2015,8,Live Call,Chronic Non-Adherent,0,0,,,,,9101,0,,,,
+2015,8,Live Call,Chronic Non-Adherent,0,1,,,,,1903,0,,,,
+2015,8,Live Call,Chronic Non-Adherent,1,0,7-Apr,22-30,0,108,4,4,0,0,22,96
+2015,8,Live Call,Chronic Non-Adherent,1,0,7-Apr,31-60,1,26,2,2,2,2,14,81
+2015,8,Live Call,Chronic Non-Adherent,1,0,7-Apr,14-Aug,0,26,1,1,0,0,5,11
+2015,8,Live Call,Chronic Non-Adherent,1,0,7-Apr,14-Aug,1,12,1,1,1,1,5,8
+2015,8,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,0,245,16,16,5,0,94,22
+2015,8,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,1,218,10,10,10,10,59,2
+2015,8,Live Call,Chronic Non-Adherent,1,0,7-Apr,>60,0,29,2,2,0,0,10,147
+2015,8,Live Call,Chronic Non-Adherent,1,0,7-Apr,>60,1,19,1,1,1,1,4,80
+2015,8,Live Call,Chronic Non-Adherent,1,0,10-Aug,22-30,0,17,1,1,0,0,10,30
+2015,8,Live Call,Chronic Non-Adherent,1,0,10-Aug,31-60,0,9,1,1,1,0,9,31
+2015,8,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,0,55,2,2,1,0,19,22
+2015,8,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,1,13,3,3,3,3,25,26
+2015,8,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,0,352,19,19,0,0,174,24
+2015,8,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,1,97,7,7,7,7,61,3
+2015,8,Live Call,Chronic Non-Adherent,1,0,10-Aug,>60,0,17,3,3,0,0,25,192
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,0,29101,1676,1676,269,0,6,29555
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,1,9178,579,579,579,579,0,10233
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,0,26852,1536,1536,236,0,3,39399
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,1,9191,545,545,545,545,7,14053
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,0,39648,2472,2472,392,0,12,107260
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,1,11049,789,789,789,789,0,34647
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,0,40675,2325,2325,341,0,0,24826
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,1,13878,836,836,836,836,0,9034
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,0,178348,10348,10348,1789,0,14,14364
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,1,66093,4099,4099,4099,4099,18,5533
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,>60,0,17107,1037,1037,173,0,0,76585
+2015,8,Live Call,Chronic Non-Adherent,1,0,<=3,>60,1,4834,345,345,345,345,3,25360
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,15-21,0,612,39,39,7,0,4277,689
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,15-21,1,344,17,17,17,17,1502,297
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,22-30,0,286,14,14,6,0,1420,365
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,22-30,1,63,6,6,6,6,561,148
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,31-60,0,673,44,44,6,0,4749,1878
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,31-60,1,300,15,15,15,15,1692,663
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,0,770,47,47,10,0,5074,501
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,1,382,24,24,24,24,2347,251
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,<=7,0,5724,306,306,54,0,27609,300
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,<=7,1,2307,142,142,142,142,12914,161
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,>60,0,352,22,22,2,0,2669,1609
+2015,8,Live Call,Chronic Non-Adherent,1,0,>10,>60,1,95,7,7,7,7,1027,545
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,0,21,1,1,0,0,6,16
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,1,26,1,1,1,1,4,20
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,22-30,0,12,1,1,0,0,7,27
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,22-30,1,62,3,3,3,3,17,83
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,14-Aug,0,7,1,1,1,0,7,13
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,14-Aug,1,17,1,1,1,1,4,9
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,0,863,49,49,13,0,271,30
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,1,120,9,9,9,9,48,1
+2015,8,Live Call,Chronic Non-Adherent,1,1,7-Apr,>60,0,78,3,3,0,0,21,192
+2015,8,Live Call,Chronic Non-Adherent,1,1,10-Aug,15-21,0,25,1,1,0,0,10,17
+2015,8,Live Call,Chronic Non-Adherent,1,1,10-Aug,22-30,0,27,1,1,0,0,9,25
+2015,8,Live Call,Chronic Non-Adherent,1,1,10-Aug,22-30,1,9,1,1,1,1,9,24
+2015,8,Live Call,Chronic Non-Adherent,1,1,10-Aug,14-Aug,0,46,3,3,0,0,25,32
+2015,8,Live Call,Chronic Non-Adherent,1,1,10-Aug,14-Aug,1,12,1,1,1,1,8,10
+2015,8,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,0,553,32,32,0,0,285,18
+2015,8,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,1,102,7,7,7,7,60,3
+2015,8,Live Call,Chronic Non-Adherent,1,1,10-Aug,>60,0,18,1,1,0,0,9,76
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,0,7754,441,441,71,0,2,7807
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,1,2912,183,183,183,183,0,3274
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,0,6689,384,384,56,0,0,9879
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,1,1666,116,116,116,116,0,2950
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,0,10155,564,564,115,0,0,24349
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,1,3224,194,194,194,194,1,8416
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,0,13404,811,811,117,0,2,8356
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,1,5125,311,311,311,311,7,3244
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,0,119960,6839,6839,1206,0,56,6840
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,1,40983,2565,2565,2565,2565,25,2409
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,>60,0,4571,256,256,42,0,2,18887
+2015,8,Live Call,Chronic Non-Adherent,1,1,<=3,>60,1,1303,77,77,77,77,0,5662
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,15-21,0,329,18,18,4,0,1314,330
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,15-21,1,202,11,11,11,11,690,199
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,22-30,0,225,16,16,3,0,1487,428
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,22-30,1,31,2,2,2,2,75,55
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,31-60,0,532,30,30,6,0,2642,1262
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,31-60,1,54,3,3,3,3,145,126
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,0,465,30,30,6,0,2027,313
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,1,136,10,10,10,10,855,111
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,<=7,0,13017,705,705,118,0,62589,313
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,<=7,1,4267,263,263,263,263,22436,119
+2015,8,Live Call,Chronic Non-Adherent,1,1,>10,>60,0,53,4,4,0,0,471,264
+2015,9,IVR,Late to Refill,0,0,7-Apr,15-21,0,112,68,68,22,0,352,1219
+2015,9,IVR,Late to Refill,0,0,7-Apr,15-21,1,25,16,16,16,16,83,275
+2015,9,IVR,Late to Refill,0,0,7-Apr,22-30,0,246,141,141,51,0,771,4038
+2015,9,IVR,Late to Refill,0,0,7-Apr,22-30,1,99,38,38,36,38,211,1087
+2015,9,IVR,Late to Refill,0,0,7-Apr,31-60,0,224,108,108,29,0,594,5571
+2015,9,IVR,Late to Refill,0,0,7-Apr,31-60,1,53,32,32,32,32,159,1557
+2015,9,IVR,Late to Refill,0,0,7-Apr,14-Aug,0,183,106,106,47,0,577,1140
+2015,9,IVR,Late to Refill,0,0,7-Apr,14-Aug,1,34,22,22,22,22,118,242
+2015,9,IVR,Late to Refill,0,0,7-Apr,<=7,0,2693,1483,1483,786,0,7991,8022
+2015,9,IVR,Late to Refill,0,0,7-Apr,<=7,1,669,351,351,351,351,1857,1867
+2015,9,IVR,Late to Refill,0,0,7-Apr,>60,0,4,3,3,0,0,17,219
+2015,9,IVR,Late to Refill,0,0,7-Apr,>60,1,2,2,2,2,2,8,152
+2015,9,IVR,Late to Refill,0,0,10-Aug,15-21,0,45,28,28,9,0,256,483
+2015,9,IVR,Late to Refill,0,0,10-Aug,15-21,1,3,3,3,3,3,25,51
+2015,9,IVR,Late to Refill,0,0,10-Aug,22-30,0,121,72,72,21,0,642,2034
+2015,9,IVR,Late to Refill,0,0,10-Aug,22-30,1,27,15,15,15,15,134,402
+2015,9,IVR,Late to Refill,0,0,10-Aug,31-60,0,183,77,77,24,0,686,3917
+2015,9,IVR,Late to Refill,0,0,10-Aug,31-60,1,30,18,18,18,18,172,831
+2015,9,IVR,Late to Refill,0,0,10-Aug,14-Aug,0,1476,802,802,348,0,7140,7270
+2015,9,IVR,Late to Refill,0,0,10-Aug,14-Aug,1,252,123,123,120,123,1104,1135
+2015,9,IVR,Late to Refill,0,0,10-Aug,>60,0,2,1,1,0,0,9,72
+2015,9,IVR,Late to Refill,0,0,<=3,15-21,0,94,55,55,26,0,101,943
+2015,9,IVR,Late to Refill,0,0,<=3,15-21,1,6,5,5,5,5,11,84
+2015,9,IVR,Late to Refill,0,0,<=3,22-30,0,129,84,84,28,0,162,2418
+2015,9,IVR,Late to Refill,0,0,<=3,22-30,1,25,15,15,15,15,33,423
+2015,9,IVR,Late to Refill,0,0,<=3,31-60,0,135,79,79,33,0,154,4060
+2015,9,IVR,Late to Refill,0,0,<=3,31-60,1,25,17,17,17,17,34,901
+2015,9,IVR,Late to Refill,0,0,<=3,14-Aug,0,94,59,59,17,0,120,620
+2015,9,IVR,Late to Refill,0,0,<=3,14-Aug,1,38,25,25,25,25,46,270
+2015,9,IVR,Late to Refill,0,0,<=3,<=7,0,2326,1352,1352,704,0,2487,2772
+2015,9,IVR,Late to Refill,0,0,<=3,<=7,1,479,291,291,284,291,557,620
+2015,9,IVR,Late to Refill,0,0,<=3,>60,0,2,1,1,0,0,2,63
+2015,9,IVR,Late to Refill,0,0,>10,15-21,0,2231,1227,1227,519,0,23563,21936
+2015,9,IVR,Late to Refill,0,0,>10,15-21,1,435,197,197,196,197,3636,3540
+2015,9,IVR,Late to Refill,0,0,>10,22-30,0,2666,1478,1478,599,0,37688,39048
+2015,9,IVR,Late to Refill,0,0,>10,22-30,1,367,214,214,209,214,5761,5672
+2015,9,IVR,Late to Refill,0,0,>10,31-60,0,6489,3477,3477,1430,0,144599,160594
+2015,9,IVR,Late to Refill,0,0,>10,31-60,1,1260,612,612,605,612,24831,28575
+2015,9,IVR,Late to Refill,0,0,>10,14-Aug,0,1729,963,963,448,0,13693,11997
+2015,9,IVR,Late to Refill,0,0,>10,14-Aug,1,273,154,154,148,154,2325,1935
+2015,9,IVR,Late to Refill,0,0,>10,<=7,0,42,25,25,12,0,3043,110
+2015,9,IVR,Late to Refill,0,0,>10,<=7,1,9,5,5,5,5,571,16
+2015,9,IVR,Late to Refill,0,0,>10,>60,0,14941,7731,7731,3017,0,887898,667828
+2015,9,IVR,Late to Refill,0,0,>10,>60,1,2842,1492,1492,1485,1492,172758,129043
+2015,9,IVR,Late to Refill,0,1,7-Apr,15-21,0,7,4,4,3,0,21,64
+2015,9,IVR,Late to Refill,0,1,7-Apr,15-21,1,7,5,5,4,5,25,97
+2015,9,IVR,Late to Refill,0,1,7-Apr,22-30,0,12,8,8,4,0,40,224
+2015,9,IVR,Late to Refill,0,1,7-Apr,22-30,1,1,1,1,1,1,5,30
+2015,9,IVR,Late to Refill,0,1,7-Apr,31-60,0,10,6,6,4,0,34,284
+2015,9,IVR,Late to Refill,0,1,7-Apr,31-60,1,8,5,5,5,5,21,271
+2015,9,IVR,Late to Refill,0,1,7-Apr,14-Aug,0,14,8,8,3,0,42,75
+2015,9,IVR,Late to Refill,0,1,7-Apr,14-Aug,1,11,6,6,6,6,29,54
+2015,9,IVR,Late to Refill,0,1,7-Apr,<=7,0,270,135,135,56,0,717,725
+2015,9,IVR,Late to Refill,0,1,7-Apr,<=7,1,79,39,39,38,39,202,203
+2015,9,IVR,Late to Refill,0,1,10-Aug,15-21,0,4,2,2,2,0,20,34
+2015,9,IVR,Late to Refill,0,1,10-Aug,22-30,0,6,5,5,2,0,46,150
+2015,9,IVR,Late to Refill,0,1,10-Aug,22-30,1,1,1,1,1,1,8,28
+2015,9,IVR,Late to Refill,0,1,10-Aug,31-60,0,2,1,1,1,0,9,57
+2015,9,IVR,Late to Refill,0,1,10-Aug,14-Aug,0,62,39,39,13,0,348,353
+2015,9,IVR,Late to Refill,0,1,10-Aug,14-Aug,1,13,7,7,6,7,62,62
+2015,9,IVR,Late to Refill,0,1,<=3,15-21,0,7,6,6,4,0,9,106
+2015,9,IVR,Late to Refill,0,1,<=3,22-30,0,19,11,11,3,0,18,295
+2015,9,IVR,Late to Refill,0,1,<=3,31-60,0,8,4,4,2,0,7,190
+2015,9,IVR,Late to Refill,0,1,<=3,14-Aug,0,15,11,11,5,0,18,108
+2015,9,IVR,Late to Refill,0,1,<=3,14-Aug,1,4,3,3,3,3,8,30
+2015,9,IVR,Late to Refill,0,1,<=3,<=7,0,286,157,157,73,0,284,345
+2015,9,IVR,Late to Refill,0,1,<=3,<=7,1,62,35,35,34,35,64,97
+2015,9,IVR,Late to Refill,0,1,>10,15-21,0,170,88,88,30,0,1761,1600
+2015,9,IVR,Late to Refill,0,1,>10,15-21,1,14,8,8,8,8,139,139
+2015,9,IVR,Late to Refill,0,1,>10,22-30,0,124,70,70,30,0,2016,1824
+2015,9,IVR,Late to Refill,0,1,>10,22-30,1,8,5,5,5,5,124,124
+2015,9,IVR,Late to Refill,0,1,>10,31-60,0,261,131,131,56,0,5332,5990
+2015,9,IVR,Late to Refill,0,1,>10,31-60,1,27,16,16,16,16,579,707
+2015,9,IVR,Late to Refill,0,1,>10,14-Aug,0,144,81,81,28,0,2427,994
+2015,9,IVR,Late to Refill,0,1,>10,14-Aug,1,21,12,12,12,12,452,142
+2015,9,IVR,Late to Refill,0,1,>10,<=7,0,13,8,8,1,0,819,30
+2015,9,IVR,Late to Refill,0,1,>10,<=7,1,2,1,1,1,1,121,3
+2015,9,IVR,Late to Refill,0,1,>10,>60,0,2238,1136,1136,429,0,131452,101545
+2015,9,IVR,Late to Refill,0,1,>10,>60,1,508,216,216,210,216,24893,19203
+2015,9,IVR,Chronic Non-Adherent,0,0,,,,,24206,0,,,,
+2015,9,IVR,Chronic Non-Adherent,0,0,7-Apr,15-21,0,6,3,3,0,0,16,48
+2015,9,IVR,Chronic Non-Adherent,0,0,7-Apr,22-30,0,1,1,1,1,0,5,26
+2015,9,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,0,1,1,1,0,0,6,11
+2015,9,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,0,14,9,9,1,0,46,20
+2015,9,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,1,4,2,2,2,2,12,2
+2015,9,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,0,2,1,1,0,0,6,78
+2015,9,IVR,Chronic Non-Adherent,0,0,7-Apr,>60,1,2,1,1,1,1,6,80
+2015,9,IVR,Chronic Non-Adherent,0,0,10-Aug,31-60,0,1,1,1,0,0,8,33
+2015,9,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,0,28,8,8,2,0,71,2
+2015,9,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,1,4,3,3,3,3,27,6
+2015,9,IVR,Chronic Non-Adherent,0,0,10-Aug,>60,0,2,1,1,0,0,10,68
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,15-21,0,1778,862,862,282,0,0,15340
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,15-21,1,576,255,255,243,255,2,4520
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,22-30,0,1418,811,811,219,0,0,20815
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,22-30,1,509,267,267,265,267,0,6904
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,31-60,0,2796,1559,1559,446,0,0,67216
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,31-60,1,973,492,492,485,492,0,21232
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,0,2936,1442,1442,443,0,0,14762
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,1,587,348,348,339,348,0,3695
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,<=7,0,18014,9510,9510,4203,0,5,13648
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,<=7,1,3677,2093,2093,2076,2093,4,2704
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,>60,0,1099,642,642,171,0,0,46588
+2015,9,IVR,Chronic Non-Adherent,0,0,<=3,>60,1,342,219,219,216,219,0,16158
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,15-21,0,17,14,14,1,0,1738,254
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,15-21,1,5,3,3,3,3,343,54
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,22-30,0,22,13,13,5,0,1508,348
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,22-30,1,62,11,11,11,11,804,286
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,31-60,0,59,40,40,11,0,3890,1753
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,31-60,1,18,14,14,14,14,1376,554
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,0,68,29,29,5,0,2191,297
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,1,6,5,5,4,5,495,53
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,<=7,0,438,195,195,59,0,16609,274
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,<=7,1,95,60,60,60,60,5328,69
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,>60,0,30,20,20,8,0,2197,1503
+2015,9,IVR,Chronic Non-Adherent,0,0,>10,>60,1,7,5,5,5,5,674,361
+2015,9,IVR,Chronic Non-Adherent,0,1,,,,,49831,0,,,,
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,0,5,3,3,0,0,17,51
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,1,2,1,1,1,1,4,16
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,22-30,0,4,2,2,0,0,14,46
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,0,2,2,2,2,0,10,84
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,0,15,9,9,3,0,47,96
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,14-Aug,1,4,2,2,2,2,8,16
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,0,61,40,40,14,0,222,28
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,1,7,5,5,5,5,30,4
+2015,9,IVR,Chronic Non-Adherent,0,1,7-Apr,>60,0,7,4,4,3,0,26,276
+2015,9,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,0,2,2,2,0,0,20,38
+2015,9,IVR,Chronic Non-Adherent,0,1,10-Aug,15-21,1,2,1,1,1,1,10,15
+2015,9,IVR,Chronic Non-Adherent,0,1,10-Aug,22-30,0,1,1,1,0,0,8,25
+2015,9,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,0,2,2,2,0,0,18,22
+2015,9,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,1,4,2,2,2,2,16,16
+2015,9,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,0,48,28,28,13,0,248,27
+2015,9,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,1,4,4,4,4,4,36,0
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,15-21,0,1289,701,701,277,0,0,12323
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,15-21,1,331,163,163,160,163,0,2897
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,22-30,0,1018,515,515,189,0,0,13170
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,22-30,1,170,108,108,107,108,0,2734
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,31-60,0,1548,800,800,283,0,0,34296
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,31-60,1,387,162,162,158,162,0,7235
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,0,2150,1152,1152,479,0,0,12138
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,1,472,253,253,251,253,3,2655
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,<=7,0,18011,9673,9673,4514,0,63,9537
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,<=7,1,3617,2036,2036,2020,2036,15,1960
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,>60,0,676,347,347,124,0,0,25477
+2015,9,IVR,Chronic Non-Adherent,0,1,<=3,>60,1,119,64,64,60,64,0,4798
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,15-21,0,48,25,25,9,0,1404,451
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,15-21,1,5,3,3,3,3,104,56
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,22-30,0,44,24,24,7,0,1682,607
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,22-30,1,9,5,5,5,5,492,129
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,31-60,0,46,28,28,14,0,2055,1157
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,31-60,1,3,3,3,3,3,90,156
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,0,70,45,45,18,0,3145,508
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,1,15,9,9,9,9,497,97
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,<=7,0,1858,942,942,408,0,78673,365
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,<=7,1,439,222,222,219,222,18808,85
+2015,9,IVR,Chronic Non-Adherent,0,1,>10,>60,0,5,4,4,2,0,189,282
+2015,9,Live Call,Late to Refill,1,0,7-Apr,15-21,0,442,34,34,7,0,185,600
+2015,9,Live Call,Late to Refill,1,0,7-Apr,15-21,1,89,7,7,7,7,33,124
+2015,9,Live Call,Late to Refill,1,0,7-Apr,22-30,0,4502,225,225,41,0,1254,6631
+2015,9,Live Call,Late to Refill,1,0,7-Apr,22-30,1,1027,58,58,58,58,321,1703
+2015,9,Live Call,Late to Refill,1,0,7-Apr,31-60,0,2585,142,142,13,0,785,7263
+2015,9,Live Call,Late to Refill,1,0,7-Apr,31-60,1,672,41,41,41,41,229,2025
+2015,9,Live Call,Late to Refill,1,0,7-Apr,14-Aug,0,1442,86,86,8,0,471,887
+2015,9,Live Call,Late to Refill,1,0,7-Apr,14-Aug,1,256,18,18,18,18,96,195
+2015,9,Live Call,Late to Refill,1,0,7-Apr,<=7,0,15940,930,930,160,0,5119,5172
+2015,9,Live Call,Late to Refill,1,0,7-Apr,<=7,1,4362,281,281,281,281,1543,1565
+2015,9,Live Call,Late to Refill,1,0,7-Apr,>60,0,6,1,1,0,0,6,70
+2015,9,Live Call,Late to Refill,1,0,10-Aug,15-21,0,415,28,28,6,0,265,477
+2015,9,Live Call,Late to Refill,1,0,10-Aug,15-21,1,109,9,9,9,9,85,152
+2015,9,Live Call,Late to Refill,1,0,10-Aug,22-30,0,2553,129,129,16,0,1153,3778
+2015,9,Live Call,Late to Refill,1,0,10-Aug,22-30,1,454,25,25,25,25,228,711
+2015,9,Live Call,Late to Refill,1,0,10-Aug,31-60,0,2225,128,128,17,0,1142,6808
+2015,9,Live Call,Late to Refill,1,0,10-Aug,31-60,1,468,32,32,32,32,284,1698
+2015,9,Live Call,Late to Refill,1,0,10-Aug,14-Aug,0,9703,612,612,97,0,5489,5597
+2015,9,Live Call,Late to Refill,1,0,10-Aug,14-Aug,1,2480,145,145,145,145,1283,1298
+2015,9,Live Call,Late to Refill,1,0,<=3,15-21,0,524,35,35,9,0,64,624
+2015,9,Live Call,Late to Refill,1,0,<=3,15-21,1,121,12,12,12,12,23,208
+2015,9,Live Call,Late to Refill,1,0,<=3,22-30,0,3768,194,194,18,0,375,5697
+2015,9,Live Call,Late to Refill,1,0,<=3,22-30,1,804,40,40,40,40,82,1191
+2015,9,Live Call,Late to Refill,1,0,<=3,31-60,0,1999,113,113,17,0,222,5883
+2015,9,Live Call,Late to Refill,1,0,<=3,31-60,1,486,31,31,31,31,61,1699
+2015,9,Live Call,Late to Refill,1,0,<=3,14-Aug,0,1063,60,60,10,0,128,638
+2015,9,Live Call,Late to Refill,1,0,<=3,14-Aug,1,294,22,22,22,22,45,249
+2015,9,Live Call,Late to Refill,1,0,<=3,<=7,0,14697,872,872,181,0,1726,1920
+2015,9,Live Call,Late to Refill,1,0,<=3,<=7,1,4226,273,273,273,273,484,561
+2015,9,Live Call,Late to Refill,1,0,<=3,>60,0,20,1,1,0,0,1,66
+2015,9,Live Call,Late to Refill,1,0,>10,15-21,0,17024,981,981,156,0,18214,17664
+2015,9,Live Call,Late to Refill,1,0,>10,15-21,1,5166,307,307,307,307,5730,5506
+2015,9,Live Call,Late to Refill,1,0,>10,22-30,0,26395,1519,1519,230,0,37774,41024
+2015,9,Live Call,Late to Refill,1,0,>10,22-30,1,5718,341,341,341,341,8854,9179
+2015,9,Live Call,Late to Refill,1,0,>10,31-60,0,63618,3566,3566,510,0,145595,171762
+2015,9,Live Call,Late to Refill,1,0,>10,31-60,1,14434,910,910,910,910,36475,43360
+2015,9,Live Call,Late to Refill,1,0,>10,14-Aug,0,12685,727,727,111,0,12275,9072
+2015,9,Live Call,Late to Refill,1,0,>10,14-Aug,1,3574,219,219,219,219,3333,2731
+2015,9,Live Call,Late to Refill,1,0,>10,<=7,0,299,19,19,3,0,2114,62
+2015,9,Live Call,Late to Refill,1,0,>10,<=7,1,155,12,12,12,12,1198,50
+2015,9,Live Call,Late to Refill,1,0,>10,>60,0,159682,9057,9057,1373,0,922890,781912
+2015,9,Live Call,Late to Refill,1,0,>10,>60,1,36103,2152,2152,2152,2152,224951,186287
+2015,9,Live Call,Late to Refill,1,1,7-Apr,15-21,0,61,4,4,2,0,21,74
+2015,9,Live Call,Late to Refill,1,1,7-Apr,22-30,0,350,19,19,2,0,103,551
+2015,9,Live Call,Late to Refill,1,1,7-Apr,22-30,1,146,6,6,6,6,27,171
+2015,9,Live Call,Late to Refill,1,1,7-Apr,31-60,0,214,14,14,3,0,79,670
+2015,9,Live Call,Late to Refill,1,1,7-Apr,14-Aug,0,166,9,9,1,0,51,89
+2015,9,Live Call,Late to Refill,1,1,7-Apr,14-Aug,1,31,2,2,2,2,10,23
+2015,9,Live Call,Late to Refill,1,1,7-Apr,<=7,0,2312,132,132,18,0,739,742
+2015,9,Live Call,Late to Refill,1,1,7-Apr,<=7,1,752,44,44,44,44,237,239
+2015,9,Live Call,Late to Refill,1,1,10-Aug,15-21,0,33,3,3,2,0,27,57
+2015,9,Live Call,Late to Refill,1,1,10-Aug,15-21,1,28,3,3,3,3,25,45
+2015,9,Live Call,Late to Refill,1,1,10-Aug,22-30,0,340,19,19,4,0,165,562
+2015,9,Live Call,Late to Refill,1,1,10-Aug,22-30,1,50,3,3,3,3,27,85
+2015,9,Live Call,Late to Refill,1,1,10-Aug,31-60,0,39,2,2,0,0,20,98
+2015,9,Live Call,Late to Refill,1,1,10-Aug,14-Aug,0,1557,85,85,6,0,762,791
+2015,9,Live Call,Late to Refill,1,1,10-Aug,14-Aug,1,189,12,12,12,12,110,114
+2015,9,Live Call,Late to Refill,1,1,<=3,15-21,0,27,2,2,0,0,3,33
+2015,9,Live Call,Late to Refill,1,1,<=3,15-21,1,12,1,1,1,1,1,19
+2015,9,Live Call,Late to Refill,1,1,<=3,22-30,0,467,21,21,3,0,38,626
+2015,9,Live Call,Late to Refill,1,1,<=3,22-30,1,66,4,4,4,4,6,120
+2015,9,Live Call,Late to Refill,1,1,<=3,31-60,0,104,7,7,2,0,16,264
+2015,9,Live Call,Late to Refill,1,1,<=3,31-60,1,36,1,1,1,1,1,60
+2015,9,Live Call,Late to Refill,1,1,<=3,14-Aug,0,135,9,9,0,0,18,90
+2015,9,Live Call,Late to Refill,1,1,<=3,14-Aug,1,18,1,1,1,1,3,11
+2015,9,Live Call,Late to Refill,1,1,<=3,<=7,0,3229,192,192,30,0,369,414
+2015,9,Live Call,Late to Refill,1,1,<=3,<=7,1,711,49,49,49,49,88,123
+2015,9,Live Call,Late to Refill,1,1,>10,15-21,0,2175,124,124,19,0,2462,2244
+2015,9,Live Call,Late to Refill,1,1,>10,15-21,1,390,24,24,24,24,434,441
+2015,9,Live Call,Late to Refill,1,1,>10,22-30,0,2537,133,133,21,0,3467,3592
+2015,9,Live Call,Late to Refill,1,1,>10,22-30,1,733,39,39,39,39,1155,1048
+2015,9,Live Call,Late to Refill,1,1,>10,31-60,0,4154,225,225,44,0,9318,10603
+2015,9,Live Call,Late to Refill,1,1,>10,31-60,1,943,55,55,55,55,2348,2509
+2015,9,Live Call,Late to Refill,1,1,>10,14-Aug,0,1098,60,60,8,0,1279,733
+2015,9,Live Call,Late to Refill,1,1,>10,14-Aug,1,332,23,23,23,23,768,288
+2015,9,Live Call,Late to Refill,1,1,>10,<=7,0,96,6,6,1,0,532,21
+2015,9,Live Call,Late to Refill,1,1,>10,<=7,1,43,2,2,2,2,245,11
+2015,9,Live Call,Late to Refill,1,1,>10,>60,0,29784,1677,1677,249,0,162827,142500
+2015,9,Live Call,Late to Refill,1,1,>10,>60,1,6805,409,409,409,409,40828,35268
+2015,9,Live Call,Chronic Non-Adherent,0,0,,,,,14039,0,,,,
+2015,9,Live Call,Chronic Non-Adherent,0,1,,,,,2522,0,,,,
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,15-21,0,99,5,5,0,0,27,97
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,15-21,1,35,2,2,2,2,10,39
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,22-30,0,49,2,2,0,0,10,53
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,22-30,1,34,2,2,2,2,12,48
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,31-60,0,146,9,9,1,0,51,461
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,31-60,1,20,1,1,1,1,5,59
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,14-Aug,0,106,8,8,1,0,47,99
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,14-Aug,1,19,1,1,1,1,6,8
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,0,232,17,17,0,0,97,0
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,<=7,1,122,6,6,6,6,38,8
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,>60,0,100,5,5,0,0,24,333
+2015,9,Live Call,Chronic Non-Adherent,1,0,7-Apr,>60,1,7,1,1,1,1,4,65
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,15-21,0,89,4,4,2,0,36,75
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,15-21,1,133,9,9,9,9,88,170
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,22-30,0,33,3,3,1,0,26,74
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,31-60,0,54,3,3,1,0,27,149
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,31-60,1,6,1,1,1,1,8,56
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,0,37,4,4,3,0,39,39
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,14-Aug,1,21,1,1,1,1,8,9
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,0,343,21,21,4,0,194,44
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,1,35,4,4,4,4,35,0
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,>60,0,30,2,2,2,0,16,150
+2015,9,Live Call,Chronic Non-Adherent,1,0,10-Aug,>60,1,22,3,3,3,3,24,216
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,0,64285,3405,3405,513,0,4,60673
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,1,14651,808,808,808,808,0,14349
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,0,58611,3158,3158,438,0,11,80859
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,1,10823,604,604,604,604,0,15442
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,0,82508,4605,4605,620,0,6,198631
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,1,17765,1080,1080,1080,1080,8,46427
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,0,79117,4367,4367,642,0,9,47047
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,1,20009,1138,1138,1138,1138,7,12186
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,0,278024,15881,15881,2522,0,56,23124
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,1,79830,4866,4866,4866,4866,17,7206
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,>60,0,32085,1875,1875,287,0,5,137936
+2015,9,Live Call,Chronic Non-Adherent,1,0,<=3,>60,1,7043,435,435,435,435,5,31782
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,15-21,0,1012,60,60,8,0,5184,1064
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,15-21,1,369,18,18,18,18,1326,307
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,22-30,0,959,48,48,8,0,3543,1225
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,22-30,1,180,13,13,13,13,905,326
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,31-60,0,1896,119,119,20,0,11843,5186
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,31-60,1,512,26,26,26,26,2203,1156
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,0,1660,80,80,9,0,5710,894
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,1,413,22,22,22,22,1979,263
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,<=7,0,8257,501,501,82,0,39049,567
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,<=7,1,2237,139,139,139,139,11402,120
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,>60,0,1006,51,51,5,0,4454,3733
+2015,9,Live Call,Chronic Non-Adherent,1,0,>10,>60,1,162,20,20,20,20,2720,1402
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,15-21,0,125,6,6,0,0,39,106
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,22-30,0,49,4,4,0,0,26,99
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,22-30,1,20,2,2,2,2,12,44
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,31-60,0,104,5,5,0,0,29,220
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,31-60,1,60,3,3,3,3,12,147
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,14-Aug,0,49,4,4,0,0,20,44
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,14-Aug,1,23,1,1,1,1,6,12
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,0,1267,65,65,7,0,368,55
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,1,150,8,8,8,8,42,3
+2015,9,Live Call,Chronic Non-Adherent,1,1,7-Apr,>60,0,18,1,1,0,0,4,84
+2015,9,Live Call,Chronic Non-Adherent,1,1,10-Aug,15-21,0,143,8,8,2,0,67,142
+2015,9,Live Call,Chronic Non-Adherent,1,1,10-Aug,22-30,0,33,3,3,0,0,26,72
+2015,9,Live Call,Chronic Non-Adherent,1,1,10-Aug,31-60,0,71,3,3,0,0,24,120
+2015,9,Live Call,Chronic Non-Adherent,1,1,10-Aug,14-Aug,0,29,2,2,0,0,16,27
+2015,9,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,0,691,32,32,1,0,289,31
+2015,9,Live Call,Chronic Non-Adherent,1,1,10-Aug,<=7,1,239,16,16,16,16,129,14
+2015,9,Live Call,Chronic Non-Adherent,1,1,10-Aug,>60,0,33,1,1,0,0,10,78
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,0,17353,950,950,131,0,1,16716
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,1,5260,288,288,288,288,0,5083
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,0,14167,785,785,113,0,0,19958
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,1,3162,198,198,198,198,0,5058
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,0,18923,1076,1076,149,0,0,46593
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,1,4146,257,257,257,257,9,11315
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,0,30670,1694,1694,256,0,6,17808
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,1,7291,421,421,421,421,0,4482
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,0,180517,10484,10484,1691,0,89,11112
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,1,49038,2982,2982,2982,2982,26,3086
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,>60,0,8654,481,481,72,0,5,36083
+2015,9,Live Call,Chronic Non-Adherent,1,1,<=3,>60,1,2011,119,119,119,119,0,8781
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,15-21,0,1169,59,59,9,0,3253,1015
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,15-21,1,126,11,11,11,11,786,193
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,22-30,0,434,26,26,2,0,1327,662
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,22-30,1,73,5,5,5,5,270,131
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,31-60,0,1074,55,55,15,0,2975,2332
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,31-60,1,178,14,14,14,14,810,529
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,0,1463,74,74,8,0,4227,780
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,1,472,27,27,27,27,1957,293
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,<=7,0,20135,1170,1170,185,0,87087,575
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,<=7,1,5222,306,306,306,306,23723,209
+2015,9,Live Call,Chronic Non-Adherent,1,1,>10,>60,0,97,6,6,0,0,564,441
+2015,10,IVR,Late to Refill,0,0,7-Apr,15-21,0,8,8,8,5,0,45,146
+2015,10,IVR,Late to Refill,0,0,7-Apr,15-21,1,2,2,2,2,2,8,31
+2015,10,IVR,Late to Refill,0,0,7-Apr,22-30,0,85,72,72,47,0,383,2152
+2015,10,IVR,Late to Refill,0,0,7-Apr,22-30,1,16,14,14,14,14,71,420
+2015,10,IVR,Late to Refill,0,0,7-Apr,31-60,0,33,31,31,14,0,163,1645
+2015,10,IVR,Late to Refill,0,0,7-Apr,31-60,1,6,5,5,5,5,23,252
+2015,10,IVR,Late to Refill,0,0,7-Apr,14-Aug,0,33,31,31,16,0,167,332
+2015,10,IVR,Late to Refill,0,0,7-Apr,14-Aug,1,5,4,4,4,4,20,35
+2015,10,IVR,Late to Refill,0,0,7-Apr,<=7,0,640,560,560,323,0,2991,3008
+2015,10,IVR,Late to Refill,0,0,7-Apr,<=7,1,135,117,117,117,117,614,622
+2015,10,IVR,Late to Refill,0,0,10-Aug,15-21,0,5,5,5,5,0,43,89
+2015,10,IVR,Late to Refill,0,0,10-Aug,15-21,1,1,1,1,1,1,9,16
+2015,10,IVR,Late to Refill,0,0,10-Aug,22-30,0,40,36,36,18,0,327,1064
+2015,10,IVR,Late to Refill,0,0,10-Aug,22-30,1,15,9,9,9,9,84,264
+2015,10,IVR,Late to Refill,0,0,10-Aug,31-60,0,30,29,29,6,0,260,1449
+2015,10,IVR,Late to Refill,0,0,10-Aug,31-60,1,6,6,6,6,6,57,298
+2015,10,IVR,Late to Refill,0,0,10-Aug,14-Aug,0,335,284,284,136,0,2522,2565
+2015,10,IVR,Late to Refill,0,0,10-Aug,14-Aug,1,40,34,34,34,34,309,312
+2015,10,IVR,Late to Refill,0,0,<=3,15-21,0,10,8,8,6,0,12,142
+2015,10,IVR,Late to Refill,0,0,<=3,15-21,1,1,1,1,1,1,1,15
+2015,10,IVR,Late to Refill,0,0,<=3,22-30,0,75,68,68,22,0,133,2039
+2015,10,IVR,Late to Refill,0,0,<=3,22-30,1,9,6,6,6,6,11,180
+2015,10,IVR,Late to Refill,0,0,<=3,31-60,0,43,39,39,15,0,77,2204
+2015,10,IVR,Late to Refill,0,0,<=3,31-60,1,5,5,5,5,5,12,295
+2015,10,IVR,Late to Refill,0,0,<=3,14-Aug,0,20,20,20,2,0,34,215
+2015,10,IVR,Late to Refill,0,0,<=3,14-Aug,1,6,6,6,6,6,9,74
+2015,10,IVR,Late to Refill,0,0,<=3,<=7,0,680,584,584,340,0,1091,1153
+2015,10,IVR,Late to Refill,0,0,<=3,<=7,1,134,112,112,108,112,189,231
+2015,10,IVR,Late to Refill,0,0,>10,15-21,0,399,364,364,192,0,6745,6458
+2015,10,IVR,Late to Refill,0,0,>10,15-21,1,112,94,94,94,94,1664,1660
+2015,10,IVR,Late to Refill,0,0,>10,22-30,0,609,540,540,243,0,13655,14839
+2015,10,IVR,Late to Refill,0,0,>10,22-30,1,137,110,110,108,110,2578,3010
+2015,10,IVR,Late to Refill,0,0,>10,31-60,0,1343,1142,1142,543,0,47780,54003
+2015,10,IVR,Late to Refill,0,0,>10,31-60,1,252,198,198,197,198,8372,9502
+2015,10,IVR,Late to Refill,0,0,>10,14-Aug,0,389,326,326,199,0,4962,4048
+2015,10,IVR,Late to Refill,0,0,>10,14-Aug,1,82,56,56,56,56,791,696
+2015,10,IVR,Late to Refill,0,0,>10,<=7,0,14,13,13,6,0,1175,58
+2015,10,IVR,Late to Refill,0,0,>10,<=7,1,2,2,2,2,2,153,5
+2015,10,IVR,Late to Refill,0,0,>10,>60,0,2921,2619,2619,1167,0,248263,227968
+2015,10,IVR,Late to Refill,0,0,>10,>60,1,696,550,550,548,550,52704,48138
+2015,10,IVR,Late to Refill,0,1,7-Apr,15-21,0,1,1,1,1,0,5,17
+2015,10,IVR,Late to Refill,0,1,7-Apr,15-21,1,1,1,1,1,1,7,16
+2015,10,IVR,Late to Refill,0,1,7-Apr,22-30,0,7,5,5,2,0,27,150
+2015,10,IVR,Late to Refill,0,1,7-Apr,22-30,1,1,1,1,1,1,6,30
+2015,10,IVR,Late to Refill,0,1,7-Apr,31-60,0,3,3,3,0,0,17,180
+2015,10,IVR,Late to Refill,0,1,7-Apr,<=7,0,40,36,36,20,0,191,194
+2015,10,IVR,Late to Refill,0,1,7-Apr,<=7,1,4,4,4,4,4,21,21
+2015,10,IVR,Late to Refill,0,1,10-Aug,22-30,0,2,2,2,0,0,16,60
+2015,10,IVR,Late to Refill,0,1,10-Aug,14-Aug,0,35,32,32,9,0,279,288
+2015,10,IVR,Late to Refill,0,1,10-Aug,14-Aug,1,4,3,3,3,3,28,28
+2015,10,IVR,Late to Refill,0,1,<=3,22-30,0,8,8,8,1,0,12,236
+2015,10,IVR,Late to Refill,0,1,<=3,<=7,0,69,60,60,32,0,122,131
+2015,10,IVR,Late to Refill,0,1,<=3,<=7,1,6,6,6,6,6,11,19
+2015,10,IVR,Late to Refill,0,1,>10,15-21,0,41,37,37,21,0,648,654
+2015,10,IVR,Late to Refill,0,1,>10,15-21,1,3,2,2,2,2,36,36
+2015,10,IVR,Late to Refill,0,1,>10,22-30,0,32,31,31,10,0,772,842
+2015,10,IVR,Late to Refill,0,1,>10,22-30,1,9,8,8,8,8,206,206
+2015,10,IVR,Late to Refill,0,1,>10,31-60,0,46,43,43,25,0,1845,2005
+2015,10,IVR,Late to Refill,0,1,>10,31-60,1,11,9,9,9,9,418,392
+2015,10,IVR,Late to Refill,0,1,>10,14-Aug,0,35,30,30,14,0,549,365
+2015,10,IVR,Late to Refill,0,1,>10,14-Aug,1,6,6,6,6,6,82,82
+2015,10,IVR,Late to Refill,0,1,>10,<=7,0,1,1,1,0,0,46,4
+2015,10,IVR,Late to Refill,0,1,>10,>60,0,470,413,413,174,0,34864,33536
+2015,10,IVR,Late to Refill,0,1,>10,>60,1,105,88,88,86,88,7257,7030
+2015,10,IVR,Chronic Non-Adherent,0,0,,,,,11110,0,,,,
+2015,10,IVR,Chronic Non-Adherent,0,0,7-Apr,31-60,0,1,1,1,0,0,5,54
+2015,10,IVR,Chronic Non-Adherent,0,0,7-Apr,14-Aug,0,2,2,2,2,0,14,26
+2015,10,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,0,1,1,1,0,0,4,6
+2015,10,IVR,Chronic Non-Adherent,0,0,7-Apr,<=7,1,2,2,2,1,2,10,0
+2015,10,IVR,Chronic Non-Adherent,0,0,10-Aug,22-30,1,2,2,2,2,2,16,44
+2015,10,IVR,Chronic Non-Adherent,0,0,10-Aug,<=7,0,3,2,2,1,0,18,0
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,15-21,0,321,188,188,86,0,2,3388
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,15-21,1,58,54,54,52,54,0,949
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,22-30,0,212,204,204,66,0,2,5394
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,22-30,1,67,56,56,55,56,0,1435
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,31-60,0,521,475,475,177,0,1,19477
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,31-60,1,126,88,88,87,88,0,3924
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,0,400,288,288,121,0,12,3156
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,14-Aug,1,245,78,78,78,78,0,808
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,<=7,0,3172,2685,2685,1315,0,7,6038
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,<=7,1,672,562,562,557,562,3,937
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,>60,0,204,194,194,79,0,0,14380
+2015,10,IVR,Chronic Non-Adherent,0,0,<=3,>60,1,68,63,63,63,63,0,4680
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,15-21,0,3,3,3,1,0,302,60
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,22-30,0,8,8,8,2,0,739,213
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,22-30,1,4,4,4,4,4,341,116
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,31-60,0,5,5,5,1,0,520,216
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,31-60,1,3,3,3,3,3,272,159
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,14-Aug,0,5,5,5,1,0,166,55
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,<=7,0,56,47,47,17,0,3340,93
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,<=7,1,16,15,15,15,15,1393,24
+2015,10,IVR,Chronic Non-Adherent,0,0,>10,>60,0,6,4,4,2,0,374,296
+2015,10,IVR,Chronic Non-Adherent,0,1,,,,,22170,0,,,,
+2015,10,IVR,Chronic Non-Adherent,0,1,7-Apr,15-21,0,2,2,2,0,0,8,42
+2015,10,IVR,Chronic Non-Adherent,0,1,7-Apr,31-60,0,1,1,1,0,0,7,52
+2015,10,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,0,19,19,19,11,0,102,1
+2015,10,IVR,Chronic Non-Adherent,0,1,7-Apr,<=7,1,2,2,2,2,2,13,4
+2015,10,IVR,Chronic Non-Adherent,0,1,10-Aug,14-Aug,0,5,3,3,2,0,25,32
+2015,10,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,0,7,4,4,4,0,35,0
+2015,10,IVR,Chronic Non-Adherent,0,1,10-Aug,<=7,1,1,1,1,1,1,9,2
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,15-21,0,405,355,355,184,0,4,6396
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,15-21,1,111,74,74,73,74,0,1319
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,22-30,0,304,242,242,114,0,0,6169
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,22-30,1,94,70,70,70,70,3,1806
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,31-60,0,426,356,356,159,0,0,15223
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,31-60,1,96,82,82,80,82,0,3564
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,0,589,514,514,268,0,0,5604
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,14-Aug,1,137,114,114,112,114,0,1217
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,<=7,0,3441,2966,2966,1503,0,13,2791
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,<=7,1,763,637,637,632,637,1,531
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,>60,0,179,145,145,73,0,2,10943
+2015,10,IVR,Chronic Non-Adherent,0,1,<=3,>60,1,32,26,26,25,26,0,1901
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,15-21,0,11,10,10,5,0,638,177
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,15-21,1,1,1,1,1,1,106,20
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,22-30,0,20,17,17,7,0,902,446
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,22-30,1,3,2,2,2,2,128,56
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,31-60,0,19,13,13,11,0,831,562
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,31-60,1,2,2,2,2,2,124,79
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,0,24,21,21,5,0,1324,227
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,14-Aug,1,1,1,1,0,1,75,12
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,<=7,0,444,355,355,192,0,25227,211
+2015,10,IVR,Chronic Non-Adherent,0,1,>10,<=7,1,62,51,51,49,51,3333,37
+2015,10,Live Call,Late to Refill,1,0,7-Apr,22-30,0,10,3,3,1,0,15,90
+2015,10,Live Call,Late to Refill,1,0,7-Apr,22-30,1,62,7,7,7,7,31,210
+2015,10,Live Call,Late to Refill,1,0,7-Apr,31-60,0,8,1,1,1,0,7,60
+2015,10,Live Call,Late to Refill,1,0,7-Apr,31-60,1,28,4,4,4,4,28,240
+2015,10,Live Call,Late to Refill,1,0,7-Apr,14-Aug,1,15,2,2,2,2,12,21
+2015,10,Live Call,Late to Refill,1,0,7-Apr,<=7,0,122,16,16,12,0,87,88
+2015,10,Live Call,Late to Refill,1,0,7-Apr,<=7,1,46,9,9,9,9,51,51
+2015,10,Live Call,Late to Refill,1,0,10-Aug,15-21,0,2,2,2,0,0,16,34
+2015,10,Live Call,Late to Refill,1,0,10-Aug,22-30,0,8,2,2,1,0,19,60
+2015,10,Live Call,Late to Refill,1,0,10-Aug,22-30,1,10,1,1,1,1,9,30
+2015,10,Live Call,Late to Refill,1,0,10-Aug,31-60,0,26,3,3,2,0,28,157
+2015,10,Live Call,Late to Refill,1,0,10-Aug,14-Aug,0,11,2,2,1,0,18,18
+2015,10,Live Call,Late to Refill,1,0,10-Aug,14-Aug,1,90,11,11,11,11,99,99
+2015,10,Live Call,Late to Refill,1,0,<=3,15-21,0,1,1,1,0,0,3,17
+2015,10,Live Call,Late to Refill,1,0,<=3,22-30,0,3,1,1,0,0,1,30
+2015,10,Live Call,Late to Refill,1,0,<=3,22-30,1,18,2,2,2,2,6,60
+2015,10,Live Call,Late to Refill,1,0,<=3,31-60,0,11,2,2,1,0,4,120
+2015,10,Live Call,Late to Refill,1,0,<=3,31-60,1,14,2,2,2,2,4,64
+2015,10,Live Call,Late to Refill,1,0,<=3,14-Aug,1,7,1,1,1,1,2,9
+2015,10,Live Call,Late to Refill,1,0,<=3,<=7,0,47,8,8,3,0,11,15
+2015,10,Live Call,Late to Refill,1,0,<=3,<=7,1,73,17,17,17,17,29,38
+2015,10,Live Call,Late to Refill,1,0,>10,15-21,0,81,12,12,8,0,198,213
+2015,10,Live Call,Late to Refill,1,0,>10,15-21,1,60,14,14,14,14,248,256
+2015,10,Live Call,Late to Refill,1,0,>10,22-30,0,102,16,16,11,0,487,457
+2015,10,Live Call,Late to Refill,1,0,>10,22-30,1,76,15,15,15,15,428,405
+2015,10,Live Call,Late to Refill,1,0,>10,31-60,0,175,24,24,17,0,876,1188
+2015,10,Live Call,Late to Refill,1,0,>10,31-60,1,321,39,39,39,39,1720,1924
+2015,10,Live Call,Late to Refill,1,0,>10,14-Aug,0,58,9,9,9,0,140,110
+2015,10,Live Call,Late to Refill,1,0,>10,14-Aug,1,28,9,9,9,9,112,112
+2015,10,Live Call,Late to Refill,1,0,>10,>60,0,656,111,111,61,0,10168,9437
+2015,10,Live Call,Late to Refill,1,0,>10,>60,1,488,82,82,82,82,7688,7049
+2015,10,Live Call,Late to Refill,1,1,7-Apr,31-60,0,7,1,1,1,0,4,60
+2015,10,Live Call,Late to Refill,1,1,<=3,15-21,0,1,1,1,1,0,1,15
+2015,10,Live Call,Late to Refill,1,1,<=3,22-30,1,7,1,1,1,1,2,30
+2015,10,Live Call,Late to Refill,1,1,<=3,<=7,0,11,1,1,1,0,1,1
+2015,10,Live Call,Late to Refill,1,1,<=3,<=7,1,43,5,5,5,5,9,9
+2015,10,Live Call,Late to Refill,1,1,>10,15-21,1,8,1,1,1,1,21,21
+2015,10,Live Call,Late to Refill,1,1,>10,22-30,0,11,1,1,1,0,29,29
+2015,10,Live Call,Late to Refill,1,1,>10,22-30,1,24,3,3,3,3,67,78
+2015,10,Live Call,Late to Refill,1,1,>10,31-60,0,7,1,1,0,0,57,57
+2015,10,Live Call,Late to Refill,1,1,>10,31-60,1,9,1,1,1,1,21,60
+2015,10,Live Call,Late to Refill,1,1,>10,14-Aug,0,8,1,1,0,0,11,11
+2015,10,Live Call,Late to Refill,1,1,>10,14-Aug,1,9,1,1,1,1,13,13
+2015,10,Live Call,Late to Refill,1,1,>10,>60,0,143,24,24,12,0,2007,1892
+2015,10,Live Call,Late to Refill,1,1,>10,>60,1,123,16,16,16,16,1351,1330
+2015,10,Live Call,Chronic Non-Adherent,0,0,,,,,36940,0,,,,
+2015,10,Live Call,Chronic Non-Adherent,0,1,,,,,12673,0,,,,
+2015,10,Live Call,Chronic Non-Adherent,1,0,10-Aug,22-30,0,7,1,1,0,0,10,29
+2015,10,Live Call,Chronic Non-Adherent,1,0,10-Aug,<=7,1,-2,1,1,1,1,9,0
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,0,300,62,62,29,0,0,1090
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,15-21,1,71,18,18,18,18,0,314
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,0,337,58,58,30,0,0,1481
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,22-30,1,140,30,30,30,30,0,771
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,0,556,103,103,43,0,0,4369
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,31-60,1,347,65,65,65,65,0,2809
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,0,371,71,71,27,0,3,748
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,14-Aug,1,401,58,58,58,58,0,649
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,0,1034,172,172,89,0,0,296
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,<=7,1,1316,198,198,198,198,0,333
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,>60,0,320,47,47,26,0,0,3563
+2015,10,Live Call,Chronic Non-Adherent,1,0,<=3,>60,1,181,27,27,27,27,0,2007
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,15-21,0,3,1,1,0,0,106,18
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,22-30,0,5,1,1,0,0,96,27
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,31-60,0,33,5,5,2,0,338,177
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,31-60,1,10,1,1,1,1,29,54
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,14-Aug,0,11,3,3,2,0,226,32
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,<=7,0,21,3,3,2,0,212,0
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,<=7,1,73,8,8,8,8,505,0
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,>60,0,9,1,1,1,0,100,68
+2015,10,Live Call,Chronic Non-Adherent,1,0,>10,>60,1,8,1,1,1,1,101,70
+2015,10,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,0,3,1,1,0,0,6,0
+2015,10,Live Call,Chronic Non-Adherent,1,1,7-Apr,<=7,1,-8,1,1,1,1,5,0
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,0,145,22,22,11,0,0,381
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,15-21,1,68,11,11,11,11,0,194
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,0,109,19,19,8,0,0,481
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,22-30,1,35,5,5,5,5,0,123
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,0,105,19,19,6,0,0,824
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,31-60,1,103,14,14,14,14,0,669
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,0,53,11,11,5,0,0,108
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,14-Aug,1,169,24,24,24,24,0,234
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,0,734,122,122,68,0,0,139
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,<=7,1,635,112,112,112,112,0,162
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,>60,0,54,9,9,5,0,0,646
+2015,10,Live Call,Chronic Non-Adherent,1,1,<=3,>60,1,45,7,7,7,7,0,520
+2015,10,Live Call,Chronic Non-Adherent,1,1,>10,15-21,0,7,1,1,0,0,49,18
+2015,10,Live Call,Chronic Non-Adherent,1,1,>10,15-21,1,6,1,1,1,1,16,20
+2015,10,Live Call,Chronic Non-Adherent,1,1,>10,31-60,1,27,3,3,3,3,300,111
+2015,10,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,0,18,2,2,2,0,32,18
+2015,10,Live Call,Chronic Non-Adherent,1,1,>10,14-Aug,1,20,3,3,3,3,169,30
+2015,10,Live Call,Chronic Non-Adherent,1,1,>10,<=7,0,97,12,12,10,0,845,0
+2015,10,Live Call,Chronic Non-Adherent,1,1,>10,<=7,1,105,14,14,14,14,1201,7
+2015,10,Live Call,Chronic Non-Adherent,1,1,>10,>60,1,7,1,1,1,1,14,70
+2015,11,IVR,Chronic Non-Adherent,0,0,,,,,11218,0,,,,
+2015,11,IVR,Chronic Non-Adherent,0,1,,,,,7899,0,,,,
+2015,11,Live Call,Chronic Non-Adherent,0,0,,,,,8270,0,,,,
+2015,11,Live Call,Chronic Non-Adherent,0,1,,,,,2771,0,,,,
+2015,12,IVR,Chronic Non-Adherent,0,0,,,,,7937,0,,,,
+2015,12,IVR,Chronic Non-Adherent,0,1,,,,,3696,0,,,,
+2015,12,Live Call,Chronic Non-Adherent,0,0,,,,,13021,0,,,,
+2015,12,Live Call,Chronic Non-Adherent,0,1,,,,,5095,0,,,,
