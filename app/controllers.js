@@ -630,6 +630,7 @@ controllers.controller('gapController', function($scope, gapDataService, contrac
       vertStackedBarChart(data.line, '#gap-bar-chart');
 	  $scope.$apply(function () {
 		$scope.selected.contract = options.contract;
+		console.log($scope.selected);
 	  });  
     });
   };

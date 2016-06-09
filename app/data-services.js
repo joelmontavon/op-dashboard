@@ -1048,6 +1048,7 @@ services.factory("gapDataService", ["queryCSV",
             groupBy: ['contract', 'contract_name']
           });
         }).then(function (result){
+			console.log(data);
           data.scores = result;
           return queryCSV({
             from: [{
@@ -1070,6 +1071,7 @@ services.factory("gapDataService", ["queryCSV",
             }
           });
         }).then(function (result){
+		console.log(data);
           data.table1 = result;
           return queryCSV({
             select: [
@@ -1139,6 +1141,7 @@ services.factory("gapDataService", ["queryCSV",
 			  });
           }).then(function(result){
 			  data.members = result;
+
 			  return queryCSV({
 				select: [
 				  {srcProp: 'members', method: 'sumIf', destProp: 'den', condition: function (item) {
