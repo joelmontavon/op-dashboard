@@ -1,550 +1,745 @@
 legacy,region,contract,contract_name,consolidated_contact,consolidated_contract_name,state,program,script,live_call,drug_category,adherent,targeted,outreached,reached,engaged,members
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,AZ,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,CA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,CA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,CA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,CA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,CA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,CO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,FL,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,133
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,Diabetes,0,1,1,0,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,91
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,66
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,150
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,Diabetes,1,1,1,0,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,149
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,118
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,385
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,1,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,293
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,214
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,346
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,362
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,245
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,440
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,1,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,419
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,272
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,472
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,445
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,345
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,182
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,135
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,75
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,106
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,327
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,481
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,431
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,525
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,511
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,358
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,239
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,321
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,837
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1395
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,1,5
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1248
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1529
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,671
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,456
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,1,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,316
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,427
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,932
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1493
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,1,6
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1339
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1650
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,77
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,Diabetes,0,1,1,1,0,14
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,41
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,68
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,9
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,32
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,212
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,37
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,103
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,122
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,18
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,63
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,279
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,55
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,143
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,136
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,18
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,56
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,77
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,98
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,238
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,210
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,338
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,229
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,81
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,10
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,55
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,294
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,47
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,143
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,226
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,43
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,110
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,682
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,120
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,362
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,307
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,53
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,125
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,690
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,129
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,363
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,ID,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,ID,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,ID,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KS,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KS,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KS,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KS,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KS,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KS,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KS,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KY,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KY,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KY,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,KY,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,MN,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,4
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NE,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NV,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NV,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NV,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,NV,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,OK,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,OK,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,OK,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,OK,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,OK,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SC,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SC,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SC,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,8
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,11
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,6
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,8
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,29
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,9
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,9
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,18
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,9
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,11
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,22
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,16
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,12
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,22
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,24
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,15
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,13
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,8
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,5
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,10
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,15
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,29
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,28
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,27
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,34
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,22
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,11
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,10
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,44
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,71
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,66
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,77
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,30
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,22
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,14
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,20
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,46
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,79
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,59
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,65
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,4
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,11
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,4
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,5
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,12
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,4
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,6
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,9
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,10
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,18
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,9
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,15
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,16
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,6
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,16
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,4
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,10
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,15
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,10
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,46
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,9
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,20
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,11
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,2
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,10
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,42
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,6
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,11
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,3
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,TX,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,U,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,U,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,U,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,WA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,WA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,WA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
-N/A,NATIONAL,H1234,Health Plan 1,H1234,,WI,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AR,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AR,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AR,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AR,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AR,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AR,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AR,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AR,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,AL,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,AL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,AL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,28
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,11
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,13
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,21
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,10
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,13
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,52
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,1,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,40
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,30
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,55
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,1,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,40
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,44
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,62
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,35
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,28
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,45
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,46
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,44
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,17
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,29
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,13
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,23
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,28
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,63
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,36
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,68
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,76
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,51
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,23
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,65
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,81
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,180
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,123
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,198
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,90
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,67
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,1,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,52
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,66
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,75
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,160
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,1,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,124
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,176
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,17
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,Diabetes,0,1,1,1,0,2
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,4
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,11
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,5
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,23
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,3
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,15
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,19
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,8
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,40
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,7
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,16
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,14
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,4
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,9
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,22
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,33
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,56
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,71
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,91
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,54
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,18
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,4
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,7
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,43
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,8
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,11
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,37
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,2
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,14
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,91
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,18
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,40
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,51
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,8
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,19
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,70
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,14
+N/A,SOUTH,H1234,Health Plan 1,H1234,,GA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,34
+N/A,SOUTH,H1234,Health Plan 1,H1234,,NC,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
+N/A,SOUTH,H1234,Health Plan 1,H1234,,NC,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,2
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,CA,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,AZ,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,CA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,CA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,CA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,CA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,CA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,CO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,FL,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,57
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,31
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,29
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,66
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,Diabetes,1,1,1,0,1,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,58
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,57
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,168
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,133
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,94
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,161
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,134
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,106
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,200
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,172
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,134
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,188
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,1,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,158
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,157
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,46
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,71
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,1,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,32
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,61
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,107
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,264
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,1,3
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,221
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,341
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,191
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,177
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,114
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,197
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,317
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,786
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,1,5
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,706
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,920
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,258
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,237
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,142
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,239
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,339
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,783
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,1,6
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,717
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1001
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,68
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,Diabetes,0,1,1,1,0,8
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,20
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,54
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,14
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,17
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,175
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,23
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,58
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,89
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,18
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,43
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,229
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,43
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,58
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,111
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,12
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,40
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,93
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,164
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,240
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,358
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,309
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,350
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,69
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,11
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,26
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,329
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,33
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,126
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,153
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,28
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,68
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,781
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,113
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,281
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,187
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,29
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,77
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,793
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,117
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,310
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IN,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IN,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IN,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IN,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,IN,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MI,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,251
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,Diabetes,0,1,1,0,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,165
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,121
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,213
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,Diabetes,1,1,1,0,1,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,181
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,155
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,664
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,567
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,383
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,601
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,1,4
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,563
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,396
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,806
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,1,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,753
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,461
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,666
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,676
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,419
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,289
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,236
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,142
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,247
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,498
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,786
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,1,4
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,670
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,872
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,1048
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,662
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,1,4
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,387
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,623
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1433
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,2064
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,1,12
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1949
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,2383
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1207
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,808
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,1,5
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,531
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,784
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1374
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1945
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,1,9
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1875
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,2254
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,243
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,Diabetes,0,1,1,1,0,16
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,89
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,141
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,23
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,44
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,659
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,116
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,249
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,274
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,36
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,84
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,784
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,127
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,256
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,236
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,37
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,121
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,347
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,459
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,938
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1044
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1186
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,930
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,251
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,38
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,102
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,653
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,119
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,252
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,565
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,81
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,232
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1547
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,297
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,606
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,658
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,103
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,244
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1401
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,259
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,609
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,NJ,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,NJ,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,NM,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,NM,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,NV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,OH,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,GA,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,GA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,133
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,Diabetes,0,1,1,0,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,91
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,66
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,150
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,Diabetes,1,1,1,0,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,149
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,118
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,385
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,1,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,293
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,214
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,346
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,362
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,245
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,440
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,1,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,419
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,272
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,472
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,445
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,345
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,182
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,135
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,75
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,106
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,327
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,481
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,431
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,525
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,511
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,358
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,239
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,321
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,837
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1395
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,1,5
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1248
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1529
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,671
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,456
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,1,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,316
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,427
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,932
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1493
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,1,6
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1339
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1650
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,77
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,Diabetes,0,1,1,1,0,14
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,41
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,68
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,9
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,32
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,212
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,37
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,103
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,122
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,18
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,63
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,279
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,55
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,143
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,136
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,18
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,56
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,77
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,98
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,238
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,210
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,338
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,229
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,81
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,10
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,55
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,294
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,47
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,143
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,226
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,43
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,110
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,682
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,120
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,362
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,307
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,53
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,125
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,690
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,129
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,363
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,ID,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,ID,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,ID,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KS,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KY,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KY,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KY,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,KY,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,MN,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,4
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NE,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NV,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NV,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NV,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,NV,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,OK,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,OR,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,PA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,SC,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,TN,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,TN,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SC,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SC,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SC,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,8
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,11
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,6
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,8
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,29
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,9
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,9
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,18
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,9
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,11
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,22
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,16
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,12
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,22
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,24
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,15
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,13
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,8
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,5
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,10
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,15
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,29
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,28
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,27
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,34
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,22
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,11
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,10
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,44
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,71
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,66
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,77
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,30
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,22
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,14
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,20
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,46
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,79
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,59
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,65
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,4
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,11
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,4
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,5
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,12
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,4
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,6
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,9
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,10
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,18
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,9
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,15
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,16
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,6
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,16
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,4
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,10
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,15
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,10
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,46
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,9
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,20
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,11
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,10
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,42
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,6
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,SD,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,11
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,2
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,3
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,1
 N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,UT,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,UT,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WI,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WI,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WI,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WI,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WI,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WI,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,1
-N/A,MID-WEST,H2345,Health Plan 2,H2345,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,2
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,TX,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,U,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,U,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,U,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,WA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,WA,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,WA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H2345,Health Plan 2,H2345,,WI,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AR,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AR,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AR,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AR,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AR,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AR,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AR,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AR,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AZ,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,AZ,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,CA,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,FL,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,57
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,31
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,29
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,66
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,Diabetes,1,1,1,0,1,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,58
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,57
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,168
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,133
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,94
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,161
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,134
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,106
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,200
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,172
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,134
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,188
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,1,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,158
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,157
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,46
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,71
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,1,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,32
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,61
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,107
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,264
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,1,3
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,221
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,341
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,191
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,177
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,114
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,197
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,317
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,786
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,1,5
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,706
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,920
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,258
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,237
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,142
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,239
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,339
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,783
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,1,6
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,717
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1001
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,68
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,Diabetes,0,1,1,1,0,8
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,20
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,54
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,14
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,17
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,175
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,23
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,58
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,89
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,18
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,43
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,229
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,43
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,58
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,111
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,12
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,40
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,93
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,164
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,240
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,358
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,309
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,350
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,69
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,11
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,26
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,329
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,33
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,126
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,153
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,28
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,68
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,781
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,113
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,281
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,187
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,29
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,77
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,793
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,117
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IL,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,310
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IN,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IN,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IN,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IN,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,IN,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,KS,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,KS,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,KS,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MI,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,251
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,Diabetes,0,1,1,0,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,165
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,121
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,213
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,Diabetes,1,1,1,0,1,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,181
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,155
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,664
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,567
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,383
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,601
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,1,4
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,563
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,396
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,806
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,1,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,753
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,461
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,666
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,676
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,419
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,289
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,236
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,142
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,247
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,498
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,786
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,1,4
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,670
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,872
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,1048
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,662
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,1,4
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,387
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,623
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1433
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,2064
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,1,12
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1949
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,2383
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1207
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,808
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,1,5
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,531
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,784
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1374
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1945
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,1,9
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1875
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,2254
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,243
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,Diabetes,0,1,1,1,0,16
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,89
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,141
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,Diabetes,1,1,1,1,0,23
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,44
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,659
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,116
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,249
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,274
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,0,36
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,84
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,784
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,127
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,256
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,236
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,37
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,121
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,347
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,459
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,938
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1044
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1186
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,930
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,251
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,38
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,102
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,653
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,119
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,252
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,565
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,81
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,232
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1547
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,297
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,606
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,658
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,103
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,244
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1401
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,259
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,MO,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,609
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,NJ,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,NJ,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,NM,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,NM,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,NV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OH,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OK,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OK,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OK,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OK,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OK,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OK,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OK,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,OR,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,PA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,SC,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TN,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TN,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,2
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,TX,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,UT,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,UT,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WA,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WA,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WI,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WI,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WI,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WI,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WI,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WI,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,1
+N/A,MID-WEST,H4567,Health Plan 4,H4567,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,2
+N/A,NORTH,H3456,Health Plan 3,H3456,,AL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,AL,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,FL,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,IN,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,OH,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,OH,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,OH,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,OH,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,SC,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WA,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WA,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WA,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WA,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,Diabetes,0,1,1,0,0,21
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,Diabetes,0,1,1,1,0,12
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,Diabetes,0,1,1,1,1,13
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,Diabetes,1,1,1,0,0,19
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,Diabetes,1,1,1,1,0,12
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,Diabetes,1,1,1,1,1,14
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Blood Pressure,0,1,1,0,0,31
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,0,39
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Blood Pressure,0,1,1,1,1,36
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,0,43
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Blood Pressure,1,1,1,0,1,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,0,33
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Blood Pressure,1,1,1,1,1,34
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,0,63
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Cholesterol,0,1,1,0,1,2
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,0,48
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Cholesterol,0,1,1,1,1,42
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Cholesterol,1,1,1,0,0,45
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,0,35
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Late to Refill,0,High Cholesterol,1,1,1,1,1,30
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,0,1,0,,,37
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,0,0,28
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,0,12
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,0,1,1,1,1,19
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,1,1,0,,,75
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,0,46
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,0,1,3
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,0,50
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,Diabetes,1,1,1,1,1,68
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,115
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,0,0,43
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,0,24
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,0,1,1,1,1,61
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,196
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,0,153
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,0,1,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,0,132
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Blood Pressure,1,1,1,1,1,248
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,144
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,0,64
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,0,1,2
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,0,40
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,0,1,1,1,1,69
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,211
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,0,130
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,0,1,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,0,101
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,IVR,Chronic Non-Adherent,0,High Cholesterol,1,1,1,1,1,206
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,Diabetes,0,1,1,0,0,19
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,Diabetes,0,1,1,1,0,4
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,Diabetes,0,1,1,1,1,8
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,Diabetes,1,1,1,0,0,15
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,Diabetes,1,1,1,1,1,8
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,0,0,52
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,0,3
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Blood Pressure,0,1,1,1,1,14
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,0,0,22
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Blood Pressure,1,1,1,1,1,15
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Cholesterol,0,1,1,0,0,56
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,0,4
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Cholesterol,0,1,1,1,1,21
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Cholesterol,1,1,1,0,0,16
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Late to Refill,1,High Cholesterol,1,1,1,1,1,15
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,0,Diabetes,0,1,0,,,14
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,0,Diabetes,1,1,0,,,2
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,0,High Blood Pressure,0,1,0,,,17
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,0,High Blood Pressure,1,1,0,,,6
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,0,High Cholesterol,0,1,0,,,28
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,0,High Cholesterol,1,1,0,,,4
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,0,0,24
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,0,1
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,Diabetes,0,1,1,1,1,11
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,0,0,57
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,0,7
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,Diabetes,1,1,1,1,1,22
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,0,0,48
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,0,4
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Blood Pressure,0,1,1,1,1,15
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,0,0,124
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,0,17
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Blood Pressure,1,1,1,1,1,51
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,0,0,60
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,0,7
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Cholesterol,0,1,1,1,1,25
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,0,0,119
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,0,16
+N/A,NORTH,H3456,Health Plan 3,H3456,,WV,Live Call,Chronic Non-Adherent,1,High Cholesterol,1,1,1,1,1,43
